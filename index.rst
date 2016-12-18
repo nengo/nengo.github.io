@@ -48,3 +48,8 @@ for details).
    .. raw:: html
 
       <iframe width="100%" height="400" src="https://www.youtube.com/embed/K-o-MJJY7ss?list=PLYLu6sY3jnoVgeFX4GMFaECP_y1aAKxHE" frameborder="0" allowfullscreen></iframe>
+
+.. toctree::
+   :maxdepth: 2
+
+   contributing
