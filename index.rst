@@ -53,3 +53,4 @@ for details).
    :maxdepth: 2
 
    contributing
+   maintainers
