@@ -54,7 +54,7 @@ but more importantly,
 it can be rude and disruptive
 to half-participate in a conversation.
 This isn't to say you shouldn't help,
-offer advice, or join conversations—on the contrary,
+offer advice, or join conversations---on the contrary,
 we encourage all those things.
 Rather, it means that when you want to
 help out or work with others,
@@ -162,7 +162,7 @@ While the reviewer must do their best
 to be constructive in their feedback,
 so must the reader do their best
 to read a comment as attempting to be constructive
-and not personally critical—as hard as this may be
+and not personally critical---as hard as this may be
 when you are passionate about what you do.
 Assume that the reviewer is trying to help
 and is not trying to make you feel bad.
