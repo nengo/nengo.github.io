@@ -5,7 +5,7 @@ How we use git
 Development happens on `Github <https://github.com/nengo>`_.
 Feel free to fork any of our repositories and send a pull request!
 However, note that we ask contributors to sign
-:ref:`an assignment agreement <caa>`.
+:ref:`an assignment agreement <Nengo Contributor Assignment Agreement>`.
 
 Rules
 -----

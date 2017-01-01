@@ -9,3 +9,4 @@ Contributing to Nengo
    style
    git
    reviewing
+   caa

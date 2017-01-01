@@ -4,11 +4,14 @@ from datetime import datetime
 
 import guzzle_sphinx_theme
 
-extensions = ["sphinx.ext.intersphinx",
-              "sphinx.ext.todo",
-              "sphinx.ext.mathjax",
-              "sphinx.ext.githubpages",
-              "guzzle_sphinx_theme"]
+extensions = [
+    "sphinx.ext.autosectionlabel",
+    "sphinx.ext.githubpages",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.mathjax",
+    "sphinx.ext.todo",
+    "guzzle_sphinx_theme",
+]
 
 source_suffix = ".rst"
 master_doc = "index"
