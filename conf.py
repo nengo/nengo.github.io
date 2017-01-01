@@ -29,7 +29,7 @@ intersphinx_mapping = {
 # HTML theming
 pygments_style = "sphinx"
 templates_path = ["_templates"]
-html_static_path = ["_static"]
+html_static_path = []
 
 html_theme_path = guzzle_sphinx_theme.html_theme_path()
 html_theme = "guzzle_sphinx_theme"
