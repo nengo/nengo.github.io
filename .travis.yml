@@ -1,8 +1,5 @@
 language: python
 python: 3.5
-branches:
-  only:
-    - src
 
 install:
   - pip install -r requirements.txt
@@ -11,6 +8,8 @@ script:
   - sphinx-build . _build
 
 after_success:
-  - export DATE=$(date '+%Y-%m-%d %T')
-  - ghp-import -m "Last update at $DATE" -b master _build
-  - git push -fq "https://$GH_TOKEN@github.com/nengo/nengo.github.io.git" master
+  - if [[ $TRAVIS_BRANCH == 'src' ]]; then
+      export DATE=$(date '+%Y-%m-%d %T');
+      ghp-import -m "Last update at $DATE" -b master _build;
+      git push -fq "https://$GH_TOKEN@github.com/nengo/nengo.github.io.git" master;
+    fi
