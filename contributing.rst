@@ -6,3 +6,4 @@ Contributing to Nengo
    :maxdepth: 2
 
    conduct
+   style
