@@ -7,3 +7,4 @@ Contributing to Nengo
 
    conduct
    style
+   git
