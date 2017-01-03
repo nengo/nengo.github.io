@@ -13,8 +13,8 @@ Applied Brain Research ("We" or "Us").
 This contributor agreement (the "Agreement") documents the rights
 granted by contributors to Us.
 
-By adding your name to the CONTRIBUTORS.rst file at
-<https://github.com/nengo/nengo/blob/master/CONTRIBUTORS.rst>
+By adding your name to the ``people.rst`` file at
+<https://github.com/nengo/nengo.github.io/blob/master/people.rst>
 you are agreeing to be bound by the Agreement in full.
 
 You agree to inform Us in the relevant pull request(s) if You do not own

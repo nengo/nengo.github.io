@@ -56,4 +56,5 @@ for details).
    users
    contributing
    maintainers
+   people
    README

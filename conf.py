@@ -20,7 +20,7 @@ extensions = [
 suppress_warnings = ['image.nonlocal_uri']
 source_suffix = ".rst"
 master_doc = "index"
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "_records/*.rst"]
 suppress_warnings = ['image.nonlocal_uri']
 
 project = "Nengo"
