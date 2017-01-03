@@ -54,3 +54,4 @@ for details).
 
    contributing
    maintainers
+   README
