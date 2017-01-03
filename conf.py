@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 
 from datetime import datetime
+import os
+import sys
 
 import guzzle_sphinx_theme
 
+sys.path.extend(os.path.dirname(__file__))
 extensions = [
     "sphinx.ext.autosectionlabel",
     "sphinx.ext.githubpages",
@@ -11,12 +14,14 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.todo",
     "guzzle_sphinx_theme",
+    "custom",  # Loaded from the current directory
 ]
 
 suppress_warnings = ['image.nonlocal_uri']
 source_suffix = ".rst"
 master_doc = "index"
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+suppress_warnings = ['image.nonlocal_uri']
 
 project = "Nengo"
 copyright = "2016, Applied Brain Research"
@@ -33,7 +38,7 @@ intersphinx_mapping = {
 # HTML theming
 pygments_style = "sphinx"
 templates_path = ["_templates"]
-html_static_path = []
+html_static_path = ["_static"]
 html_use_smartypants = True
 
 html_theme_path = guzzle_sphinx_theme.html_theme_path()

@@ -1,0 +1,34 @@
+.project {
+    width: 100%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.project strong {
+    font-size: 120%;
+}
+
+.project-info {
+    display: inline-block;
+    width: 340px;
+}
+
+.project-maintainer {
+    font-size: 80%;
+}
+
+.project-maintainer img {
+    vertical-align: text-bottom;
+}
+
+.project-badges img {
+    margin-bottom: 2px;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+
+.project-description {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(100% - 350px);
+}

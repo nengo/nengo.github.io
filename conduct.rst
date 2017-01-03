@@ -197,7 +197,7 @@ Enforcement of the Code of Conduct is essential.
 If there is no enforcement,
 then the Code of Conduct becomes a feel-good document without value.
 Individuals should feel empowered to call out violations publicly or privately.
-`Maintainers of Nengo projects <https://github.com/orgs/nengo/teams>`_
+:ref:`Maintainers of Nengo projects <Projects>`
 are available to help moderate, address concerns, and solve violations.
 
 Notes

@@ -52,6 +52,7 @@ for details).
 .. toctree::
    :maxdepth: 2
 
+   projects
    users
    contributing
    maintainers
