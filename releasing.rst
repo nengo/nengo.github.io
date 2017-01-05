@@ -1,11 +1,7 @@
-*********************
-Making Nengo releases
-*********************
+**********************
+Making Python releases
+**********************
 
-While we endeavour to automate as much as
-the below as possible,
-it's nonetheless important to know
-how a Nengo release works.
 There are three stages to this process,
 which will result in at least
 two ``git`` commits and one ``git`` tag.
@@ -21,44 +17,41 @@ we do a few things to prepare:
 2. Run `check-manifest <https://pypi.python.org/pypi/check-manifest>`_
    to ensure that all files are included in the release.
 
-3. Run all tests to ensure they pass on Python 2 and 3,
+3. Run all tests to ensure they pass on all supported platforms,
    including slow tests that are normally skipped.
+   The exact command will depend on the repository,
+   but for Nengo core it's
 
    .. code:: bash
 
-      py.test --pyargs nengo --plots --analytics --logs --slow
+      pytest --pyargs nengo --plots --analytics --logs --slow
 
-4. Review all of the plots generated from running the tests
-   for abnormalities or unclear figures.
+4. Review all of the outputs (e.g., plots)
+   generated from the test suite for abnormalities.
 
-5. Run all tests with the Nengo OCL backend.
+5. Run all tests for projects that depend on your project.
+   For example, Nengo OCL depends on Nengo core
+   so we run those tests with
 
    .. code:: bash
 
-      py.test --pyargs nengo --plots --simulator nengo_ocl.Simulator
+      pytest --pyargs nengo --plots --simulator nengo_ocl.Simulator
 
-   If any tests fail, attempt to fix them by changing Nengo.
-   If they cannot be fixed in Nengo, then
-   `file an issue <https://github.com/nengo/nengo_ocl/issues>`_.
+   If any tests fail, attempt to fix them in your project.
+   If they cannot be fixed and require upstream changes,
+   then file an issue with that project or contact its maintainer
+   to determine how to proceed.
 
-6. Build the documentation and review all of the rendered
-   examples for abnormalities or unclear figures.
+6. Build documentation and review it for abnormalities.
 
 7. Commit all changes from the above steps before moving on to the next stage.
 
-.. todo::
-
-   Currently we do not run slow tests on all platforms (Windows, Mac OS X, Linux
-   with 32-bit and 64-bit versions of Python 2.7, 3.3, 3.4, and 3.5).
-   Doing so is difficult without dedicated hardware.
-
-Note that any possibly controversial fixes done as a result of
+Note that any fixes done as a result of
 Stage 1 should be done through the normal process of making
 a pull request and going through review.
 However, from Stage 2 onward, the work is done directly
 on the ``master`` branch.
-It can therefore result in bad things,
-so proceed with caution!
+Proceed with caution!
 
 Stage 2: Releasing
 ==================
@@ -66,55 +59,73 @@ Stage 2: Releasing
 Once everything is prepared, we're ready to do the release.
 It should be okay to work in the same directory that you
 do development, but if you want to be extra safe,
-you can do a fresh clone of Nengo into a separate directory.
+you can do a fresh clone of the repository
+into a separate directory.
 
-1. Change the version information in ``nengo/version.py``.
+1. Change the version information for your project.
+   For most Python projects, it lives in ``project/version.py``.
    See that file for details.
 
-2. Set the release date in the changelog (``CHANGES.rst``).
+2. Set the release date in the changelog (usually ``CHANGES.rst``).
 
-3. ``git add`` the changes above and make a release commit with
-
-   .. code:: bash
-
-      git commit -m "Release version $(python -c 'import nengo; print(nengo.__version__)')"
-
-4. Review ``git log`` to ensure that the version number is correct; if not,
-   then something went wrong with the previous steps.
-   Correct these mistakes and amend the release commit accordingly.
-
-5. Tag the release commit with the version number; i.e.,
+3. Run ``collective.checkdocs`` to ensure proper formatting for PyPI.
 
    .. code:: bash
 
-      git tag -a v$(python -c 'import nengo; print(nengo.__version__)')
+      python setup.py checkdocs
 
-   We use annotated tags for the authorship information;
-   if you wish to provide a message with information about the release,
-   feel free, but it is not necessary.
-
-6. ``git push origin master`` and ``git push origin [tagname]``.
-
-7. Create a release package and upload it to PyPI with
+4. ``git add`` the changes above and make a release commit with
 
    .. code:: bash
 
-      python setup.py sdist upload
+      git commit -m "Release version X.Y.Z"
+
+5. Create release packages.
+   We build source distributions and wheels whenever possible.
+
+   .. code:: bash
+
+      python setup.py sdist bdist_wheel
+
+6. Review the release packages to ensure extra files
+   (like those in ``.ipynb_checkpoints``) are not included.
+   The size of the package is a good indication of whether
+   extra files are present.
+
+7. Upload the release packages to PyPI.
+
+   .. code:: bash
+
+      twine upload dist/<package-version>.tar.gz
+      twine upload dist/<package-version-extratags>.whl
 
 8. Build and upload the documentation with
 
    .. code:: bash
 
-      python setup.py upload_sphinx
+      python setup.py build_sphinx -aE
+      python setup.py upload_docs
+
+9. Tag the release commit with the version number; i.e.,
+
+   .. code:: bash
+
+      git tag -a vX.Y.Z
+
+   We use annotated tags for the authorship information;
+   if you wish to provide a message with information about the release,
+   feel free, but it is not necessary.
+
+11. ``git push origin master`` and ``git push origin vX.Y.Z``.
 
 Stage 3: Cleaning up
 ====================
 
-Nengo's now released!
+Your project is now released!
 We need to do a few last things to
-put Nengo back in a development state.
+put it back in a development state.
 
-1. Change the version information in ``nengo/version.py``.
+1. Change the version information in ``project/version.py``.
    See that file for details.
 
 2. Make a new changelog section in ``CHANGES.rst``
@@ -136,7 +147,7 @@ Now we have to let the world know about the new release.
 We do this in two ways for each release.
 
 1. Copy the changelog into the tag details on the
-   `Github release tab <https://github.com/nengo/nengo/releases>`_.
+   Github release tab.
    Note that the changelog is in reStructuredText,
    while Github expects Markdown.
    Use `Pandoc <http://pandoc.org/try/>`_ or a similar tool
@@ -151,10 +162,8 @@ We do this in two ways for each release.
 All release announcements should be posted
 on the `forum <https://forum.nengo.ai/c/general/announcements>`_
 and on the `ABR website <http://appliedbrainresearch.com/>`_.
-Links to the announcements should be posted
-on `Twitter <https://twitter.com/abr_inc>`_.
 
-For major release
+For a major release
 (e.g., the first release of a new backend,
 or a milestone release like 1.0),
 consider writing a more general and
