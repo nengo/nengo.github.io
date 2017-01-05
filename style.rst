@@ -1,6 +1,6 @@
-**********
-Code style
-**********
+***********
+Style guide
+***********
 
 Python
 ======
@@ -81,5 +81,27 @@ A few additional conventions that we have settled on:
 
      solver : Solver
          A `.Solver` used in the build process.
+
+Git
+===
+
+We use several advanced ``git`` features that
+rely on well-formed commit messages.
+Commit messages should fit the following template.
+
+.. code-block:: none
+
+   Capitalized, short (50 chars or less) summary
+
+   More detailed body text, if necessary.  Wrap it to around 72 characters.
+   The blank line separating the summary from the body is critical.
+
+   Paragraphs must be separated by a blank line.
+
+   - Bullet points are okay, too.
+   - Typically a hyphen or asterisk is used for the bullet, followed by
+     single space, with blank lines before and after the list.
+   - Use a hanging indent if the bullet point is longer than a
+     single line (like in this point).
 
 .. todo:: JS, TS, CSS, HTML, etc

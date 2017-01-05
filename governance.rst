@@ -27,25 +27,3 @@ is clean and readable.
 5. Pull requests cannot be merged by the creator of the pull request.
 6. Only `maintainers <https://github.com/orgs/nengo/teams>`_,
    can merge pull requests to ensure that the history remains clean.
-
-Commit messages
----------------
-
-We use several advanced ``git`` features that
-rely on well-formed commit messages.
-Commit messages should fit the following template.
-
-.. code-block:: none
-
-   Capitalized, short (50 chars or less) summary
-
-   More detailed body text, if necessary.  Wrap it to around 72 characters.
-   The blank line separating the summary from the body is critical.
-
-   Paragraphs must be separated by a blank line.
-
-   - Bullet points are okay, too.
-   - Typically a hyphen or asterisk is used for the bullet, followed by
-     single space, with blank lines before and after the list.
-   - Use a hanging indent if the bullet point is longer than a
-     single line (like in this point).

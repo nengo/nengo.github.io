@@ -6,7 +6,7 @@ Contributing to Nengo
    :maxdepth: 2
 
    conduct
+   governance
    style
-   git
    reviewing
    caa
