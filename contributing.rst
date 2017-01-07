@@ -12,5 +12,6 @@ then see the pages below for how to do so.
 
    conduct
    governance
+   how-to
    style
    caa
