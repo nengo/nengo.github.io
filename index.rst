@@ -55,6 +55,6 @@ for details).
    projects
    users
    contributing
-   maintainers
+   maintaining
    people
    README
