@@ -1,6 +1,6 @@
-***********************
-Reviewing pull requests
-***********************
+**************
+Reviewer guide
+**************
 
 Nengo is developed by a community of developers
 with varying backgrounds in software development,

@@ -55,6 +55,7 @@ for details).
    projects
    users
    contributing
+   reviewing
    maintaining
    people
    README
