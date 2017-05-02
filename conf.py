@@ -13,6 +13,7 @@ extensions = [
     "guzzle_sphinx_theme",
 ]
 
+suppress_warnings = ['image.nonlocal_uri']
 source_suffix = ".rst"
 master_doc = "index"
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
