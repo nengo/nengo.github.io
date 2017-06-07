@@ -160,3 +160,11 @@ when building models.
   <http://pythonhosted.org/nengo/index.html>`_
 - `Nengo modelling API
   <http://pythonhosted.org/nengo/frontend_api.html>`_
+
+Learning more
+=============
+
+.. toctree::
+   :maxdepth: 1
+
+   summerschool
