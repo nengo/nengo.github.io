@@ -168,3 +168,4 @@ Learning more
    :maxdepth: 1
 
    summerschool
+   publications
