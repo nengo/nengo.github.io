@@ -26,6 +26,7 @@ of the network on the left panel,
 and a code editor on the right panel.
 
 .. image:: http://appliedbrainresearch.com/img/gui-03.gif
+   :width: 100%
 
 The network illustration
 on the left panel is interactive.
@@ -148,3 +149,14 @@ To access a series of tutorials
 that use Nengo with a Python interpreter,
 `see the Nengo documentation
 <https://pythonhosted.org/nengo/examples.html>`_.
+
+Reference
+=========
+
+The following links are useful to refer to
+when building models.
+
+- `Nengo core documentation
+  <http://pythonhosted.org/nengo/index.html>`_
+- `Nengo modelling API
+  <http://pythonhosted.org/nengo/frontend_api.html>`_

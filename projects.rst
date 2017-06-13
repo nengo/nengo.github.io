@@ -1,6 +1,6 @@
-********
-Projects
-********
+**************
+Nengo projects
+**************
 
 .. default-role:: obj
 

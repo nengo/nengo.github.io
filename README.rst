@@ -1,12 +1,12 @@
-*********************
-About nengo.github.io
-*********************
+******************
+About this website
+******************
 
-This repository is home to documentation
+This website is home to documentation
 of the whole Nengo ecosystem.
 
-How to contribute
-=================
+How to make changes
+===================
 
 This documentation is
 
@@ -16,13 +16,15 @@ This documentation is
 - deployed automatically using `TravisCI <https://travis-ci.org/>`_
 - served with `Github pages <https://pages.github.com/>`_
 
+As with all Nengo projects,
+`issues and pull requests <https://github.com/nengo/nengo.github.io>`_
+are welcome!
+
 If you want to build the site locally to verify your changes, do
 
 .. code:: bash
 
    sphinx-build . _build
 
-As with all Nengo projects,
-issues and pull requests are welcome!
-Questions and comments can be posted on
-the `Nengo forum <https://forum.nengo.ai/>`_.
+Questions and comments about the content on this website
+can be posted on the `Nengo forum <https://forum.nengo.ai/>`_.

@@ -25,7 +25,7 @@ to other contributors,
 they are always responsible for
 guiding the project's overall direction.
 The maintainer for each project is listed
-on :ref:`the projects page <Projects>`.
+on :ref:`the projects page <Nengo projects>`.
 
 Nengo contributors can volunteer
 to review a project's pull requests

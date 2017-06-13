@@ -56,7 +56,7 @@ You will be assigned
 at most two reviews concurrently.
 
 If you have any concerns or preferences,
-please contact a :ref:`project maintainer <Projects>`!
+please contact a :ref:`project maintainer <Nengo projects>`!
 
 Reviewing a pull request
 ========================

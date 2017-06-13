@@ -28,8 +28,6 @@ path integration, and planning with problem solving
 (see the model archives and publications
 for details).
 
-.. todo:: Link Spaun below
-
 .. topic:: Spaun
 
    We've used Nengo to build Spaun,
@@ -52,10 +50,9 @@ for details).
 .. toctree::
    :maxdepth: 2
 
+   download
    projects
    users
-   contributing
-   reviewing
-   maintaining
+   developers
    people
    README

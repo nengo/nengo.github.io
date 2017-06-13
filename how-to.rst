@@ -10,7 +10,7 @@ The list below is by no means exhaustive.
 - **Report bugs**: Let us know if Nengo crashes
   or does something that you don't expect.
 - **Develop**: Add or modify some code
-  in a :ref:`Nengo project <Projects>`.
+  in a :ref:`Nengo project <Nengo projects>`.
 - **Document**: Teach others how to use Nengo
   by adding to or clarifying our documentation.
 
