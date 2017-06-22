@@ -20,7 +20,9 @@ extensions = [
 suppress_warnings = ['image.nonlocal_uri']
 source_suffix = ".rst"
 master_doc = "index"
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "_records/*.rst"]
+exclude_patterns = [
+    "_build", "Thumbs.db", ".DS_Store", "_records/*.rst", "overview.rst",
+]
 suppress_warnings = ['image.nonlocal_uri']
 
 project = "Nengo"
@@ -29,7 +31,7 @@ author = "Applied Brain Research"
 version = release = datetime.now().strftime("%Y-%m-%d")
 language = None
 
-todo_include_todos = True
+todo_include_todos = False
 
 intersphinx_mapping = {
     "nengo": ("http://pythonhosted.org/nengo", None)
