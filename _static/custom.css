@@ -45,3 +45,9 @@
     vertical-align: top;
     width: calc(100% - 350px);
 }
+
+img.float-right {
+    float: right;
+    margin-left: 6px;
+    margin-bottom: 6px;
+}

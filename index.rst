@@ -52,6 +52,7 @@ for details).
 
    download
    projects
+   build-a-brain/index
    users
    developers
    people
