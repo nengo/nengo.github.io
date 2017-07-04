@@ -27,6 +27,7 @@ Core framework
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
    :pypi: nengo
+   :docs: http://pythonhosted.org/nengo/
 
    The core of the Nengo ecosystem is the
    Python library ``nengo``,
@@ -39,10 +40,11 @@ Core framework
    :repo: arvoelke/nengolib
    :maintainer: Aaron Voelker
    :contact: arvoelke@gmail.com
+   :docs: https://arvoelke.github.io/nengolib-docs/
 
    Additional extensions for large-scale brain modelling with Nengo.
-   See `basic usage <https://github.com/arvoelke/nengolib/blob/master/doc/notebooks/examples/basic_usage.ipynb>`_
-   for an introduction.
+   Includes advanced dynamics networks,
+   additional synapse models, and more.
 
 .. project:: Nengo extras
    :repo: nengo/nengo_extras
@@ -59,6 +61,7 @@ Core framework
    :repo: nengo/nengo.github.io
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
+   :docs: https://nengo.github.io/README.html
 
    You're reading the Nengo documentation right now!
    It contains general information about
@@ -69,6 +72,7 @@ Core framework
    :repo: nengo/enhancement_proposals
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
+   :docs: https://nengo.github.io/enhancement_proposals/
 
    Nengo Enhancement Proposals (NEPs) are proposals
    that touch multiple projects in the Nengo ecosystem,
@@ -139,6 +143,7 @@ faster or more accurately.
    :maintainer: Daniel Rasmussen
    :contact: dhrsmss@gmail.com
    :pypi: nengo_dl
+   :docs: http://nengo.github.io/nengo_dl/
 
    Nengo deep learning simulates Nengo models using
    the `TensorFlow <https://www.tensorflow.org/>`_ library
