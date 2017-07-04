@@ -41,3 +41,19 @@ please contact the :ref:`project maintainer <Nengo projects>`.
 - Xuan Choo <xchoo.mainframe@gmail.com>
 - Youssef Zaky <youssefzaky@gmail.com>
 - Ziying Zhang <zy8zhang@uwaterloo.ca>
+
+Financial support
+=================
+
+While Nengo is now
+an Applied Brain Research product,
+it would not exist without
+earlier versions that were
+generously supported by the following organizations.
+
+* `Canada Research Chairs
+  <http://www.chairs-chaires.gc.ca/home-accueil-eng.aspx>`_
+* `Canada Foundation for Innovation <http://www.innovation.ca/en>`_
+* `National Sciences and Research Council (NSERC) <http://www.nserc.ca/>`_
+* `Ontario Innovation Trust (OIT) <http://www.oit.on.ca/Pages/Home.html>`_
+* `SHARCNET <http://www.sharcnet.ca/>`_
