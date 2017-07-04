@@ -134,13 +134,13 @@ faster or more accurately.
    to run Nengo models on GPUs and other platforms.
    Most models run significantly faster with Nengo OpenCL.
 
-.. project:: Nengo deep learning
+.. project:: Nengo DL
    :repo: nengo/nengo_dl
    :maintainer: Daniel Rasmussen
    :contact: dhrsmss@gmail.com
    :pypi: nengo_dl
 
-   Nengo deep learning simulates Nengo models using
+   Nengo DL simulates Nengo models using
    the `TensorFlow <https://www.tensorflow.org/>`_ library
    to easily interact with deep learning networks,
    as well as use deep learning training procedures
