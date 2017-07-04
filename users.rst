@@ -150,6 +150,16 @@ that use Nengo with a Python interpreter,
 `see the Nengo documentation
 <https://pythonhosted.org/nengo/examples.html>`_.
 
+Learning more
+=============
+
+.. toctree::
+   :maxdepth: 1
+
+   videos
+   summerschool
+   publications
+
 Reference
 =========
 
@@ -160,12 +170,3 @@ when building models.
   <http://pythonhosted.org/nengo/index.html>`_
 - `Nengo modelling API
   <http://pythonhosted.org/nengo/frontend_api.html>`_
-
-Learning more
-=============
-
-.. toctree::
-   :maxdepth: 1
-
-   summerschool
-   publications

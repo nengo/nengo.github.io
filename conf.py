@@ -23,7 +23,6 @@ master_doc = "index"
 exclude_patterns = [
     "_build", "Thumbs.db", ".DS_Store", "_records/*.rst", "overview.rst",
 ]
-suppress_warnings = ['image.nonlocal_uri']
 
 project = "Nengo"
 copyright = "2016, Applied Brain Research"
@@ -41,7 +40,6 @@ intersphinx_mapping = {
 pygments_style = "sphinx"
 templates_path = ["_templates"]
 html_static_path = ["_static"]
-html_use_smartypants = True
 
 html_theme_path = guzzle_sphinx_theme.html_theme_path()
 html_theme = "guzzle_sphinx_theme"

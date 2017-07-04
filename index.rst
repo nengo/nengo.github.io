@@ -53,6 +53,7 @@ for details).
    download
    projects
    build-a-brain/index
+   Forum <https://forum.nengo.ai>
    users
    developers
    people
