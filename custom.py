@@ -2,7 +2,6 @@
 
 from docutils import nodes
 from docutils.parsers.rst import Directive, directives
-from docutils.statemachine import StringList
 
 
 class Project(Directive):
@@ -20,6 +19,7 @@ class Project(Directive):
         "maintainer": directives.unchanged_required,
         "contact": directives.unchanged,
         "pypi": directives.unchanged,
+        "docs": directives.unchanged,
     }
     has_content = True
 
@@ -38,6 +38,7 @@ class Project(Directive):
         maintainer = self.options["maintainer"]
         contact = self.options.get("contact", None)
         pypi = self.options.get("pypi", None)
+        docs = self.options.get("docs", None)
 
         # Parent container holds info and description
         parent = nodes.container()
@@ -47,26 +48,38 @@ class Project(Directive):
         # Make a container for meta-info about the project
         info = nodes.container()
         info["classes"].append("project-info")
-        # Title contains name and Nengo team badge
+        # Title contains name, linked to docs if available
         title = nodes.strong(self.block_text, name)
+        if docs is not None:
+            title = nodes.strong(self.block_text)
+            title += nodes.reference(refuri=docs, text=name)
         info += title
 
+        shields = "https://img.shields.io"
         # Badges contains links to Github, PyPI, etc
         badges = nodes.paragraph(self.block_text)
         badges["classes"].append("project-badges")
+
+        if docs is not None:
+            badges += self.linked_image(
+                img="%s/badge/documentation--green.svg?style=social" % shields,
+                href=docs)
+
         badges += self.linked_image(
-            img="https://img.shields.io/github/stars/%s/%s"
-            ".svg?style=social&label=Github" % (org, repo),
+            img="%s/github/stars/%s/%s.svg?style=social&label=Github" % (
+                shields, org, repo),
             href="https://github.com/%s/%s" % (org, repo))
+
         if pypi is not None:
             badges += self.linked_image(
-                img="https://img.shields.io/pypi/v/%s.svg" % (pypi,),
+                img="%s/pypi/v/%s.svg" % (shields, pypi),
                 href="https://pypi.python.org/pypi/%s" % (pypi,))
         info += badges
 
         # List maintainer
         maint = nodes.paragraph(self.block_text)
         maint["classes"].append("project-maintainer")
+
         maint += nodes.inline(self.block_text, "Maintainer: ")
         if org == "nengo":
             maint += self.linked_image(
@@ -96,4 +109,4 @@ class Project(Directive):
 def setup(app):
     app.add_directive("project", Project)
 
-    return {"version": "0.1.0"}
+    return {"version": "0.1.1"}
