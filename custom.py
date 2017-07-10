@@ -83,7 +83,7 @@ class Project(Directive):
         maint += nodes.inline(self.block_text, "Maintainer: ")
         if org == "nengo":
             maint += self.linked_image(
-                img="https://nengo.github.io/design/_images/small-light.svg",
+                img="http://www.nengo.ai/design/_images/small-light.svg",
                 href="https://github.com/nengo",
                 alt="Managed by Nengo team",
                 height="16px")

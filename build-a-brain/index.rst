@@ -13,7 +13,7 @@ This section of the website supports the book by providing
 links to models, demos, videos, and tutorials mentioned in the book.
 
 .. seealso::
-   * `The Nengo SPA project <https://nengo.github.io/nengo_spa>`_.
+   * `The Nengo SPA project <https://github.com/nengo/nengo_spa>`_.
    * `Spaun documentation <https://xchoo.github.io/spaun2.0>`_.
 
 .. toctree::

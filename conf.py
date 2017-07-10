@@ -46,7 +46,7 @@ html_theme = "guzzle_sphinx_theme"
 
 html_theme_options = {
     "project_nav_name": "Nengo",
-    "base_url": "https://nengo.github.io/",
+    "base_url": "http://www.nengo.ai/",
 }
 
 # Other builders
