@@ -1,3 +1,7 @@
+.MathJax .mi, .MathJax .mo {
+    color: inherit;
+}
+
 .project {
     margin-top: 8px;
     margin-bottom: 16px;
