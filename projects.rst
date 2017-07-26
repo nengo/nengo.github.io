@@ -27,7 +27,7 @@ Core framework
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
    :pypi: nengo
-   :docs: http://pythonhosted.org/nengo/
+   :docs: https://www.nengo.ai/nengo/
 
    The core of the Nengo ecosystem is the
    Python library ``nengo``,
@@ -61,7 +61,7 @@ Core framework
    :repo: nengo/nengo.github.io
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
-   :docs: https://nengo.github.io/README.html
+   :docs: https://www.nengo.ai/README.html
 
    You're reading the Nengo documentation right now!
    It contains general information about
@@ -72,7 +72,7 @@ Core framework
    :repo: nengo/enhancement_proposals
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
-   :docs: https://nengo.github.io/enhancement_proposals/
+   :docs: https://www.nengo.ai/enhancement_proposals/
 
    Nengo Enhancement Proposals (NEPs) are proposals
    that touch multiple projects in the Nengo ecosystem,

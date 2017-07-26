@@ -33,7 +33,7 @@ language = None
 todo_include_todos = False
 
 intersphinx_mapping = {
-    "nengo": ("http://pythonhosted.org/nengo", None)
+    "nengo": ("https://www.nengo.ai/nengo/", None)
 }
 
 # HTML theming
@@ -46,7 +46,7 @@ html_theme = "guzzle_sphinx_theme"
 
 html_theme_options = {
     "project_nav_name": "Nengo",
-    "base_url": "http://www.nengo.ai/",
+    "base_url": "https://www.nengo.ai/",
 }
 
 # Other builders

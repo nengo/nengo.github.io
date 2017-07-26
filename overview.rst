@@ -19,7 +19,7 @@ is highly distributed and robust to noise.
 .. todo:: Image from 2D representation example
 
    `(Demo code with description)
-   <http://pythonhosted.org/nengo/examples/2d_representation.html>`__
+   <https://www.nengo.ai/nengo/examples/2d_representation.html>`__
    100 leaky-integrate-and-fire neurons
    representing two numbers (a vector).
    Grey squares show membrane voltage of each neuron,
@@ -44,7 +44,7 @@ that will approximate that computation.
 .. todo:: Image from multiplication example
 
    `(Demo code with description)
-   <http://pythonhosted.org/nengo/examples/multiplication.html>`__
+   <https://www.nengo.ai/nengo/examples/multiplication.html>`__
    500 leaky-integrate-and-fire neurons
    that compute the product of two numbers
    (:math:`y = x_1 \cdot x_2`).
@@ -58,7 +58,7 @@ that maintain a representation in the absence of input.
 .. todo:: Image from integrator example
 
    `(Demo code with description)
-   <http://pythonhosted.org/nengo/examples/integrator.html>`__
+   <https://www.nengo.ai/nengo/examples/integrator.html>`__
    100 leaky-integrate-and-fire neurons that store an input over time.
    When the input is positive, the stored value increases.
    When the input is negative, it decreases.
@@ -72,7 +72,7 @@ including **oscillators**, chaotic attractors, and Kalman filters.
 .. todo::
 
    `(Demo code with description)
-   <http://pythonhosted.org/nengo/examples/oscillator.html>`__
+   <https://www.nengo.ai/nengo/examples/oscillator.html>`__
    200 leaky-integrate-and-fire neurons that form an oscillator.
    The represented value is a 2-dimensional vector (x,y).
    The recurrent connections are set

@@ -106,14 +106,13 @@ You can then import ``nengo`` and start building models.
 >>> import nengo
 >>> model = nengo.Network("My model")
 
-The `examples included with Nengo core
-<http://pythonhosted.org/nengo/examples.html>`_
+The `examples included with Nengo core <coreexamples_>`_
 can be downloaded as Python scripts
 (text files that have the ``.py`` extension).
 These scripts can be run from a terminal.
 For example, after downloading
 `single_neuron.py
-<http://pythonhosted.org/nengo/examples/single_neuron.py>`_,
+<https://www.nengo.ai/nengo/examples/single_neuron.html>`_,
 you can run it like this:
 
 .. code:: bash
@@ -136,7 +135,7 @@ but have the extension ``.ipynb``.
 These are run through the Jupyter notebook.
 For example, after downloading
 `single_neuron.ipynb
-<http://pythonhosted.org/nengo/examples/single_neuron.ipynb>`_,
+<https://www.nengo.ai/nengo/examples/single_neuron.ipynb>`_,
 you can start the notebook like this:
 
 .. code:: bash
@@ -147,8 +146,9 @@ and then click on ``single_neuron.ipynb`` to run the example.
 
 To access a series of tutorials
 that use Nengo with a Python interpreter,
-`see the Nengo documentation
-<https://pythonhosted.org/nengo/examples.html>`_.
+`see the Nengo documentation <coreexamples_>`_.
+
+.. _coreexamples: https://www.nengo.ai/nengo/examples.html
 
 Learning more
 =============
@@ -166,7 +166,5 @@ Reference
 The following links are useful to refer to
 when building models.
 
-- `Nengo core documentation
-  <http://pythonhosted.org/nengo/index.html>`_
-- `Nengo modelling API
-  <http://pythonhosted.org/nengo/frontend_api.html>`_
+- `Nengo core documentation <https://www.nengo.ai/nengo/>`_
+- `Nengo modelling API <https://www.nengo.ai/nengo/frontend_api.html>`_
