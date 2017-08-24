@@ -12,6 +12,9 @@ not everyone on this list
 If you want to contact someone about a Nengo project,
 please contact the :ref:`project maintainer <Nengo projects>`.
 
+By adding your name to this file, you are agreeing to the
+`Nengo Contributor Assignment Agreement <https://www.nengo.ai/caa.html>`_.
+
 - Aaron Voelker <arvoelke@gmail.com>
 - Andreas Stöckel <andreas.stoeckel@gmail.com>
 - Andrew Mundy <andrew.mundy@ieee.org>
