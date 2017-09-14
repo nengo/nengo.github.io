@@ -23,6 +23,7 @@ By adding your name to this file, you are agreeing to the
 - Bryan Tripp <bptripp@uwaterloo.ca>
 - Chris Eliasmith <celiasmith@uwaterloo.ca>
 - Christopher Chan <c88chan@uwaterloo.ca>
+- Colin Cooke <clvcooke@uwaterloo.ca>
 - Daniel Rasmussen <dhrsmss@gmail.com>
 - Eric Crawford <eric.crawford@mail.mcgill.ca>
 - Eric Hunsberger <erichuns@gmail.com>
