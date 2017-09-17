@@ -36,6 +36,7 @@ By adding your name to this file, you are agreeing to the
 - Peter Suma <psuma@waterloo.ca>
 - Petrut Bogdan <petrutantoniu8@gmail.com>
 - Rees Simmons <rsimmons@uwaterloo.ca>
+- Rocha Leonardo M <leo(dot)m(dot)rocha@gmail.com>
 - Sean Aubin <seanaubin@gmail.com>
 - Shaun Ren <shaun.ren@linux.com>
 - Sugandha Sharma <sugandha974@gmail.com>
