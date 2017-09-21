@@ -16,6 +16,7 @@ By adding your name to this file, you are agreeing to the
 `Nengo Contributor Assignment Agreement <https://www.nengo.ai/caa.html>`_.
 
 - Aaron Voelker <arvoelke@gmail.com>
+- Allen Wang <allen.houze.wang@gmail.com>
 - Andreas Stöckel <andreas.stoeckel@gmail.com>
 - Andrew Mundy <andrew.mundy@ieee.org>
 - Ben Morcos <morcos.ben@gmail.com>
