@@ -162,7 +162,7 @@ The processing for such a task goes something like this:
    to generate appropriate control signals
    for a high-degree of freedom physical arm model.
 
-.. figure:: spaun-1.png
+.. figure:: spaun-2.png
    :align: center
 
    Figure 2: Example input and output from Spaun.
