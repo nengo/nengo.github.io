@@ -86,6 +86,11 @@ In *Proceedings of the 37th Annual Conference of the Cognitive Science Society*.
 Austin, TX: Cognitive Science Society.
 `PDF <https://mindmodeling.org/cogsci2016/papers/0279/paper0279.pdf>`__
 
+Kröger BJ, Crawford E, Bekolay T, Eliasmith C (2016) 
+Modeling interactions between speech production and perception: speech error detection at semantic and phonological levels and the inner speech loop. 
+Frontiers in Computational Neuroscience 10:51
+`ONLINE <https://www.frontiersin.org/articles/10.3389/fncom.2016.00051/full>`__
+
 Popular press
 =============
 
