@@ -58,7 +58,7 @@ Please `edit this page
 <https://github.com/nengo/nengo.github.io/edit/src/publications.rst>`_
 if you know of any research that should be added to this list.
 
-Kroger, Bekolay, & Eliasmith. (2014)
+Kröger, Bekolay, & Eliasmith. (2014)
 Modeling speech production using the neural engineering framework.
 In *5th IEEE Conference on Cognitive Infocommunications*, pp. 203-208.
 `PDF <http://compneuro.uwaterloo.ca/files/publications/kroger.2014.pdf>`__
@@ -77,7 +77,7 @@ Human-inspired neurorobotic system for classifying surface textures by touch.
 Knight et al. (2016)
 Efficient SpiNNaker simulation of a heteroassociative memory
 using the Neural Engineering Framework.
-*The 2016 International Joint Conference on Neural Networks (IJCNN)*, IEEE
+*The 2016 International Joint Conference on Neural Networks (IJCNN)*, IEEE.
 `PDF <https://www.researchgate.net/publication/305828018_Efficient_SpiNNaker_simulation_of_a_heteroassociative_memory_using_the_Neural_Engineering_Framework>`__
 
 Blouw, Eliasmith, & Tripp (2016)
@@ -85,6 +85,13 @@ A scaleable spiking neural model of action planning.
 In *Proceedings of the 37th Annual Conference of the Cognitive Science Society*.
 Austin, TX: Cognitive Science Society.
 `PDF <https://mindmodeling.org/cogsci2016/papers/0279/paper0279.pdf>`__
+
+Kröger, Crawford, Bekolay, & Eliasmith (2016)
+Modeling interactions between speech production and perception:
+speech error detection at semantic
+and phonological levels and the inner speech loop.
+*Frontiers in Computational Neuroscience* 10:51.
+`Full text <https://www.frontiersin.org/articles/10.3389/fncom.2016.00051/full>`__
 
 Popular press
 =============
