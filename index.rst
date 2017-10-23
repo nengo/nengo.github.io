@@ -33,7 +33,7 @@ for details).
    We've used Nengo to build Spaun,
    the world's largest functional brain model,
    which is described in
-   `this Science paper <http://nengo.ca/publications/spaunsciencepaper>`_.
+   `this Science paper <http://compneuro.uwaterloo.ca/publications/eliasmith2012.html>`_.
 
    .. raw:: html
 
@@ -53,6 +53,7 @@ for details).
    download
    projects
    build-a-brain/index
+   summerschool
    Forum <https://forum.nengo.ai>
    users
    developers

@@ -1,6 +1,6 @@
-*******************
-Nengo summer school
-*******************
+************************
+2018 Nengo Summer School
+************************
 
 .. image:: _static/summerschool-campus.png
    :width: 100%
@@ -8,8 +8,8 @@ Nengo summer school
 **Introduction:**
 The Centre for Theoretical Neuroscience
 at the University of Waterloo
-is currently running our 4th annual summer school
-on large-scale brain modelling.
+is currently accepting applications for our 5th annual
+summer school on large-scale brain modelling.
 This two-week school will teach participants
 how to use the Nengo simulation package
 to build state-of-the-art cognitive and neural models.
@@ -19,6 +19,12 @@ functional brain model, Spaun,
 and provides users with a versatile and powerful environment
 for modelling cognitive and neural systems
 to run in simulation and on neuromorphic hardware.
+Nengo is also being used to program
+a variety of state-of-the-art neuromorphic chips,
+including the `Stanford Brains in Silicon
+<https://web.stanford.edu/group/brainsinsilicon/>`_
+'Braindrop' chip, which will be available at this year's summer school!
+
 We welcome applications from all interested
 graduate students, research associates, postdocs,
 professors, and industry professionals.
@@ -30,7 +36,7 @@ computer science, robotics, neuromorphic engineering,
 or a related field.
 More information about Nengo,
 the Neural Engineering Framework, and Spaun
-can be found at http://www.nengo.ca.
+can be found at http://www.nengo.ai.
 Many of the concepts to be covered are in `this book
 <http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545>`_.
 
@@ -67,7 +73,7 @@ Participants will have the opportunity to learn how to:
 - use a variety of single cell models within a large-scale model
 - use your favorite simulator, e.g. NEST, Brian, Neuron, etc.
 - integrate machine learning methods into biologically oriented models
-- interface Nengo with a variety of neuromorphic hardware
+- interface Nengo with a variety of neuromorphic hardware systems, including Braindrop!
 - interface Nengo with cameras and robotic systems of various kinds
 - implement modern non-linear control methods in a neural model
 - and much more...
@@ -87,7 +93,7 @@ The complete schedule and list of guest lecturers
 will be announced at a later date.
 
 **Dates:**
-June 4th - June 16th, 2017
+June 3th - June 15th, 2018
 
 **Location:**
 University of Waterloo, Ontario, Canada (`map <http://goo.gl/Sa074A>`_)
@@ -127,15 +133,15 @@ for these accommodations will be announced at a later date.
 **Applications:**
 To apply, you will need to submit a CV and a brief proposal for a project.
 The application form is available
-`here <https://script.google.com/macros/s/AKfycbwEZVZJoDvUbEbVAY7kph14hvlHk9OM6JdQi-n9YU6ZBffMemKt/exec>`__.
+`here <https://goo.gl/forms/9aZZRdYE4KMSwRXu2>`__.
 
 ..
   todo: consider using
   https://www.dropbox.com/help/files-folders/create-file-request instead
 
 **Application deadline:**
-Applications are due on February 15th, 2017.
+Applications are due on February 15th, 2018.
 
 **Contact information:**
 For any questions,
-please contact `Peter Blouw <mailto:pblouw@uwaterloo.ca>`_.
+please contact `Peter Blouw <mailto:peter.blouw@appliedbrainresearch.com>`_.

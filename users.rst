@@ -157,7 +157,6 @@ Learning more
    :maxdepth: 1
 
    videos
-   summerschool
    publications
 
 Reference
