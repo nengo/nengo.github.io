@@ -20,7 +20,14 @@ As with all Nengo projects,
 `issues and pull requests <https://github.com/nengo/nengo.github.io>`_
 are welcome!
 
-If you want to build the site locally to verify your changes, do
+If you want to build the site locally to verify your changes,
+install the requirements with
+
+.. code:: bash
+
+   pip install -r requirements.txt
+
+Then whenever you want to rebuild the site, do
 
 .. code:: bash
 
