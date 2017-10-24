@@ -5,25 +5,28 @@
 .. image:: _static/summerschool-campus.png
    :width: 100%
 
-**Introduction:**
+**Introducing Braindrop with Nengo**:
+
 The Centre for Theoretical Neuroscience
 at the University of Waterloo
-is currently accepting applications for our 5th annual
-summer school on large-scale brain modelling.
-This two-week school will teach participants
-how to use the Nengo simulation package
-to build state-of-the-art cognitive and neural models.
-Nengo has been used to build
-what is currently the world's largest
-functional brain model, Spaun,
-and provides users with a versatile and powerful environment
-for modelling cognitive and neural systems
-to run in simulation and on neuromorphic hardware.
-Nengo is also being used to program
-a variety of state-of-the-art neuromorphic chips,
-including the `Stanford Brains in Silicon
-<https://web.stanford.edu/group/brainsinsilicon/>`_
-'Braindrop' chip, which will be available at this year's summer school!
+is excited to announce a special version
+of our annual Nengo summer school that
+will host the **first public access to Braindrop**,
+a new mixed analog-digital neuromorphic chip
+developed in collaboration with Stanford and Yale.
+
+In addition to introducing Braindrop,
+this two-week school will teach participants
+to use the Nengo simulation package
+to build state-of-the-art cognitive and neural models
+to run both in simulation and on neuromorphic hardware.
+Nengo provides users with
+a versatile and powerful environment
+for designing cognitive and neural systems,
+and has been used to build what is currently
+the world's largest functional brain model, Spaun.
+Nengo is also being used to program a variety
+of state-of-the-art neuromorphic chips, including Braindrop!
 
 We welcome applications from all interested
 graduate students, research associates, postdocs,
@@ -65,6 +68,7 @@ develop new collaborations,
 and generate new ideas for projects.
 Participants will have the opportunity to learn how to:
 
+- interface Nengo with a variety of neuromorphic hardware systems, including Braindrop!
 - build models through detailed hands-on tutorials
 - build perceptual, motor, and cognitive models with spiking neurons
 - simulate large-scale models at a variety of levels of detail concurrently
@@ -73,7 +77,6 @@ Participants will have the opportunity to learn how to:
 - use a variety of single cell models within a large-scale model
 - use your favorite simulator, e.g. NEST, Brian, Neuron, etc.
 - integrate machine learning methods into biologically oriented models
-- interface Nengo with a variety of neuromorphic hardware systems, including Braindrop!
 - interface Nengo with cameras and robotic systems of various kinds
 - implement modern non-linear control methods in a neural model
 - and much more...
@@ -140,7 +143,7 @@ The application form is available
   https://www.dropbox.com/help/files-folders/create-file-request instead
 
 **Application deadline:**
-Applications are due on February 15th, 2018.
+Applications are due on **February 15th, 2018**.
 
 **Contact information:**
 For any questions,
