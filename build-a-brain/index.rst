@@ -15,6 +15,7 @@ links to models, demos, videos, and tutorials mentioned in the book.
 .. seealso::
    * `The Nengo SPA project <https://github.com/nengo/nengo_spa>`_.
    * `Spaun documentation <https://xchoo.github.io/spaun2.0>`_.
+   * `Book tutorials updated for Nengo 2.0 <tutorials_>`_.
 
 .. toctree::
    :maxdepth: 1
@@ -197,3 +198,5 @@ and we'll add them here):
 .. _book: http://www.amazon.com/How-Build-Brain-Architecture-Architectures/DP/0199794545
 
 .. _NEF: http://compneuro.uwaterloo.ca/research/nef.html
+
+.. _tutorials: https://github.com/nengo/nengo_examples/tree/master/htbab_tutorials
