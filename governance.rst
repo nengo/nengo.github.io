@@ -71,6 +71,9 @@ and follows these additional policies.
 6. We require that every pull request be reviewed
    by at least one reviewer.
 
+7. We require that all pull requests be merged
+   by the project maintainer.
+
 Once a project has been deemed stable
 by the project's maintainer,
 it will have a version 1.0.0 release.
@@ -78,13 +81,13 @@ When a project hits this milestone,
 it is considered stable.
 Stable projects follow these additional policies.
 
-7. We require that each commit passes all unit tests,
+8. We require that each commit passes all unit tests,
    including :ref:`style <Style guide>` checks.
 
-8. We require that non-trivial pull requests include a changelog entry.
+9. We require that non-trivial pull requests include a changelog entry.
 
-9. We require that every pull request be reviewed
-   by at least two reviewers.
+10. We require that every pull request be reviewed
+    by at least two reviewers.
 
 See the rest of the contributor guide
 to further details on how to contribute
