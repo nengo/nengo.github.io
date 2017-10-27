@@ -103,7 +103,7 @@ University of Waterloo, Ontario, Canada (`map <http://goo.gl/Sa074A>`_)
 
 **Cost:**
 A registration fee is required of all participants
-($500 for academic participants; $1000 for industry participants).
+(C$600 for academic participants; C$1200 for industry participants).
 
 This fee includes the cost of breakfast, lunch, and snacks
 during each weekday of the school,
@@ -137,10 +137,6 @@ for these accommodations will be announced at a later date.
 To apply, you will need to submit a CV and a brief proposal for a project.
 The application form is available
 `here <https://goo.gl/forms/9aZZRdYE4KMSwRXu2>`__.
-
-..
-  todo: consider using
-  https://www.dropbox.com/help/files-folders/create-file-request instead
 
 **Application deadline:**
 Applications are due on **February 15th, 2018**.
