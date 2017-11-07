@@ -5,20 +5,31 @@ Governance
 Roles
 =====
 
-Nengo is made by a
-:ref:`team of contributors <People>`
-who review each other's work.
+Contributors
+------------
+
+Nengo is developed by a
+:ref:`team of contributors <People>`.
 New contributors join the team
 when they make a pull request
-that gets merged in a project
-managed by the Nengo team.
+that gets merged in a Nengo project.
 
-In addition to being a contributor,
-Nengo team members may
-also be a maintainer and a reviewer.
+New contributors will also be added
+to the `active contributors team
+<https://github.com/orgs/nengo/teams/active-contributors>`_.
+Members of this team have write access
+to the repositories in the Nengo organization.
+For security reasons,
+contributors who have not
+participated in an issue or pull request
+in the past six months will be
+removed from the active contributors team.
+
+Maintainers
+-----------
 
 Every Nengo project has a primary maintainer,
-who is responsible for merging pull requests,
+who is responsible for merging pull requests
 and making releases.
 While the maintainer may delegate maintenance tasks
 to other contributors,
@@ -27,12 +38,18 @@ guiding the project's overall direction.
 The maintainer for each project is listed
 on :ref:`the projects page <Nengo projects>`.
 
+Reviewers
+---------
+
 Nengo contributors can volunteer
 to review a project's pull requests
 by contacting the maintainer of that project.
 Maintainers should ensure that all active reviewers
-are listed in `the active reviewers Github team
+are included on `the active reviewers team
 <https://github.com/orgs/nengo/teams/active-reviewers>`_.
+As with the active contributors team,
+reviewers who have not reviewed in the past six months
+will be removed from the active reviewers team.
 
 Policies
 ========
