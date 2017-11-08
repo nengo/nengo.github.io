@@ -52,11 +52,15 @@ the `Active reviewers team <https://github.com/orgs/nengo/teams/active-reviewers
 If you've contributed to a Nengo project,
 then its maintainer will assign you reviews
 based on your contributions thus far.
+
 You will be assigned
 at most two reviews concurrently.
-
-If you have any concerns or preferences,
-please contact a :ref:`project maintainer <Nengo projects>`!
+The reviews currently assigned to you
+can be viewed `here <https://github.com/pulls/review-requested>`_.
+Please respond to review requests within a week.
+If you cannot review within a week,
+please let the :ref:`project maintainer <Nengo projects>`
+know so that they can assign the review to someone else.
 
 Reviewing a pull request
 ========================
