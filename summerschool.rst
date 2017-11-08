@@ -47,7 +47,7 @@ Watch the videos below for a quick look at previous versions of the summer schoo
 
 .. raw:: html
 
-   <iframe width="100%" height="400" src="https://www.youtube.com/embed/K-o-MJJY7ss?list=PLYLu6sY3jnoVgeFX4GMFaECP_y1aAKxHE" frameborder="0" allowfullscreen></iframe>
+   <iframe width="100%" height="400" src="https://www.youtube.com/embed/lLn9pTfzsAE" frameborder="0" allowfullscreen></iframe>
 
 **Purpose:**
 The main goal of the summer school is to have participants
