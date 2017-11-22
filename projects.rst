@@ -95,6 +95,7 @@ Visualizations and models
    :repo: nengo/nengo_spa
    :maintainer: Jan Gosmann
    :contact: jan@hyper-world.de
+   :pypi: nengo_spa
 
    The Semantic Pointer Architecture (SPA)
    uses Nengo to build large cognitive models.
