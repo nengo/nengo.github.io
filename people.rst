@@ -31,6 +31,7 @@ By adding your name to this file, you are agreeing to the
 - Ivana Kajić <ivana.kajic@gmail.com>
 - James Bergstra <james.bergstra@gmail.com>
 - Jan Gosmann <jan@hyper-world.de>
+- @luzpaz <luzpaz@users.noreply.github.com>
 - Ménélik Vero <menelik.vero@tum.de>
 - Oliver Trujillo <olivertgp@hotmail.com>
 - Peter Blouw <pblouw@uwaterloo.ca>
