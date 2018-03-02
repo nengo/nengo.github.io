@@ -6,3 +6,13 @@
 {# Call the parent block #}
 {{ super() }}
 {%- endblock %}
+
+{%- block sidebar1 %}
+  <div id="left-column">
+    <div class="sphinxsidebar">
+      <a href="{{ homepage() }}" class="text-logo"><img src="https://www.nengo.ai/design/_images/full-light.svg" width=200></a>
+      {% include "globaltoc.html" %}
+      {% include "searchbox.html" %}
+    </div>
+  </div>
+{% endblock %}
