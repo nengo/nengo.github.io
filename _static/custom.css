@@ -2,14 +2,23 @@
     color: inherit;
 }
 
+.project.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 .project {
+    border-bottom: 1px solid #eee;
     margin-top: 8px;
-    margin-bottom: 16px;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
     width: 100%;
 }
 
 .project:last-child {
+    border-bottom: none;
     margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .project p {
@@ -26,8 +35,31 @@
 }
 
 .project-info {
-    display: inline-block;
+    display: block;
+    margin-left: 0;
     width: 340px;
+}
+
+.project-description {
+    display: block;
+    width: 100%;
+}
+
+@media (min-width: 992px) {
+    .project {
+        border-bottom: none;
+    }
+
+    .project-info {
+        display: inline-block;
+        width: 340px;
+    }
+
+    .project-description {
+        display: inline-block;
+        vertical-align: top;
+        width: calc(100% - 350px);
+    }
 }
 
 .project-maintainer {
@@ -42,12 +74,6 @@
     margin-bottom: 2px;
     margin-right: 5px;
     margin-top: 2px;
-}
-
-.project-description {
-    display: inline-block;
-    vertical-align: top;
-    width: calc(100% - 350px);
 }
 
 img.float-right {
