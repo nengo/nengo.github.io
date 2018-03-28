@@ -113,3 +113,20 @@ add_redirects("enhancement_proposals", "", [
     "README.html",
 ])
 
+# nengo_extras redirects
+
+add_redirects("nengo_extras", "", [
+    "deeplearning.html",
+    "deeplearning-examples.html",
+    "dists.html",
+    "index.html",
+    "learning_rules.html",
+    "networks.html",
+    "neurons.html",
+    "processes.html",
+    "vision.html",
+    "vision-examples.html",
+    "visualization.html",
+    "visualization-examples.html",
+])
+
