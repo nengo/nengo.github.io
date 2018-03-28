@@ -1,5 +1,8 @@
 """Custom docutils / Sphinx directives specific to nengo.github.io."""
 
+import errno
+import os
+
 from docutils import nodes
 from docutils.parsers.rst import Directive, directives
 
@@ -106,7 +109,45 @@ class Project(Directive):
         return [parent]
 
 
+def mkdir_p(path):
+    try:
+        os.makedirs(path)
+    except OSError as exc:
+        if exc.errno == errno.EEXIST and os.path.isdir(path):
+            pass
+        else:
+            raise
+
+
+def redirect_pages(app, docname):
+    redirects = app.config.redirects
+    if app.builder.name == 'html':
+        for src, dst in redirects:
+            fpath = os.path.join(app.outdir, src)
+            mkdir_p(os.path.dirname(fpath))
+            with open(fpath, "w") as fp:
+                fp.write("\n".join([
+                    '<!DOCTYPE html>',
+                    '<html>',
+                    ' <head><title>This page has moved</title></head>',
+                    ' <body>',
+                    '  <script type="text/javascript">',
+                    '   window.location.replace("{0}");',
+                    '  </script>',
+                    '  <noscript>',
+                    '   <meta http-equiv="refresh" content="0; url={0}">',
+                    '  </noscript>',
+                    ' </body>',
+                    '</html>',
+                ]).format(dst))
+
+
 def setup(app):
+    # For Project
     app.add_directive("project", Project)
 
-    return {"version": "0.1.1"}
+    # For redirects
+    app.add_config_value("redirects", [], "")
+    app.connect("build-finished", redirect_pages)
+
+    return {"version": "0.2.0"}
