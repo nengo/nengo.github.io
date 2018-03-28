@@ -81,3 +81,35 @@ texinfo_documents = [
      "Large-scale brain modelling in Python",  # description
      "Miscellaneous"),  # category
 ]
+
+# Redirects are in the form (src, dst) where
+# - src is the relative path from the build output directory
+# - dst is the arbitrary URL you want to redirect to
+redirects = []
+
+
+def add_redirects(project, prefix, pages):
+    newproject = project.replace("_", "-")
+    for page in pages:
+        fullpage = "%s%s%s" % (prefix, "/" if prefix != "" else "", page)
+        redirects.append((
+            "%s/%s" % (project, fullpage),
+            "https://www.nengo.ai/%s/%s" % (newproject, fullpage),
+        ))
+
+
+# enhancement_proposals redirects
+
+add_redirects("enhancement_proposals", "", [
+    "001-template.html",
+    "004-rejected-template.html",
+    "100-pynn-backend.html",
+    "400-multidim-radius.html",
+    "401-probe-outputs.html",
+    "402-ndarray-representation.html",
+    "403-variable-synapse-defaults.html",
+    "404-java-backend.html",
+    "index.html",
+    "README.html",
+])
+
