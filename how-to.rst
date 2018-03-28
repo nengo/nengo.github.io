@@ -34,7 +34,7 @@ The quickest way is to make a post on the forum.
 
 If your creation is too big for a forum post,
 consider making a pull request on the
-`the examples repository <https://github.com/nengo/nengo_examples>`_.
+`the examples repository <https://github.com/nengo/nengo-examples>`_.
 
 If your creation is already available online
 (in Github, for example)
@@ -51,7 +51,7 @@ fill a need that you have,
 file an issue on project's Github repository.
 
 1. Head to the project's Github page
-   (e.g., `nengo/nengo_gui <https://github.com/nengo/nengo_gui>`_.
+   (e.g., `nengo/nengo-gui <https://github.com/nengo/nengo-gui>`_.
 2. Click the "Issues" tab at the top of the page.
 3. Click the green "New issue" button at the top-right of the page.
 
@@ -75,9 +75,9 @@ for one core project.
 To propose a large change,
 make a pull request on the
 `enhancement proposals repository
-<https://github.com/nengo/enhancement_proposals>`_.
+<https://github.com/nengo/enhancement-proposals>`_.
 In your pull request, copy the `proposal template
-<https://raw.githubusercontent.com/nengo/enhancement_proposals/master/000-template.rst>`_
+<https://raw.githubusercontent.com/nengo/enhancement-proposals/master/000-template.rst>`_
 to a new file with an appropriate title,
 and edit the file to explain
 the change you think should be made.

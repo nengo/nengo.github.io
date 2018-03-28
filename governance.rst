@@ -66,7 +66,7 @@ we follow these policies.
    `semantic versioning specification <http://semver.org/>`_.
 
 3. We require that large changes to multiple projects
-   be `proposed <https://github.com/nengo/enhancement_proposals>`_
+   be `proposed <https://github.com/nengo/enhancement-proposals>`_
    prior to implementation.
 
 Projects that have not yet been released

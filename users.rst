@@ -12,7 +12,7 @@ or they can be run with a Python interpreter.
 With Nengo GUI
 --------------
 
-The `Nengo GUI <https://github.com/nengo/nengo_gui>`_
+The `Nengo GUI <https://github.com/nengo/nengo-gui>`_
 is a web-based interface
 for designing and running Nengo models.
 To start the GUI,
@@ -35,7 +35,7 @@ scroll with the mouse to zoom in and out,
 and right-click on objects to
 display plots that will update in real time
 as the model simulates (see the
-`GUI documentation <https://github.com/nengo/nengo_gui#basic-usage>`_
+`GUI documentation <https://github.com/nengo/nengo-gui#basic-usage>`_
 for more details).
 
 The code editor on the right panel

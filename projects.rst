@@ -47,7 +47,7 @@ Core framework
    additional synapse models, and more.
 
 .. project:: Nengo extras
-   :repo: nengo/nengo_extras
+   :repo: nengo/nengo-extras
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
 
@@ -69,10 +69,10 @@ Core framework
    and how these projects are developed.
 
 .. project:: Enhancement proposals
-   :repo: nengo/enhancement_proposals
+   :repo: nengo/enhancement-proposals
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
-   :docs: https://www.nengo.ai/enhancement_proposals/
+   :docs: https://www.nengo.ai/enhancement-proposals/
 
    Nengo Enhancement Proposals (NEPs) are proposals
    that touch multiple projects in the Nengo ecosystem,
@@ -82,26 +82,26 @@ Visualizations and models
 =========================
 
 .. project:: Nengo GUI
-   :repo: nengo/nengo_gui
+   :repo: nengo/nengo-gui
    :maintainer: Terry Stewart
    :contact: terry.stewart@gmail.com
-   :pypi: nengo_gui
+   :pypi: nengo-gui
 
    Nengo GUI is a web browser-based interactive
    model construction and visualization tool.
 
 
 .. project:: Nengo SPA
-   :repo: nengo/nengo_spa
+   :repo: nengo/nengo-spa
    :maintainer: Jan Gosmann
    :contact: jan@hyper-world.de
-   :pypi: nengo_spa
+   :pypi: nengo-spa
 
    The Semantic Pointer Architecture (SPA)
    uses Nengo to build large cognitive models.
 
 .. project:: Nengo examples
-   :repo: nengo/nengo_examples
+   :repo: nengo/nengo-examples
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
 
@@ -110,14 +110,6 @@ Visualizations and models
    to learn about Nengo,
    so we curate a large collection of examples here
    for teaching purposes.
-
-.. project:: Nengo benchmarks
-   :repo: nengo/nengo_benchmarks
-   :maintainer: Terry Stewart
-   :contact: terry.stewart@gmail.com
-
-   Models and utilities for benchmarking
-   different Nengo versions and backends.
 
 Simulation backends
 ===================
@@ -130,21 +122,21 @@ allowing the same model to be run
 faster or more accurately.
 
 .. project:: Nengo OpenCL
-   :repo: nengo/nengo_ocl
+   :repo: nengo/nengo-ocl
    :maintainer: Eric Hunsberger
    :contact: erichuns@gmail.com
-   :pypi: nengo_ocl
+   :pypi: nengo-ocl
 
    Nengo OpenCL uses the `OpenCL framework <https://www.khronos.org/opencl/>`_
    to run Nengo models on GPUs and other platforms.
    Most models run significantly faster with Nengo OpenCL.
 
 .. project:: Nengo DL
-   :repo: nengo/nengo_dl
+   :repo: nengo/nengo-dl
    :maintainer: Daniel Rasmussen
    :contact: dhrsmss@gmail.com
-   :pypi: nengo_dl
-   :docs: http://nengo.github.io/nengo_dl/
+   :pypi: nengo-dl
+   :docs: https://www.nengo.ai/nengo-dl/
 
    Nengo DL simulates Nengo models using
    the `TensorFlow <https://www.tensorflow.org/>`_ library
@@ -164,7 +156,7 @@ faster or more accurately.
    Models running on SpiNNaker always execute in real time.
 
 .. project:: Nengo MPI
-   :repo: nengo/nengo_mpi
+   :repo: nengo/nengo-mpi
    :maintainer: Eric Crawford
    :contact: eric.crawford@mail.mcgill.ca
 

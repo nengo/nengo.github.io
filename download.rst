@@ -8,7 +8,7 @@ To install Nengo, we recommend using ``pip``.
 
 .. code:: bash
 
-   pip install nengo nengo_gui
+   pip install nengo nengo-gui
 
 If you do not have ``pip`` installed,
 or if you run into any errors
@@ -63,7 +63,7 @@ open the Anaconda command prompt and do
 
 .. code:: bash
 
-   pip install nengo nengo_gui
+   pip install nengo nengo-gui
 
 to complete Nengo installation.
 
@@ -80,7 +80,7 @@ open the command prompt and do
 .. code:: bash
 
    conda install numpy pip
-   pip install nengo nengo_gui
+   pip install nengo nengo-gui
 
 will install Nengo and its dependencies.
 
@@ -101,7 +101,7 @@ After installing Homebrew:
 
    brew install python
    pip install numpy
-   pip install nengo nengo_gui
+   pip install nengo nengo-gui
 
 will install Nengo and its dependencies.
 
@@ -113,7 +113,7 @@ In Debian, Ubuntu, and other distributions with ``apt``, do:
 .. code:: bash
 
    sudo apt-get install python-numpy python-pip
-   pip install nengo nengo_gui
+   pip install nengo nengo-gui
 
 Fedora, CentOS: yum
 ^^^^^^^^^^^^^^^^^^^
@@ -123,7 +123,7 @@ In Fedora, CentOS, and others distributions with ``yum``, do:
 .. code:: bash
 
    sudo yum install python-numpy python-pip
-   pip install nengo nengo_gui
+   pip install nengo nengo-gui
 
 From source
 -----------
@@ -135,7 +135,7 @@ is flexible and performant.
 See the detailed instructions
 `here <http://hunseblog.wordpress.com/2014/09/15/installing-numpy-and-openblas/>`_.
 Once NumPy is installed, you can install Nengo with
-``pip install nengo nengo_gui``.
+``pip install nengo nengo-gui``.
 
 .. _Anaconda: https://store.continuum.io/cshop/anaconda/
 .. _Miniconda: https://conda.io/miniconda.html

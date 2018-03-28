@@ -13,7 +13,7 @@ This section of the website supports the book by providing
 links to models, demos, videos, and tutorials mentioned in the book.
 
 .. seealso::
-   * `The Nengo SPA project <https://github.com/nengo/nengo_spa>`_.
+   * `The Nengo SPA project <https://github.com/nengo/nengo-spa>`_.
    * `Spaun documentation <https://xchoo.github.io/spaun2.0>`_.
    * `Book tutorials updated for Nengo 2.0 <tutorials_>`_.
 
@@ -199,4 +199,4 @@ and we'll add them here):
 
 .. _NEF: http://compneuro.uwaterloo.ca/research/nef.html
 
-.. _tutorials: https://github.com/nengo/nengo_examples/tree/master/htbab_tutorials
+.. _tutorials: https://github.com/nengo/nengo-examples/tree/master/htbab_tutorials
