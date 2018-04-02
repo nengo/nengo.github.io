@@ -1253,3 +1253,36 @@ add_redirects("nengo_1.4", "simulator-ui-api/ca/nengo/ui/test", [
     "package-index.html",
     "TestUtil.html",
 ])
+
+# nengo_dl redirects
+
+add_redirects("nengo_dl", "", [
+    "backend.html",
+    "builder.html",
+    "examples.html",
+    "extra_objects.html",
+    "frontend.html",
+    "graph_optimizer.html",
+    "index.html",
+    "installation.html",
+    "introduction.html",
+    "learning_rules.html",
+    "neurons.html",
+    "op_builders.html",
+    "processes.html",
+    "project.html",
+    "resources.html",
+    "signals.html",
+    "simulator.html",
+    "tensor_graph.html",
+    "tensor_node.html",
+    "training.html",
+    "utils.html",
+])
+add_redirects("nengo_dl", "examples", [
+    "nef_init.html",
+    "pretrained_model.html",
+    "spa_memory.html",
+    "spa_retrieval.html",
+    "spiking_mnist.html",
+])
