@@ -1,6 +1,17 @@
-**********
-User guide
-**********
+*****************
+Quick start guide
+*****************
+
+There is independent documentation
+for each of the projects
+in the :ref:`Nengo ecosystem`.
+Clicking the |docbutton| button for the project
+will take you to the appropriate site.
+
+This page provides a quick guide to running Nengo models.
+
+.. |docbutton| image::
+   https://img.shields.io/badge/documentation--green.svg?style=social
 
 Running models
 ==============
@@ -75,7 +86,7 @@ at the top-left of the GUI.
 With a Python interpreter
 -------------------------
 
-The Nengo core is written in
+The `Nengo core <https://www.nengo.ai/nengo/>`_ is written in
 `Python <https://www.python.org/>`_.
 In order to install Nengo,
 you likely also installed

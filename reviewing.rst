@@ -59,7 +59,7 @@ The reviews currently assigned to you
 can be viewed `here <https://github.com/pulls/review-requested>`_.
 Please respond to review requests within a week.
 If you cannot review within a week,
-please let the :ref:`project maintainer <Nengo projects>`
+please let the :ref:`project maintainer <Nengo ecosystem>`
 know so that they can assign the review to someone else.
 
 Reviewing a pull request

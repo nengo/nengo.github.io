@@ -2,15 +2,20 @@
 Contributor guide
 *****************
 
-There are lots of ways to contribute to Nengo,
-including simply using it!
-If you want to get even more involved,
-then see the pages below for how to do so.
+Nengo is built by a :ref:`team <People>` of contributors,
+which includes more specialized roles like reviewers, and maintainers.
+Anyone can join the team and help guide Nengo development.
+See the pages below for more information on how
+contributions to Nengo are organized,
+and what Nengo contributors do.
 
 .. toctree::
    :maxdepth: 2
 
-   conduct
    how-to
+   conduct
    style
+   governance
+   reviewing
+   releasing
    caa

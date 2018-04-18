@@ -156,6 +156,6 @@ Other packages that Nengo can interact with include
 - `scikit-learn <http://scikit-learn.org/stable/>`_
 - `pytest <https://docs.pytest.org/en/latest/>`_
 
-Other parts of the :ref:`Nengo ecosystem <Nengo projects>`
+Other parts of the :ref:`Nengo ecosystem`
 may interact with other packages.
 See their documentation for details.

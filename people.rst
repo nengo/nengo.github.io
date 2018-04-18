@@ -10,7 +10,7 @@ includes everyone who has contributed to a Nengo-managed project;
 not everyone on this list
 `is still active <https://github.com/orgs/nengo/teams/active-contributors>`_.
 If you want to contact someone about a Nengo project,
-please contact the :ref:`project maintainer <Nengo projects>`.
+please contact the :ref:`project maintainer <Nengo ecosystem>`.
 
 By adding your name to this file, you are agreeing to the
 `Nengo Contributor Assignment Agreement <https://www.nengo.ai/caa.html>`_.

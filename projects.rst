@@ -1,6 +1,6 @@
-**************
-Nengo projects
-**************
+***************
+Nengo ecosystem
+***************
 
 .. default-role:: obj
 

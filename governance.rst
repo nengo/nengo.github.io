@@ -5,8 +5,8 @@ Governance
 Roles
 =====
 
-Contributors
-------------
+All contributors
+----------------
 
 Nengo is developed by a
 :ref:`team of contributors <People>`.
@@ -36,7 +36,7 @@ to other contributors,
 they are always responsible for
 guiding the project's overall direction.
 The maintainer for each project is listed
-on :ref:`the projects page <Nengo projects>`.
+on :ref:`the projects page <Nengo ecosystem>`.
 
 Reviewers
 ---------

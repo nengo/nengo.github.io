@@ -85,7 +85,10 @@ texinfo_documents = [
 # Redirects are in the form (src, dst) where
 # - src is the relative path from the build output directory
 # - dst is the arbitrary URL you want to redirect to
-redirects = []
+redirects = [
+    ("developers.html", "https://www.nengo.ai/contributing.html"),
+    ("users.html", "https://www.nengo.ai/quickstart.html"),
+]
 
 
 def add_redirects(project, prefix, pages):
