@@ -50,6 +50,8 @@ Core framework
    :repo: nengo/nengo-extras
    :maintainer: Trevor Bekolay
    :contact: tbekolay@gmail.com
+   :pypi: nengo-extras
+   :docs: https://www.nengo.ai/nengo-extras/
 
    Nengo extras contains extra utilities and add-ons for Nengo.
    These utilities are helpful when you need them,
