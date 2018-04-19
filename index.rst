@@ -56,6 +56,7 @@ This website also has additional information on the book.
 
    download
    projects
+   models
    quickstart
    Core documentation <https://nengo.ai/nengo>
    GUI documentation <https://github.com/nengo/nengo-gui#nengo-gui>

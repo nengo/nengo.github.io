@@ -2,23 +2,42 @@
     color: inherit;
 }
 
-.project.container {
+img.float-right {
+    float: right;
+    margin-left: 6px;
+    margin-bottom: 6px;
+}
+
+a.text-logo {
+    background-color: #6ea6d6;
+}
+
+/* project and model */
+
+.project.container, .model.container {
     padding-left: 0;
     padding-right: 0;
 }
 
-.project {
-    border-bottom: 1px solid #eee;
+.project, .model {
     margin-top: 8px;
     margin-bottom: 8px;
     padding-bottom: 8px;
     width: 100%;
 }
 
-.project:last-child {
-    border-bottom: none;
-    margin-bottom: 0;
-    padding-bottom: 0;
+.project-info strong a.external {
+    color: #333;
+}
+
+/* project */
+
+.project {
+    border-bottom: 1px solid #eee;
+}
+
+.project strong {
+    font-size: 120%;
 }
 
 .project p {
@@ -26,12 +45,10 @@
     margin-top: 3px;
 }
 
-.project strong {
-    font-size: 120%;
-}
-
-.project-info strong a.external {
-    color: #333;
+.project:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .project-info {
@@ -76,12 +93,110 @@
     margin-top: 2px;
 }
 
-img.float-right {
-    float: right;
-    margin-left: 6px;
-    margin-bottom: 6px;
+/* model */
+
+.model strong {
+    font-size: 135%;
 }
 
-a.text-logo {
+.model p {
+    margin-bottom: 1px;
+}
+
+.model p.model-keywords {
+    line-height: 150%;
+}
+
+.model.container {
+    border-radius: 5px;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding-bottom: 4px;
+    padding-left: 5px;
+    -webkit-transition: all 150ms ease;
+    -moz-transition: all 150ms ease;
+    -ms-transition: all 150ms ease;
+    -o-transition: all 150ms ease;
+    transition: all 150ms ease;
+}
+
+.model.container:hover {
+    background-color: #eee;
+}
+
+.model.container div {
+    padding-left: 0;
+    padding-right: 0;
+    width: auto;
+}
+
+.model-byline, .model-pub {
+    font-size: 80%;
+}
+
+.model-header {
+    align-items: baseline;
+    display: flex;
+}
+
+.model-header strong {
+    flex: 1 1;
+}
+
+.model-header em, .model-keywords em {
     background-color: #6ea6d6;
+    border-radius: 2px;
+    color: white;
+    font-style: normal;
+    font-size: 74%;
+    margin-right: 4px;
+    margin-top: 4px;
+    padding: 2px;
+}
+
+.model .model-details {
+    margin-top: 8px;
+}
+
+.model-controls {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.model-controls > * {
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
+
+.model-controls > *:last-child {
+    margin-right: 0;
+}
+
+.model-controls input {
+    flex: 1 1;
+    min-width: 140px;
+}
+
+.model-controls .dropdown {
+    display: inline-block;
+}
+
+.model-controls .pagination-container {
+    text-align: center;
+    width: 180px;
+}
+
+.model-controls .pagination {
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-top: 0;
+    vertical-align: middle;
+}
+
+#filter-dropdown .dropdown-menu {
+    height: auto;
+    max-height: 180px;
+    overflow-x: hidden;
 }
