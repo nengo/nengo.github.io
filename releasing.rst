@@ -146,6 +146,11 @@ We do this in two ways for each release.
    while Github expects Markdown.
    Use `Pandoc <http://pandoc.org/try/>`_ or a similar tool
    to convert between the two formats.
+   For Pandoc, we recommend the following command
+
+   .. code-block:: bash
+
+      pandoc -t markdown_github -f rst+hard_linebreaks CHANGES.rst
 
 2. Write a release announcement.
    Generally, it's easiest to start from
