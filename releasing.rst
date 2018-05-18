@@ -99,14 +99,7 @@ into a separate directory.
       twine upload dist/<package-version>.tar.gz
       twine upload dist/<package-version-extratags>.whl
 
-8. Build and upload the documentation with
-
-   .. code:: bash
-
-      python setup.py build_sphinx -aE
-      python setup.py upload_docs
-
-9. Tag the release commit with the version number; i.e.,
+8. Tag the release commit with the version number; i.e.,
 
    .. code:: bash
 
@@ -116,7 +109,8 @@ into a separate directory.
    if you wish to provide a message with information about the release,
    feel free, but it is not necessary.
 
-11. ``git push origin master`` and ``git push origin vX.Y.Z``.
+9. ``git push origin master`` and ``git push origin vX.Y.Z``.
+   Pushing the tag will trigger a build and deployment of the documentation.
 
 Stage 3: Cleaning up
 ====================
