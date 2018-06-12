@@ -150,7 +150,7 @@ We do this in two ways for each release.
 
    .. code-block:: bash
 
-      pandoc -t markdown_github -f rst+hard_linebreaks CHANGES.rst
+      pandoc -t markdown_github -f rst+hard_line_breaks CHANGES.rst
 
 2. Write a release announcement.
    Generally, it's easiest to start from
