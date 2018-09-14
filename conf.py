@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 import sys
 
-import guzzle_sphinx_theme
+import nengo_sphinx_theme
 
 sys.path.extend(os.path.dirname(__file__))
 extensions = [
@@ -13,7 +13,7 @@ extensions = [
     "sphinx.ext.intersphinx",
     "sphinx.ext.mathjax",
     "sphinx.ext.todo",
-    "guzzle_sphinx_theme",
+    "nengo_sphinx_theme",
     "custom",  # Loaded from the current directory
 ]
 
@@ -25,7 +25,7 @@ exclude_patterns = [
 ]
 
 project = "Nengo"
-copyright = "2016, Applied Brain Research"
+copyright = "2016-2018, Applied Brain Research"
 author = "Applied Brain Research"
 version = release = datetime.now().strftime("%Y-%m-%d")
 language = None
@@ -41,12 +41,22 @@ pygments_style = "sphinx"
 templates_path = ["_templates"]
 html_static_path = ["_static"]
 
-html_theme_path = guzzle_sphinx_theme.html_theme_path()
-html_theme = "guzzle_sphinx_theme"
-
+html_title = "Nengo"
+html_theme = "nengo_sphinx_theme"
+html_sidebars = {
+    "**": [],
+    "contributing": ["sidebar.html"],
+    "how-to": ["sidebar.html"],
+    "conduct": ["sidebar.html"],
+    "style": ["sidebar.html"],
+    "governance": ["sidebar.html"],
+    "reviewing": ["sidebar.html"],
+    "releasing": ["sidebar.html"],
+    "caa": ["sidebar.html"],
+}
 html_theme_options = {
-    "project_nav_name": "Nengo",
-    "base_url": "https://www.nengo.ai/",
+    "canonical_url_path": "",
+    "canonical_url": "https://www.nengo.ai/",
 }
 
 # Other builders

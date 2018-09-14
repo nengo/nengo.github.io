@@ -54,16 +54,4 @@ This website also has additional information on the book.
 .. toctree::
    :maxdepth: 2
 
-   download
-   projects
-   quickstart
-   Core documentation <https://nengo.ai/nengo>
-   GUI documentation <https://github.com/nengo/nengo-gui#nengo-gui>
-   Forum <https://forum.nengo.ai>
-   summerschool
-   build-a-brain/index
    contributing
-   people
-   README
-
-.. todo:: Add overview to toctree once it's cleaned up.
