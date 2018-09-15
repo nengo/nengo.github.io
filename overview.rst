@@ -56,7 +56,7 @@ deep learning, adaptive control, and accurate dynamics, to name a few.
 .. figure:: _static/spaunbrain.svg
    :width: 450
    :alt: NEF Summary
-   :align: left
+   :align: center
    :figwidth: 450
 
    Spaun, the world's largest functional brain model, was built in Nengo.

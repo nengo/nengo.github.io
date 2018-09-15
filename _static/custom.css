@@ -85,3 +85,35 @@ img.float-right {
 a.text-logo {
     background-color: #6ea6d6;
 }
+
+hr.index-spacer {
+    clear: both;
+}
+
+#index .col-md-4, #overview .col-md-4 {
+    width: 20%;
+}
+
+#index .col-md-8 .wrapper-content-right,
+#overview .col-md-8 .wrapper-content-right {
+    width: 90%;
+}
+
+#index ul>li {
+    font-size: px;
+}
+
+#index p {
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    font-size: 24px;
+    line-height: 1.5em;
+}
+
+.wrapper-content-right .section td a img {
+    margin-bottom: 0px;
+}
+
+.wrapper-content-right .section tr:first-child td {
+    border-top: 1px solid #aaa;
+}

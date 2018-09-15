@@ -2,10 +2,10 @@
 The Nengo neural simulator
 **************************
 
-  Build, test, and deploy neural architectures
+Build, test, and deploy neural architectures
 
 .. image:: _static/interface.png
-   :height: 240
+   :height: 210
    :alt: Interface
    :align: right
 
@@ -15,19 +15,21 @@ The Nengo neural simulator
 - Tackle dynamic information processing
 - Easily exploit the latest hardware
 
-..
+.. raw:: html
 
-  Join the Nengo community and learn the ropes
+   <hr class="index-spacer">
+
+Join the Nengo community and learn the ropes
 
 .. image:: _static/hardware.png
-   :height: 200
+   :height: 210
    :alt: Hardware
    :align: right
 
 - Extensive :ref:`documentation <Documentation>`
-- Highly active `forum <https://forum.nengo.ai/>`_
+- Active `forum <https://forum.nengo.ai/>`_
 - Built-in tutorials
-- Read the `code <https://github.com/abr>`_
+- Read the `code <https://github.com/nengo>`_
 
 .. toctree::
    :hidden:
