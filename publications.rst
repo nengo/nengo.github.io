@@ -37,6 +37,13 @@ for a partial list, see `the CNRGlab website
 
 .. todo:: and at the model archive.
 
+
+Eliasmith, C. (2013). How to build a brain: A neural architecture for
+biological cognition. *Oxford University Press*. `website
+<https://compneuro.uwaterloo.ca>`_,
+`amazon
+<http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/>`_
+
 Eliasmith et al. (2012).
 A large-scale model of the functioning brain.
 *Science* Vol. 338 no. 6111 pp. 1202-1205. DOI: 10.1126/science.1225266.
@@ -50,7 +57,7 @@ Biospaun: a large-scale behaving brain model with complex neurons.
 *ArXiv*. `PDF <https://arxiv.org/abs/1602.05220>`__
 
 Publications from summer school
--------------------------------
+===============================
 
 Several projects from the Nengo summer school
 have been published or presented at conferences.
@@ -96,7 +103,7 @@ and phonological levels and the inner speech loop.
 Popular press
 =============
 
-Below are popular press articles that reference Nengo.
+Below are some of the popular press articles that reference Nengo.
 
 .. seealso::
    * `Articles referencing Spaun

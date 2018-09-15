@@ -4,8 +4,6 @@ from datetime import datetime
 import os
 import sys
 
-import nengo_sphinx_theme
-
 sys.path.extend(os.path.dirname(__file__))
 extensions = [
     "sphinx.ext.autosectionlabel",
@@ -21,7 +19,7 @@ suppress_warnings = ['image.nonlocal_uri']
 source_suffix = ".rst"
 master_doc = "index"
 exclude_patterns = [
-    "_build", "Thumbs.db", ".DS_Store", "_records/*.rst", "overview.rst",
+    "_build", "Thumbs.db", ".DS_Store", "_records/*.rst",
 ]
 
 project = "Nengo"
@@ -37,7 +35,7 @@ intersphinx_mapping = {
 }
 
 # HTML theming
-pygments_style = "sphinx"
+pygments_style = "friendly"
 templates_path = ["_templates"]
 html_static_path = ["_static"]
 
@@ -58,6 +56,7 @@ html_theme_options = {
     "canonical_url_path": "",
     "canonical_url": "https://www.nengo.ai/",
 }
+html_favicon = "_static/favicon.ico"
 
 # Other builders
 htmlhelp_basename = "Nengo"

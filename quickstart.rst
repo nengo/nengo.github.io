@@ -5,15 +5,10 @@ Quick start guide
 *****************
 
 There is independent documentation
-for each of the projects
-in the :ref:`Nengo ecosystem`.
-Clicking the |docbutton| button for the project
-will take you to the appropriate site.
+for each Nengo project
+on the :ref:`documentation page <documentation>`.
 
 This page provides a quick guide to running Nengo models.
-
-.. |docbutton| image::
-   https://img.shields.io/badge/documentation--green.svg?style=social
 
 Running models
 ==============
