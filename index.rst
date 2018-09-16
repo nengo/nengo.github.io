@@ -5,7 +5,7 @@ The Nengo neural simulator
 Build, test, and deploy neural architectures
 
 .. image:: _static/interface.png
-   :height: 210
+   :height: 190
    :alt: Interface
    :align: right
 
@@ -22,7 +22,7 @@ Build, test, and deploy neural architectures
 Join the Nengo community and learn the ropes
 
 .. image:: _static/hardware.png
-   :height: 210
+   :height: 190
    :alt: Hardware
    :align: right
 

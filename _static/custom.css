@@ -29,6 +29,38 @@ hr.index-spacer {
     line-height: 1.5em;
 }
 
+#index.row {
+    background-image: url(https://appliedbrainresearch.com/img/brain.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 900px;
+}
+
+#index.row h1 {
+    margin-top: 460px;
+    white-space: nowrap;
+}
+
+@media screen and (max-width: 680px) {
+    #index.row h1 {
+        margin-top: 420px;
+        white-space: normal;
+    }
+}
+
+@media screen and (max-width: 484px) {
+    #index.row h1 {
+        font-size: 40px;
+    }
+}
+
+#index.row .line-block:first-child {
+    margin-top: 70px;
+    font-size: 200%;
+    color: #2e4559;
+}
+
+
 .wrapper-content-right .section td a img {
     margin-bottom: 0px;
 }
