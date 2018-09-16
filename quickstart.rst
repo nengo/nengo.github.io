@@ -101,7 +101,7 @@ through a terminal by typing in ``python``
 and hitting enter.
 You should see a prompt that looks like this:
 
-.. code:: bash
+.. code-block:: bash
 
    $ python
    Python 3.5.3 (default, Jan 19 2017, 14:11:04)
@@ -123,7 +123,7 @@ For example, after downloading
 <https://www.nengo.ai/nengo/examples/single_neuron.html>`_,
 you can run it like this:
 
-.. code:: bash
+.. code-block:: bash
 
    $ python single_neuron.py
 
@@ -146,7 +146,7 @@ For example, after downloading
 <https://www.nengo.ai/nengo/examples/single_neuron.ipynb>`_,
 you can start the notebook like this:
 
-.. code:: bash
+.. code-block:: bash
 
    $ jupyter notebook
 

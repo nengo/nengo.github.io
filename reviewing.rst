@@ -162,7 +162,7 @@ depending on the type of change proposed.
 
    To make a ``fixup`` commit, make your changes, then
 
-   .. code:: bash
+   .. code-block:: bash
 
       git add -A
       git commit --fixup <commit>
@@ -179,7 +179,7 @@ depending on the type of change proposed.
 
    To make a ``squash`` commit, make your changes, then
 
-   .. code:: bash
+   .. code-block:: bash
 
       git add -A
       git commit --squash <commit hash>

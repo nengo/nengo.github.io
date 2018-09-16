@@ -22,7 +22,7 @@ we do a few things to prepare:
    The exact command will depend on the repository,
    but for Nengo core it's
 
-   .. code:: bash
+   .. code-block:: bash
 
       pytest --pyargs nengo --plots --analytics --logs --slow
 
@@ -33,7 +33,7 @@ we do a few things to prepare:
    For example, Nengo OCL depends on Nengo core
    so we run those tests with
 
-   .. code:: bash
+   .. code-block:: bash
 
       pytest --pyargs nengo --plots --simulator nengo_ocl.Simulator
 
@@ -70,20 +70,20 @@ into a separate directory.
 
 3. Run ``collective.checkdocs`` to ensure proper formatting for PyPI.
 
-   .. code:: bash
+   .. code-block:: bash
 
       python setup.py checkdocs
 
 4. ``git add`` the changes above and make a release commit with
 
-   .. code:: bash
+   .. code-block:: bash
 
       git commit -m "Release version X.Y.Z"
 
 5. Create release packages.
    We build source distributions and wheels whenever possible.
 
-   .. code:: bash
+   .. code-block:: bash
 
       python setup.py sdist bdist_wheel
 
@@ -94,14 +94,14 @@ into a separate directory.
 
 7. Upload the release packages to PyPI.
 
-   .. code:: bash
+   .. code-block:: bash
 
       twine upload dist/<package-version>.tar.gz
       twine upload dist/<package-version-extratags>.whl
 
 8. Tag the release commit with the version number; i.e.,
 
-   .. code:: bash
+   .. code-block:: bash
 
       git tag -a vX.Y.Z
 
@@ -128,7 +128,7 @@ put it back in a development state.
 3. ``git add`` the changes above and make a commit describing
    the current state of the repository and commit with
 
-   .. code:: bash
+   .. code-block:: bash
 
       git commit -m "Starting development of vX.Y.Z"
 

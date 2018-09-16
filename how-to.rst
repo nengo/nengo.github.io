@@ -103,7 +103,7 @@ we manage contributions with
    should never edit code on the ``master`` branch!
    To create a branch, use the command
 
-   .. code:: bash
+   .. code-block:: bash
 
       git checkout -b add-forum-link
 
@@ -115,7 +115,7 @@ we manage contributions with
    If your changes are large,
    split the changes up into separate meaningful commits.
 
-   .. code:: bash
+   .. code-block:: bash
 
       git add README.rst
       git commit -m "Add forum link to README"
@@ -125,7 +125,7 @@ we manage contributions with
 
 4. Once your changes are done, push them to Github
 
-   .. code:: bash
+   .. code-block:: bash
 
       git push origin add-forum-link
 

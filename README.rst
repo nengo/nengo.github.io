@@ -25,13 +25,13 @@ are welcome!
 If you want to build the site locally to verify your changes,
 install the requirements with
 
-.. code:: bash
+.. code-block:: bash
 
    pip install -r requirements.txt
 
 Then whenever you want to rebuild the site, do
 
-.. code:: bash
+.. code-block:: bash
 
    sphinx-build . _build
 

@@ -8,7 +8,7 @@ Nengo runs on Windows, Mac OS X and Linux
 and requires Python.
 To install Nengo, we recommend using ``pip``.
 
-.. code:: bash
+.. code-block:: bash
 
    pip install nengo nengo-gui
 
@@ -63,7 +63,7 @@ opt for the Python 3 installer.
 Once Anaconda is installed,
 open the Anaconda command prompt and do
 
-.. code:: bash
+.. code-block:: bash
 
    pip install nengo nengo-gui
 
@@ -79,7 +79,7 @@ you might not use.
 After running the Miniconda_ installer,
 open the command prompt and do
 
-.. code:: bash
+.. code-block:: bash
 
    conda install numpy pip
    pip install nengo nengo-gui
@@ -99,7 +99,7 @@ Mac OS X: Homebrew
 On Mac OS X, Homebrew_ has excellent Python support.
 After installing Homebrew:
 
-.. code:: bash
+.. code-block:: bash
 
    brew install python
    pip install numpy
@@ -112,7 +112,7 @@ Debian, Ubuntu: apt
 
 In Debian, Ubuntu, and other distributions with ``apt``, do:
 
-.. code:: bash
+.. code-block:: bash
 
    sudo apt-get install python-numpy python-pip
    pip install nengo nengo-gui
@@ -122,7 +122,7 @@ Fedora, CentOS: yum
 
 In Fedora, CentOS, and others distributions with ``yum``, do:
 
-.. code:: bash
+.. code-block:: bash
 
    sudo yum install python-numpy python-pip
    pip install nengo nengo-gui
