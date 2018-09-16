@@ -1,101 +1,20 @@
-.MathJax .mi, .MathJax .mo {
-    color: inherit;
-}
-
-.project.container {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-.project {
-    border-bottom: 1px solid #eee;
-    margin-top: 8px;
-    margin-bottom: 8px;
-    padding-bottom: 8px;
-    width: 100%;
-}
-
-.project:last-child {
-    border-bottom: none;
-    margin-bottom: 0;
-    padding-bottom: 0;
-}
-
-.project p {
-    margin-bottom: 4px;
-    margin-top: 3px;
-}
-
-.project strong {
-    font-size: 120%;
-}
-
-.project-info strong a.external {
-    color: #333;
-}
-
-.project-info {
-    display: block;
-    margin-left: 0;
-    width: 340px;
-}
-
-.project-description {
-    display: block;
-    width: 100%;
-}
-
-@media (min-width: 992px) {
-    .project {
-        border-bottom: none;
-    }
-
-    .project-info {
-        display: inline-block;
-        width: 340px;
-    }
-
-    .project-description {
-        display: inline-block;
-        vertical-align: top;
-        width: calc(100% - 350px);
-    }
-}
-
-.project-maintainer {
-    font-size: 80%;
-}
-
-.project-maintainer img {
-    vertical-align: text-bottom;
-}
-
-.project-badges img {
-    margin-bottom: 2px;
-    margin-right: 5px;
-    margin-top: 2px;
-}
-
-img.float-right {
-    float: right;
-    margin-left: 6px;
-    margin-bottom: 6px;
-}
-
-a.text-logo {
-    background-color: #6ea6d6;
-}
-
 hr.index-spacer {
     clear: both;
 }
 
-#index .col-md-4, #overview .col-md-4 {
+.project-maintainer img {
+    vertical-align: text-top;
+}
+
+#index .col-md-4,
+#overview .col-md-4,
+#projects .col-md-4 {
     width: 20%;
 }
 
 #index .col-md-8 .wrapper-content-right,
-#overview .col-md-8 .wrapper-content-right {
+#overview .col-md-8 .wrapper-content-right,
+#projects .col-md-8 .wrapper-content-right {
     width: 90%;
 }
 
