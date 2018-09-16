@@ -10,7 +10,7 @@ contributions to Nengo are organized,
 and what Nengo contributors do.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    how-to
    conduct
