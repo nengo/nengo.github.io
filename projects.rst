@@ -149,6 +149,19 @@ faster or more accurately.
    as well as use deep learning training procedures
    to optimize Nengo model parameters.
 
+.. project:: Nengo Loihi
+   :repo: nengo/nengo-loihi
+   :maintainer: Trevor Bekolay
+   :contact: tbekolay@gmail.com
+   :pypi: nengo-loihi
+   :docs: https://www.nengo.ai/nengo-loihi/
+
+   Nengo Loihi runs Nengo models on
+   Intel's Loihi neuromorphic hardware.
+   Nengo Loihi also includes a software simulation
+   of Loihi's spiking neuron cores so that
+   models can be prototyped before running on real hardware.
+
 .. project:: Nengo SpiNNaker
    :repo: project-rig/nengo_spinnaker
    :maintainer: Andrew Mundy
