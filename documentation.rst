@@ -39,7 +39,7 @@ Jump to documentation for:
 .. _nengoextras: https://www.nengo.ai/nengo-extras/
 
 .. |nengofpga| replace:: Nengo FPGA
-.. _nengofpga: https://github.com/nengo/nengo-fpga
+.. _nengofpga: https://www.nengo.ai/nengo-fpga
 
 .. |nengoloihi| replace:: Nengo Loihi
 .. _nengoloihi: https://www.nengo.ai/nengo-loihi/
