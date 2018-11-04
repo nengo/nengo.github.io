@@ -4,16 +4,14 @@
 Quick start guide
 *****************
 
-There is independent documentation
-for each Nengo project
-on the :ref:`documentation page <documentation>`.
-
-This page provides a quick guide to running Nengo models.
+Start by
+:doc:`downloading and installing Nengo <download>`.
 
 Running models
 ==============
 
-There are two ways to run Nengo models.
+Once you have Nengo installed,
+there are two ways to run Nengo models.
 They can be run either with the Nengo GUI,
 or they can be run with a Python interpreter.
 
@@ -164,6 +162,7 @@ Learning more
 .. toctree::
    :maxdepth: 1
 
+   documentation
    videos
    publications
 
