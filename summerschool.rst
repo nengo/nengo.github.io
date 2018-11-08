@@ -4,37 +4,37 @@
 Nengo summer school
 *******************
 
-2018
+2019
 ====
 
 .. image:: _static/summerschool-campus.png
    :width: 100%
 
-**Introducing Braindrop with Nengo**:
+**Nengo with Loihi:**
 
 The Centre for Theoretical Neuroscience
-at the University of Waterloo
-is excited to announce a special version
-of our annual Nengo summer school that
-will host the **first public access to Braindrop**,
-a new mixed analog-digital neuromorphic chip
-developed in collaboration with Stanford and Yale.
+at the University of Waterloo is excited
+to announce our 6th annual Nengo summer school
+on large-scale brain modelling and neuromorphic computing.
+As a special feature of this year's school,
+participants will be given on-site access to
+`Loihi <https://ieeexplore.ieee.org/document/8259423>`_,
+a neuromorphic research chip developed by Intel Labs.
 
-In addition to introducing Braindrop,
-this two-week school will teach participants
-to use the Nengo simulation package
-to build state-of-the-art cognitive and neural models
-to run both in simulation and on neuromorphic hardware.
-Nengo provides users with
-a versatile and powerful environment
+In addition to teaching participants to run applications
+on Loihi using the Nengo simulation package,
+this two-week school will teach participants to use
+Nengo to build state-of-the-art cognitive and neural models.
+More generally, Nengo provides users
+with a versatile and powerful environment
 for designing cognitive and neural systems,
 and has been used to build what is currently
-the world's largest functional brain model, Spaun.
-Nengo is also being used to program a variety
-of state-of-the-art neuromorphic chips, including Braindrop!
+the world's largest functional brain model, Spaun,
+which includes spiking deep learning, reinforcement learning,
+adaptive motor control, and cognitive control networks.
 
 We welcome applications from all interested
-graduate students, research associates, postdocs,
+graduate students, postdocs,
 professors, and industry professionals.
 No specific training in the use of modelling software is required,
 but we encourage applications from active researchers
@@ -52,7 +52,8 @@ Watch the videos below for a quick look at previous versions of the summer schoo
 
 .. raw:: html
 
-   <iframe width="100%" height="400" src="https://www.youtube.com/embed/lLn9pTfzsAE" frameborder="0" allowfullscreen></iframe>
+   <iframe width="100%" height="400" src="https://www.youtube.com/embed/NwtYgBB2N6I" frameborder="0" allowfullscreen></iframe>
+
 
 **Purpose:**
 The main goal of the summer school is to have participants
@@ -73,7 +74,7 @@ develop new collaborations,
 and generate new ideas for projects.
 Participants will have the opportunity to learn how to:
 
-- interface Nengo with a variety of neuromorphic hardware systems, including Braindrop!
+- use Nengo to program neuromorphic hardware systems, including Loihi!
 - build models through detailed hands-on tutorials
 - build perceptual, motor, and cognitive models with spiking neurons
 - simulate large-scale models at a variety of levels of detail concurrently
@@ -101,7 +102,7 @@ The complete schedule and list of guest lecturers
 will be announced at a later date.
 
 **Dates:**
-June 3th - June 15th, 2018
+June 9th - June 21st, 2019
 
 **Location:**
 University of Waterloo, Ontario, Canada (`map <http://goo.gl/Sa074A>`_)
@@ -128,23 +129,17 @@ A list of general travel options can be found
 `here <https://uwaterloo.ca/about/how-find-us/maps-and-directions>`__.
 
 **Accommodations:**
-On Campus accommodations at
-`Summer Accommodations <https://uwaterloo.ca/summer-accommodations/>`_
-located in Ron Eydt Village
-will be arranged for confirmed participants.
-Summer Accommodations is within walking distance
-of all summer school activities
-and a number of convenient options for meals and recreation.
+On-campus accommodations will be arranged for all confirmed participants.
 The summer school rates
 for these accommodations will be announced at a later date.
 
 **Applications:**
 To apply, you will need to submit a CV and a brief proposal for a project.
 The application form is available
-`here <https://goo.gl/forms/9aZZRdYE4KMSwRXu2>`__.
+`here <https://goo.gl/forms/8h0wCYV6AKIFpIKF3>`__.
 
 **Application deadline:**
-Applications are due on **February 15th, 2018**.
+Applications are due on **February 15th, 2019**.
 
 **Contact information:**
 For any questions,
