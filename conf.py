@@ -52,10 +52,6 @@ html_sidebars = {
     "releasing": ["sidebar.html"],
     "caa": ["sidebar.html"],
 }
-html_theme_options = {
-    "canonical_url_path": "",
-    "canonical_url": "https://www.nengo.ai/",
-}
 html_favicon = "_static/favicon.ico"
 
 # Other builders
