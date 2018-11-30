@@ -20,6 +20,10 @@ As a special feature of this year's school,
 participants will be given on-site access to
 `Loihi <https://ieeexplore.ieee.org/document/8259423>`_,
 a neuromorphic research chip developed by Intel Labs.
+Other neuromorphic devices likely to be available at the
+summer school include Stanford’s mixed digital/analog 
+chip `Braindrop <https://web.stanford.edu/group/brainsinsilicon/>`_,
+and `SpiNNaker <http://apt.cs.manchester.ac.uk/projects/SpiNNaker/>`_.
 
 In addition to teaching participants to run applications
 on Loihi using the Nengo simulation package,
