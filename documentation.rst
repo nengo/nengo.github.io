@@ -14,17 +14,17 @@ see :ref:`here <Nengo ecosystem>`.
 
 Jump to documentation for:
 
-.. |nengocore| image:: https://www.nengo.ai/design/_images/full-light.svg
+.. |nengocore| image:: https://www.nengo.ai/design/_images/general-full-light.svg
    :height: 50
    :alt: Nengo core
    :target: https://www.nengo.ai/nengo
 
-.. |nengodl| image:: https://www.nengo.ai/design/_images/full-light1.svg
+.. |nengodl| image:: https://www.nengo.ai/design/_images/nengo-dl-full-light.svg
    :height: 50
    :alt: NengoDL
    :target: https://www.nengo.ai/nengo-dl/
 
-.. |nengospa| image:: https://www.nengo.ai/design/_images/full-light2.svg
+.. |nengospa| image:: https://www.nengo.ai/design/_images/nengo-spa-full-light.svg
    :height: 50
    :alt: Nengo SPA
    :target: https://www.nengo.ai/nengo-spa/
