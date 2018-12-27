@@ -26,6 +26,11 @@ in the Nengo neural network simulator.
 *Frontiers in Neuroinformatics* 11.
 `PDF <http://journal.frontiersin.org/article/10.3389/fninf.2017.00033/pdf>`__
 
+Rasmussen. (2018)
+NengoDL: Combining deep learning and neuromorphic modelling methods.
+*arXiv* 1805.11144.
+`PDF <https://arxiv.org/pdf/1805.11144>`__
+
 Publications using Nengo
 ========================
 
