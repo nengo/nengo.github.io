@@ -30,6 +30,7 @@ By adding your name to this file, you are agreeing to the
 - Daniel Rasmussen <dhrsmss@gmail.com>
 - Eric Crawford <eric.crawford@mail.mcgill.ca>
 - Eric Hunsberger <erichuns@gmail.com>
+- Hugo Chateau-Laurent <hugo.laurent96@gmail.com>
 - Ivana Kajić <ivana.kajic@gmail.com>
 - James Bergstra <james.bergstra@gmail.com>
 - Jan Gosmann <jan@hyper-world.de>
