@@ -113,7 +113,7 @@ University of Waterloo, Ontario, Canada (`map <http://goo.gl/Sa074A>`_)
 
 **Cost:**
 A registration fee is required of all participants
-(C$600 for academic participants; C$1200 for industry participants).
+(USD $450 for academic participants; USD $900 for industry participants).
 
 This fee includes the cost of breakfast, lunch, and snacks
 during each weekday of the school,
