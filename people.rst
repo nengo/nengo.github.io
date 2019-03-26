@@ -50,6 +50,7 @@ By adding your name to this file, you are agreeing to the
 - Xuan Choo <xchoo.mainframe@gmail.com>
 - Youssef Zaky <youssefzaky@gmail.com>
 - Ziying Zhang <zy8zhang@uwaterloo.ca>
+- David Nicholson <nicholdav@gmail.com>
 
 Financial support
 =================
