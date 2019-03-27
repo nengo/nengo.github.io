@@ -28,6 +28,7 @@ By adding your name to this file, you are agreeing to the
 - Christopher Chan <c88chan@uwaterloo.ca>
 - Colin Cooke <clvcooke@uwaterloo.ca>
 - Daniel Rasmussen <dhrsmss@gmail.com>
+- David Nicholson <nicholdav@gmail.com>
 - Eric Crawford <eric.crawford@mail.mcgill.ca>
 - Eric Hunsberger <erichuns@gmail.com>
 - Ivana Kajić <ivana.kajic@gmail.com>
@@ -50,7 +51,6 @@ By adding your name to this file, you are agreeing to the
 - Xuan Choo <xchoo.mainframe@gmail.com>
 - Youssef Zaky <youssefzaky@gmail.com>
 - Ziying Zhang <zy8zhang@uwaterloo.ca>
-- David Nicholson <nicholdav@gmail.com>
 
 Financial support
 =================
