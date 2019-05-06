@@ -72,16 +72,6 @@ Core framework
    projects in the Nengo ecosystem
    and how these projects are developed.
 
-.. project:: Enhancement proposals
-   :repo: nengo/enhancement-proposals
-   :maintainer: Trevor Bekolay
-   :contact: tbekolay@gmail.com
-   :docs: https://www.nengo.ai/enhancement-proposals/
-
-   Nengo Enhancement Proposals (NEPs) are proposals
-   that touch multiple projects in the Nengo ecosystem,
-   or represent a large change to one important project.
-
 Visualizations and models
 =========================
 

@@ -65,9 +65,9 @@ we follow these policies.
 2. We follow the
    `semantic versioning specification <http://semver.org/>`_.
 
-3. We require that large changes to multiple projects
-   be `proposed <https://github.com/nengo/enhancement-proposals>`_
-   prior to implementation.
+3. Large changes that may affect multiple projects
+   are proposed, planned, and scheduled internally
+   by `Applied Brain Research <http://appliedbrainresearch.com/>`_.
 
 Projects that have not yet been released
 are considered experimental,

@@ -107,6 +107,8 @@ def add_redirects(project, prefix, pages):
 
 
 # enhancement_proposals redirects
+# these in turn redirect back to the home page
+# since the enhancement-proposals repo has been retired
 
 add_redirects("enhancement_proposals", "", [
     "001-template.html",

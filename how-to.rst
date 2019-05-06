@@ -64,24 +64,6 @@ Try to find the shortest script
 or sequence of steps
 to reproduce the bug.
 
-Proposing a large change
-========================
-
-A large change is one that requires the public API
-to change for more than one Nengo project,
-or requires significant public API changes
-for one core project.
-
-To propose a large change,
-make a pull request on the
-`enhancement proposals repository
-<https://github.com/nengo/enhancement-proposals>`_.
-In your pull request, copy the `proposal template
-<https://raw.githubusercontent.com/nengo/enhancement-proposals/master/000-template.rst>`_
-to a new file with an appropriate title,
-and edit the file to explain
-the change you think should be made.
-
 Making pull requests
 ====================
 
