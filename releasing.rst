@@ -7,123 +7,152 @@ your project is using
 `Nengo Bones <https://www.nengo.ai/nengo-bones/>`__
 to generate CI scripts.
 
-Stage 1: Release candidate
-==========================
+In the following steps, ``X.Y.Z`` is the new version number.
 
-1. Switch to ``master`` and ensure it is up-to-date by doing ``git pull``.
+1. Start a release candidate branch.
 
-2. Create a new branch off of ``master`` with the name
-   ``release-candidate-X.Y.Z`` where ``X.Y.Z`` is the new version number.
+  1. Switch to ``master`` and ensure it is up-to-date by doing ``git pull``.
 
-3. Run all tests to ensure they pass on all supported platforms,
-   including slow tests that are normally skipped.
-   The exact command will depend on the repository,
-   but for Nengo core it's
+  2. Create a new branch off of ``master`` with
 
-   .. code-block:: bash
+     .. code-block:: bash
 
-      pytest --pyargs nengo --plots --analytics --logs --slow
+        git checkout -b release-candidate-X.Y.Z
 
-4. Review all of the outputs (e.g., plots)
-   generated from the test suite for abnormalities.
+2. Verify the repository is in a release-ready state.
 
-5. Build documentation and review it for abnormalities.
+   The exact procedure will depend on the repository
+   and how many changes have occurred since the last release,
+   but may include the following steps.
 
-6. Commit all changes from the above steps.
+  1. Run all tests to ensure they pass on all supported platforms,
+     including slow tests that are normally skipped.
+     The command will depend on the repository,
+     but for Nengo core it's
 
-7. Change the version information for your project.
-   For most Python projects, it lives in ``project/version.py``.
-   See that file for details.
+     .. code-block:: bash
 
-8. Set the release date in the changelog, ``CHANGES.rst``.
+        pytest --pyargs nengo --plots --analytics --logs --slow
 
-9. ``git add`` the changes above and make a release commit with
+  2. Review all of the outputs (e.g., plots)
+     generated from the test suite for abnormalities.
 
-   .. code-block:: bash
+  3. Build documentation and review it for abnormalities.
 
-      git commit -m "Release version X.Y.Z"
+  4. Commit all changes from the above steps with appropriate messages.
 
-10. Push with ``git push origin release-candidate-X.Y.Z``
-    to start a TravisCI build that will run several checks
-    to ensure that the repository is in a good state for release.
+3. Make a release commit.
 
-11. If the TravisCI build fails, fix the issues, commit them before the
-    release commit, and push again.
+  1. Change the version information for your project.
+     For most Python projects, it lives in ``project/version.py``.
+     See that file for details.
 
-12. When the TravisCI build succeeds,
-    inspect the release and associated metadata and files at
-    https://test.pypi.org/project/<project>/
+  2. Set the release date in the changelog, ``CHANGES.rst``.
 
-    In particular, make sure that extraneous files are not
-    included in the released files.
-    File sizes give a good indication of whether
-    extra files are present.
-
-    If there are any issues, fix them and commit them before
-    the release commit.
-
-13. If any non-trivial changes were made in this process,
-    open a pull request on the ``release-candidate-X.Y.Z`` branch
-    to have the changes reviewed.
-
-Stage 2: Tagged release
-=======================
-
-1. Merge the ``release-candidate-X.Y.Z`` branch into ``master``.
-
-2. Tag the release commit with the version number; i.e.,
+  3. Commit all changes from the above steps with
 
    .. code-block:: bash
 
-      git tag -a vX.Y.Z
+      git commit -m "Release vX.Y.Z"
 
-   We use annotated tags to retain authorship information.
-   If you wish to provide a message with information about the release,
-   feel free, but it is not necessary.
+4. Push the release candidate branch.
 
-3. Change the version information in ``project/version.py``.
+   This will start a TravisCI build that will run several checks
+   to verify that the repository is in a good state for release.
 
-4. Make a new changelog section in ``CHANGES.rst``
-   in order to collect changes for the next release.
+   1. If the build fails, fix any issues and commit the changes
+      such that they appear before the release commit in ``git log``.
 
-5. ``git add`` the changes above and commit with
+   2. When the TravisCI build succeeds,
+      inspect the release and associated metadata and files at
+      https://test.pypi.org/project/<project>/
 
-   .. code-block:: bash
+      In particular, make sure that extraneous files are not
+      included in the released files.
+      File sizes give a good indication of whether
+      extra files are present.
 
-      git commit -m "Starting development of vX.Y.Z+1"
+      If there are any issues, fix them and commit them before
+      the release commit.
 
-6. ``git push origin master`` and ``git push origin vX.Y.Z``.
-   Pushing the tag will trigger another TravisCI build that will
-   deploy the release and updated documentation.
+   3. *Optional:*
+      Make a pull request on the release candidate branch
+      to solicit reviews.
 
-7. Confirm the release has been done successfully
-   at https://pypi.org/project/<project>/
-   once the TravisCI build is complete.
+      This should be done if any non-trivial changes were made
+      in the previous steps, or if the release includes
+      many changes that should be verified on multiple machines.
+      Use your best judgment and consult with your team if unsure.
 
-Stage 3: Announcing
-===================
+5. Release to PyPI.
 
-1. Copy the changelog into the tag details on the
-   Github release tab.
-   Note that the changelog is in reStructuredText,
-   while Github expects Markdown.
-   Use `Pandoc <http://pandoc.org/try/>`_
-   to convert between the two formats
-   with the following command:
+   1. Tag the release commit with the version number; i.e.,
 
-   .. code-block:: bash
+      .. code-block:: bash
 
-      pandoc -t markdown_github -f rst+hard_line_breaks CHANGES.rst
+         git tag -a vX.Y.Z
 
-2. Write a release announcement.
-   Generally, it's easiest to start from
-   the last release announcement
-   and change it to make sense with the current release
-   so that the overall template of each announcement is similar.
-   Post the release announcement on the
-   `forum <https://forum.nengo.ai/c/general/announcements>`_.
+      We use annotated tags to retain authorship information.
+      If you wish to provide a message with information about the release,
+      feel free, but it is not necessary.
 
-3. Make a PR on the
-   `ABR website repo <https://github.com/abr/abr.github.io>`__
-   modifying a file in the ``_releases`` folder to
-   point to the announcement post on the forum.
+   2. Push the tag with
+
+      .. code-block:: bash
+
+         git push origin vX.Y.Z
+
+      Pushing the tag will trigger another TravisCI build
+      that will deploy the release and updated documentation.
+
+   3. Confirm the release has been done successfully
+      at https://pypi.org/project/<project>/
+      and https://nengo.ai/<project>
+      once the TravisCI build is complete.
+
+6. Start the next version.
+
+   1. Change the version information in ``project/version.py``.
+
+   2. Make a new changelog section in ``CHANGES.rst``
+      in order to collect changes for the next release.
+
+   3. ``git add`` the changes above and commit with
+
+      .. code-block:: bash
+
+         git commit -m "Starting development of vX.Y.Z+1"
+
+   4. *Optional:*
+      If you opened a PR on the release candidate branch,
+      push it to Github so it will be marked as merged.
+
+   5. Merge the release candidate branch into ``master``
+      and push the ``master`` branch.
+
+7. Announce the new release.
+
+  1. Copy the changelog into the tag details on the
+     Github release tab.
+     Note that the changelog is in reStructuredText,
+     while Github expects Markdown.
+     Use `Pandoc <http://pandoc.org/try/>`_
+     to convert between the two formats
+     with the following command:
+
+     .. code-block:: bash
+
+        pandoc -t markdown_github -f rst+hard_line_breaks CHANGES.rst
+
+  2. Write a release announcement.
+     Generally, it's easiest to start from
+     the last release announcement
+     and change it to make sense with the current release
+     so that the overall template of each announcement is similar.
+     Post the release announcement on the
+     `forum <https://forum.nengo.ai/c/general/announcements>`_.
+
+  3. Make a PR on the
+     `ABR website repo <https://github.com/abr/abr.github.io>`__
+     modifying a file in the ``_releases`` folder to
+     point to the announcement post on the forum.
