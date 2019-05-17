@@ -53,6 +53,9 @@ html_sidebars = {
     "caa": ["sidebar.html"],
 }
 html_favicon = "_static/favicon.ico"
+html_theme_options = {
+    "analytics_id": "UA-41658423-2",
+}
 
 # Other builders
 htmlhelp_basename = "Nengo"
