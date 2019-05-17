@@ -107,7 +107,6 @@ In the following steps, ``X.Y.Z`` is the new version number.
 
    3. Confirm the release has been done successfully
       at https://pypi.org/project/<project>/
-      and https://nengo.ai/<project>
       once the TravisCI build is complete.
 
 6. Start the next version.
@@ -130,6 +129,8 @@ In the following steps, ``X.Y.Z`` is the new version number.
    5. Merge the release candidate branch into ``master``
       and push the ``master`` branch.
 
+   6. Delete the release candidate branch locally and remotely.
+
 7. Announce the new release.
 
   1. Copy the changelog into the tag details on the
@@ -142,7 +143,7 @@ In the following steps, ``X.Y.Z`` is the new version number.
 
      .. code-block:: bash
 
-        pandoc -t markdown_github -f rst+hard_line_breaks CHANGES.rst
+        pandoc -t gfm -f rst CHANGES.rst
 
   2. Write a release announcement.
      Generally, it's easiest to start from
