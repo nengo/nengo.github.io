@@ -1,0 +1,91 @@
+---
+layout: default
+theme: theme-pink
+
+title: Documentation
+subTitle: Join the Nengo community and learn the ropes
+pageTitle: Nengo Documentation
+---
+
+<div class="main-content gradient-top">
+  <div class="container">
+    {% include documentation-title-block.html
+    title=page.title subTitle=page.subTitle %}
+
+    <div class="row justify-content-center">
+      <div class="col-10 col-lg-7 col-xl-7">
+        <h3>The Nengo <strong>Ecosystem</strong></h3>
+        <p>
+          The Nengo ecosystem is made up of several interacting projects. The
+          following image groups these projects into rough categories.
+        </p>
+        <img
+          class="img-fluid"
+          src="{{ site.baseurl }}/img/ecosystem.svg"
+          alt="Nengo Ecosystem Chart"
+        />
+      </div>
+      <div class="col-10 col-lg-3 col-xl-3 fade-in">
+        <div class="card border-0 shadow-sm">
+          <div class="card-header">
+            <h5 class="m-0 py-2">New to Nengo?</h5>
+          </div>
+          <div class="card-body">
+            <p>Download Nengo and start running models today!</p>
+            <a
+              class="btn btn-primary btn-block"
+              href="{{ site.baseurl }}{% link download.md %}"
+              >Download Nengo</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div
+        class="col-10 col-lg-6 offset-lg-1 product-header mt-5 mb-1 py-0 py-sm-5"
+      >
+        <h2 class="display-4 uppercase">Core Framework</h2>
+        <div class="title-bar title-bar-pink"></div>
+      </div>
+
+      {% for project in site.data.projects %}
+      {% if project.section == "framework" %}
+      {% include project-info.html project=project %}
+      {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="row">
+      <div
+        class="col-10 col-lg-6 offset-lg-1 product-header mt-5 mb-1 py-0 py-sm-5"
+      >
+        <h2 class="display-4 uppercase">Add-ons &amp; Models</h2>
+        <div class="title-bar title-bar-blue"></div>
+      </div>
+
+      {% for project in site.data.projects %}
+      {% if project.section == "addon" %}
+      {% include project-info.html project=project %}
+      {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="row">
+      <div
+        class="col-10 col-lg-6 offset-lg-1 product-header mt-5 mb-1 py-0 py-sm-5"
+      >
+        <h2 class="display-4 uppercase">Simulation Backends</h2>
+        <div class="title-bar title-bar-teal"></div>
+      </div>
+
+      {% for project in site.data.projects %}
+      {% if project.section == "backend" %}
+      {% include project-info.html project=project %}
+      {% endif %}
+      {% endfor %}
+    </div>
+
+  </div>
+</div>

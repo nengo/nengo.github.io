@@ -1,3 +1,0 @@
-sphinx
-nengo-sphinx-theme>=0.11
-ghp-import

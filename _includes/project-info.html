@@ -1,0 +1,29 @@
+<div class="col-10 col-lg-7 offset-lg-1 mb-5">
+  <h3>
+    <a class="project-logo" href="{{ project.external_url }}">
+      {% if project.logo %}
+      <img
+        class="documentation-image"
+        src="{{ project.logo }}"
+        alt="{{ project.name }}"
+      />
+      {% else %}
+      {{ project.name }}
+      {% endif %}
+    </a>
+  </h3>
+  <p>{{ project.description }}</p>
+  <div class="badges border rounded d-flex d-flex-wrap py-2 px-3">
+    <a href="{{ project.external_url }}">
+      <img
+        src="https://img.shields.io/badge/-documentation-555555.svg?style=flat&logo=read-the-docs&logoColor=white"
+        alt="{{ project.name }} documentation"
+      />
+    </a>
+    {% for badge in project.badges %}
+    <a href="{{ badge.external_url }}">
+      <img src="{{ badge.image }}" alt="{{ badge.alt }}" />
+    </a>
+    {% endfor %}
+  </div>
+</div>
