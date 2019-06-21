@@ -1,0 +1,18 @@
+# Github sets these, and we can't change them.
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# These we can modify.
+encoding: UTF-8
+permalink: pretty
+
+sass:
+  sass_dir: css

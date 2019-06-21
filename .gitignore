@@ -1,3 +1,6 @@
-_build
-__pycache__
-*.pyc
+Gemfile.lock
+.DS_Store
+.bundle
+_site/
+vendor/
+.vscode

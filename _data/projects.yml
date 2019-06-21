@@ -1,0 +1,204 @@
+- name: Nengo Core
+  section: framework
+  external_url: https://www.nengo.ai/nengo/
+  logo: https://www.nengo.ai/design/_images/general-full-light.svg
+  description: >
+    The core of the Nengo ecosystem is the Python library nengo, which
+    includes the five Nengo objects (Ensemble, Node, Connection, Probe,
+    Network) and a NumPy-based simulator.
+  badges:
+    - image: https://img.shields.io/pypi/v/nengo.svg
+      external_url: https://pypi.python.org/pypi/nengo
+      alt: Latest PyPI version
+    - image: https://img.shields.io/travis/nengo/nengo/master.svg
+      external_url: https://travis-ci.org/nengo/nengo
+      alt: Travis-CI build status
+    - image: https://img.shields.io/codecov/c/github/nengo/nengo/master.svg
+      external_url: https://codecov.io/gh/nengo/nengo/branch/master
+      alt: Test coverage
+    - image: https://img.shields.io/github/stars/nengo/nengo.svg?logo=github
+      external_url: https://github.com/nengo/nengo
+      alt: Github stars
+- name: Nengo GUI
+  section: framework
+  external_url: https://github.com/nengo/nengo-gui/
+  description: >
+    Nengo GUI is a web browser-based interactive model construction and
+    visualization tool.
+  badges:
+    - image: https://img.shields.io/pypi/v/nengo-gui.svg
+      external_url: https://pypi.python.org/pypi/nengo-gui
+      alt: Latest PyPI version
+    - image: https://img.shields.io/github/stars/nengo/nengo-gui.svg?logo=github
+      external_url: https://github.com/nengo/nengo-gui
+      alt: Github stars
+- name: Nengo DL
+  section: framework
+  external_url: https://www.nengo.ai/nengo-dl/
+  logo: https://www.nengo.ai/design/_images/nengo-dl-full-light.svg
+  description: >
+    Nengo DL simulates Nengo models using the
+    TensorFlow library to easily interact with deep
+    learning networks, as well as use deep learning training
+    procedures to optimize Nengo model parameters.
+  badges:
+    - image: https://img.shields.io/pypi/v/nengo-dl.svg
+      external_url: https://pypi.python.org/pypi/nengo-dl
+      alt: Latest PyPI version
+    - image: https://img.shields.io/travis/nengo/nengo-dl/master.svg
+      external_url: https://travis-ci.org/nengo/nengo-dl
+      alt: Travis-CI build status
+    - image: https://img.shields.io/codecov/c/github/nengo/nengo-dl/master.svg
+      external_url: https://codecov.io/gh/nengo/nengo-dl/branch/master
+      alt: Test coverage
+    - image: https://img.shields.io/github/stars/nengo/nengo-dl.svg?logo=github
+      external_url: https://github.com/nengo/nengo-dl
+      alt: Github stars
+- name: Nengo SPA
+  section: addon
+  external_url: https://www.nengo.ai/nengo-spa/
+  logo: https://www.nengo.ai/design/_images/nengo-spa-full-light.svg
+  description: >
+    The Semantic Pointer Architecture (SPA) uses Nengo to build large
+    cognitive models.
+  badges:
+    - image: https://img.shields.io/pypi/v/nengo-spa.svg
+      external_url: https://pypi.python.org/pypi/nengo-spa
+      alt: Latest PyPI version
+    - image: https://img.shields.io/travis/nengo/nengo-spa/master.svg
+      external_url: https://travis-ci.org/nengo/nengo-spa
+      alt: Travis-CI build status
+    - image: https://img.shields.io/codecov/c/github/nengo/nengo-spa/master.svg
+      external_url: https://codecov.io/gh/nengo/nengo-spa/branch/master
+      alt: Test coverage
+    - image: https://img.shields.io/github/stars/nengo/nengo-spa.svg?logo=github
+      external_url: https://github.com/nengo/nengo-spa
+      alt: Github stars
+- name: Nengo Extras
+  section: addon
+  external_url: https://www.nengo.ai/nengo-extras/
+  description: >
+    Extra utilities and add-ons for Nengo. These utilities are helpful
+    when you need them, but they’re not necessary for using Nengo, so we
+    keep them separate to keep the Nengo core as small as possible.
+  badges:
+    - image: https://img.shields.io/pypi/v/nengo-extras.svg
+      external_url: https://pypi.python.org/pypi/nengo-extras
+      alt: Latest PyPI version
+    - image: https://img.shields.io/travis/nengo/nengo-extras/master.svg
+      external_url: https://travis-ci.org/nengo/nengo-extras
+      alt: Travis-CI build status
+    - image: https://img.shields.io/codecov/c/github/nengo/nengo-extras/master.svg
+      external_url: https://codecov.io/gh/nengo/nengo-extras/branch/master
+      alt: Test coverage
+    - image: https://img.shields.io/github/stars/nengo/nengo-extras.svg?logo=github
+      external_url: https://github.com/nengo/nengo-extras
+      alt: Github stars
+- name: Nengolib
+  section: addon
+  external_url: https://arvoelke.github.io/nengolib-docs/
+  description: >
+    Additional extensions for large-scale brain modelling with Nengo.
+    Includes advanced dynamics networks, additional synapse models, and
+    more.
+  badges:
+    - image: https://img.shields.io/pypi/v/nengolib.svg
+      external_url: https://pypi.python.org/pypi/nengolib
+      alt: Latest PyPI version
+    - image: https://img.shields.io/travis/arvoelke/nengolib/master.svg
+      external_url: https://travis-ci.org/arvoelke/nengolib
+      alt: Travis-CI build status
+    - image: https://img.shields.io/codecov/c/github/arvoelke/nengolib/master.svg
+      external_url: https://codecov.io/gh/arvoelke/nengolib/branch/master
+      alt: Test coverage
+    - image: https://img.shields.io/github/stars/arvoelke/nengolib.svg?logo=github
+      external_url: https://github.com/arvoelke/nengolib
+      alt: Github stars
+- name: Nengo Examples
+  section: addon
+  external_url: https://github.com/nengo/nengo-examples/
+  description: >
+    Nengo models that are too big or complex to include in documentation,
+    but are still useful examples for people building similar models.
+  badges:
+    - image: https://img.shields.io/github/stars/nengo/nengo-examples.svg?logo=github
+      external_url: https://github.com/nengo/nengo-examples
+      alt: Github stars
+- name: Nengo FPGA
+  section: backend
+  external_url: https://www.nengo.ai/nengo-fpga/
+  logo: https://www.nengo.ai/design/_images/nengo-fpga-full-light.svg
+  description: >
+    NengoFPGA is an extension of Nengo that allows portions of a network
+    to be run on an FPGA to improve performance and efficiency.
+  badges:
+    - image: https://img.shields.io/travis/com/nengo/nengo-fpga/master.svg
+      external_url: https://travis-ci.com/nengo/nengo-fpga
+      alt: Travis-CI build status
+    - image: https://img.shields.io/github/stars/nengo/nengo-fpga.svg?logo=github
+      external_url: https://github.com/nengo/nengo-fpga
+      alt: Github stars
+- name: Nengo Loihi
+  section: backend
+  external_url: https://www.nengo.ai/nengo-loihi/
+  logo: https://www.nengo.ai/design/_images/nengo-loihi-full-light.svg
+  description: >
+    Nengo Loihi runs Nengo models on Intel's Loihi neuromorphic hardware.
+    Nengo Loihi also includes a software simulation of Loihi’s spiking
+    neuron cores so that models can be prototyped before running on real
+    hardware.
+  badges:
+    - image: https://img.shields.io/pypi/v/nengo-loihi.svg
+      external_url: https://pypi.python.org/pypi/nengo-loihi
+      alt: Latest PyPI version
+    - image: https://img.shields.io/travis/com/nengo/nengo-loihi/master.svg
+      external_url: https://travis-ci.com/nengo/nengo-loihi
+      alt: Travis-CI build status
+    - image: https://img.shields.io/codecov/c/github/nengo/nengo-loihi/master.svg
+      external_url: https://codecov.io/gh/nengo/nengo-loihi/branch/master
+      alt: Test coverage
+    - image: https://img.shields.io/github/stars/nengo/nengo-loihi.svg?logo=github
+      external_url: https://github.com/nengo/nengo-loihi
+      alt: Github stars
+- name: Nengo OpenCL
+  section: backend
+  external_url: https://github.com/nengo/nengo-ocl
+  description: >
+    Nengo OpenCL uses the OpenCL framework to run Nengo models on GPUs and
+    other platforms. Most models run significantly faster with Nengo OpenCL.
+  badges:
+    - image: https://img.shields.io/pypi/v/nengo-ocl.svg
+      external_url: https://pypi.python.org/pypi/nengo-ocl
+      alt: Latest PyPI version
+    - image: https://img.shields.io/github/stars/nengo/nengo-ocl.svg?logo=github
+      external_url: https://github.com/nengo/nengo-ocl
+      alt: Github stars
+- name: Nengo SpiNNaker
+  section: backend
+  external_url: https://github.com/project-rig/nengo_spinnaker
+  logo: https://www.nengo.ai/design/_images/nengo-spinnaker-full-light.svg
+  description: >
+    Nengo SpiNNaker simulates Nengo models using SpiNNaker architecture
+    and associated hardware. Models running on SpiNNaker always execute in
+    real time.
+  badges:
+    - image: https://img.shields.io/pypi/v/nengo-spinnaker.svg
+      external_url: https://pypi.python.org/pypi/nengo-spinnaker
+      alt: Latest PyPI version
+    - image: https://img.shields.io/github/stars/project-rig/nengo_spinnaker.svg?logo=github
+      external_url: https://github.com/project-rig/nengo_spinnaker
+      alt: Github stars
+- name: Nengo MPI
+  section: backend
+  external_url: https://github.com/nengo/nengo-mpi
+  description: >
+    Nengo MPI simulates Nengo models using a C++ backend that uses MPI to
+    parallelize the running of the model on large numbers of heterogeneous
+    processing units.
+  badges:
+    - image: https://img.shields.io/travis/nengo/nengo-mpi/master.svg
+      external_url: https://travis-ci.org/nengo/nengo-mpi
+      alt: Travis-CI build status
+    - image: https://img.shields.io/github/stars/nengo/nengo-mpi.svg?logo=github
+      external_url: https://github.com/nengo/nengo-mpi
+      alt: Github stars
