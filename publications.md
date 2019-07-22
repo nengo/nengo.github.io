@@ -53,10 +53,11 @@ Eliasmith, Gosmann & Choo. (2016) Biospaun: a large-scale behaving brain
 model with complex neurons. *ArXiv*.
 [PDF](https://arxiv.org/abs/1602.05220)
 
-## Publications from summer school
+## Publications from Nengo summer school
 
-Several projects from the Nengo summer school have been published or
-presented at conferences.
+Several projects from the
+[Nengo summer school]({{ site.baseurl }}{% link summer-school.md %})
+have been published or presented at conferences.
 
 Kröger, Bekolay, & Eliasmith. (2014) Modeling speech production using
 the Neural Engineering Framework. In *5th IEEE Conference on Cognitive
@@ -88,6 +89,12 @@ between speech production and perception: speech error detection at
 semantic and phonological levels and the inner speech loop. *Frontiers
 in Computational Neuroscience* 10:51. [Full
 text](https://www.frontiersin.org/articles/10.3389/fncom.2016.00051/full)
+
+Borst, Aubin, & Stewart (2018)
+Effective computing in the brain:
+a whole-task spiking neural network model of associative recognition.
+*Cognitive Computing*. Philadelphia, Pennsylvania.
+[PDF](https://drive.google.com/file/d/1xiwFjdDcHZDQg84qaoe0zpxEQE73lQYQ/view)
 
 ## Popular press
 
