@@ -26,6 +26,11 @@ graph in the Nengo neural network simulator. *Frontiers in
 Neuroinformatics* 11.
 [PDF](http://journal.frontiersin.org/article/10.3389/fninf.2017.00033/pdf)
 
+Rasmussen. (2018)
+NengoDL: Combining deep learning and neuromorphic modelling methods.
+*ArXiv* 1805.11144.
+[PDF](https://arxiv.org/pdf/1805.11144)
+
 ## Publications using Nengo
 
 Below are a small selection of publications that use Nengo. Nengo has
