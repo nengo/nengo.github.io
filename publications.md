@@ -57,7 +57,8 @@ model with complex neurons. *ArXiv*.
 
 Several projects from the
 [Nengo summer school]({{ site.baseurl }}{% link summer-school.md %})
-have been published or presented at conferences.
+have been published or presented at conferences,
+or have acknowledged the summer school as a source of ideas.
 
 Kröger, Bekolay, & Eliasmith. (2014) Modeling speech production using
 the Neural Engineering Framework. In *5th IEEE Conference on Cognitive
@@ -95,6 +96,10 @@ Effective computing in the brain:
 a whole-task spiking neural network model of associative recognition.
 *Cognitive Computing*. Philadelphia, Pennsylvania.
 [PDF](https://drive.google.com/file/d/1xiwFjdDcHZDQg84qaoe0zpxEQE73lQYQ/view)
+
+Ororbia (2019) Spiking Neural Predictive Coding for Continual
+Learning from Data Streams. *arXiv* 1908.08655.
+[PDF](https://arxiv.org/pdf/1908.08655)
 
 ## Popular press
 
