@@ -1320,3 +1320,7 @@ dt:target,
 span.highlighted {
   background-color: lighten(theme-color("yellow"), 15%);
 }
+
+a.no-hover-line:hover {
+  text-decoration: none;
+}

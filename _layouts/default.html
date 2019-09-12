@@ -15,6 +15,7 @@
       gtag("config", "UA-41658423-2");
     </script>
 
+    <!-- prettier-ignore -->
     <title>
       {% if page.pageTitle %}
       {{ page.pageTitle }}
@@ -104,6 +105,7 @@
                 href="#"
                 >Documentation</a
               >
+              <!-- prettier-ignore -->
               <div
                 class="dropdown-menu shadow-lg border-0"
                 aria-labelledby="navbar-dropdown-docs"
@@ -118,7 +120,7 @@
                   {% for project in site.data.projects %}
                     {% if project.section == section %}
                 <a class="dropdown-item" href="{{ project.external_url }}"
-                   >{{ project.name }}</a
+                  >{{ project.name }}</a
                 >
                     {% endif %}
                   {% endfor %}
@@ -202,12 +204,17 @@
 
     <footer class="text-light footer-main {{ page.footerClasses }}">
       <p class="small text-center mb-0">
+        <a class="no-hover-line" href="https://appliedbrainresearch.com">
+          <img
+            src="https://appliedbrainresearch.com/img/logo-blue-notext.svg"
+            height="48"
+          />
+        </a>
         <a href="{{ site.baseurl }}{% link index.html %}">What is Nengo?</a>
         <a href="{{ site.baseurl }}{% link documentation.html %}"
           >Documentation</a
         >
         <a href="{{ site.baseurl }}{% link download.md %}">Download</a>
-        <a href="https://appliedbrainresearch.com">ABR</a>
         <a href="{{ site.baseurl }}{% link privacy.md %}">Privacy</a>
       </p>
       <p class="small text-center mb-0">&copy; Applied Brain Research</p>
