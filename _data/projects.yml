@@ -114,16 +114,6 @@
     - image: https://img.shields.io/github/stars/arvoelke/nengolib.svg?logo=github
       external_url: https://github.com/arvoelke/nengolib
       alt: Github stars
-- name: Nengo Examples
-  section: addon
-  external_url: https://github.com/nengo/nengo-examples/
-  description: >
-    Nengo models that are too big or complex to include in documentation,
-    but are still useful examples for people building similar models.
-  badges:
-    - image: https://img.shields.io/github/stars/nengo/nengo-examples.svg?logo=github
-      external_url: https://github.com/nengo/nengo-examples
-      alt: Github stars
 - name: Nengo FPGA
   section: backend
   external_url: https://www.nengo.ai/nengo-fpga/
