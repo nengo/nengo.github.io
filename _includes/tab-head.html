@@ -1,0 +1,10 @@
+<li class="nav-item">
+  <a
+    class="nav-link{% if include.active %} active {% endif %}"
+    id="{{ include.id }}-tab"
+    data-toggle="pill"
+    href="#{{ include.id }}"
+    role="tab"
+    >{{ include.name }}</a
+  >
+</li>

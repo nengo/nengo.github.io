@@ -1,0 +1,150 @@
+<h2>
+  <a
+    href="#"
+    class="collapsed no-hover-line dropdown-toggle"
+    data-toggle="collapse"
+    data-target="#installing-python-and-numpy"
+  >
+    Detailed installation instructions
+  </a>
+</h2>
+<div id="installing-python-and-numpy" class="collapse">
+  <p>
+    Nengo's only required dependency is NumPy, and we recommend that you install
+    it first. The best way to install NumPy depends on several factors, such as
+    your operating system. Briefly, what we have found to work best on each
+    operating system is:
+  </p>
+
+  <ul>
+    <li>
+      Windows: Use Anaconda, Miniconda, or the
+      <a href="https://www.python.org/downloads">official installer</a> and
+      <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/"
+        >unofficial binaries</a
+      >
+    </li>
+    <li>Mac OS X: Use Anaconda, Miniconda, or Homebrew.</li>
+    <li>Linux: Use Anaconda, Miniconda, or your OS's package manager.</li>
+  </ul>
+
+  <!-- prettier-ignore -->
+  <ul class="nav nav-tabs" id="install-tabs" role="tablist">
+    {% include tab-head.html id="anaconda" name="Anaconda" active="true" %}
+    {% include tab-head.html id="miniconda" name="Miniconda" %}
+    {% include tab-head.html id="homebrew" name="Homebrew" %}
+    {% include tab-head.html id="apt" name="apt" %}
+    {% include tab-head.html id="yum" name="yum" %}
+    {% include tab-head.html id="source" name="From source" %}
+  </ul>
+
+  <div class="tab-content" id="install-content">
+    <div class="tab-pane fade show active" id="anaconda" role="tabpanel">
+      <p>
+        <a href="https://store.continuum.io/cshop/anaconda/">Anaconda</a>
+        provides an all-in-one solution that will install Python, NumPy, and
+        other optional Nengo dependencies. It works on all operating systems
+        (Windows, Mac, Linux) and does not require administrator privileges. It
+        includes GUI tools, as well as a robust command line tool,
+        <code>conda</code>, for managing your Python installation.
+      </p>
+
+      <p>
+        Run the graphical installer for your operating system to install it.
+        Unless you have a reason to stay with Python 2, opt for the Python 3
+        installer. Once Anaconda is installed, open the Anaconda command prompt
+        and do
+      </p>
+
+      <div class="language-bash highlighter-rouge">
+        <div class="highlight">
+          <pre><code>pip install nengo nengo-gui</code></pre>
+        </div>
+      </div>
+
+      <p>to complete Nengo installation.</p>
+    </div>
+
+    <div class="tab-pane fade" id="miniconda" role="tabpanel">
+      <p>
+        <a href="https://conda.io/miniconda.html">Miniconda</a>
+        gives you the convenience of the <code>conda</code> command line tool
+        without having to download a ton of packages you might not use. After
+        running the Miniconda installer, open the command prompt and do
+      </p>
+
+      <div class="language-bash highlighter-rouge">
+        <div class="highlight">
+          <pre><code>conda install numpy pip
+pip install nengo nengo-gui</code></pre>
+        </div>
+      </div>
+
+      <p>to install Nengo and its dependencies.</p>
+    </div>
+
+    <div class="tab-pane fade" id="homebrew" role="tabpanel">
+      <p>
+        On Mac OS X, <a href="http://brew.sh/">Homebrew</a> has excellent Python
+        support. After installing Homebrew:
+      </p>
+
+      <div class="language-bash highlighter-rouge">
+        <div class="highlight">
+          <pre><code>brew install python
+pip install numpy
+pip install nengo nengo-gui</code></pre>
+        </div>
+      </div>
+
+      <p>
+        will install Nengo and its dependencies.
+      </p>
+    </div>
+
+    <div class="tab-pane fade" id="apt" role="tabpanel">
+      <p>
+        In Debian, Ubuntu, and other distributions that use <code>apt</code>,
+        do:
+      </p>
+
+      <div class="language-bash highlighter-rouge">
+        <div class="highlight">
+          <pre><code>sudo apt install python-numpy python-pip
+pip install nengo nengo-gui</code></pre>
+        </div>
+      </div>
+    </div>
+
+    <div class="tab-pane fade" id="yum" role="tabpanel">
+      <p>
+        In Fedora, CentOS, and others distributions that use <code>yum</code>,
+        do:
+      </p>
+
+      <div class="language-bash highlighter-rouge">
+        <div class="highlight">
+          <pre><code>sudo yum install python-numpy python-pip
+pip install nengo nengo-gui</code></pre>
+        </div>
+      </div>
+    </div>
+
+    <div class="tab-pane fade" id="source" role="tabpanel">
+      <p>
+        If speed is an issue and you know your way around a terminal, installing
+        NumPy from source is flexible and performant. See the detailed
+        instructions
+        <a
+          href="http://hunseblog.wordpress.com/2014/09/15/installing-numpy-and-openblas/"
+          >here</a
+        >.
+      </p>
+
+      <p>
+        Once NumPy is installed, you can install Nengo with
+        <code>pip install nengo nengo-gui</code>
+      </p>
+    </div>
+  </div>
+</div>

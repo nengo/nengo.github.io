@@ -132,7 +132,7 @@
               </div>
             </li>
             <li
-              class="nav-item dropdown{% if page.name != 'index.html' and page.name != 'documentation.html' and page.name != 'download.md' %} active{% endif %}"
+              class="nav-item dropdown{% if page.name != 'index.html' and page.name != 'documentation.html' and page.name != 'getting-started.md' %} active{% endif %}"
             >
               <a
                 class="nav-link dropdown-toggle"
@@ -187,12 +187,12 @@
               </div>
             </li>
             <li
-              class="nav-item{% if page.name == 'download.md' %} active{% endif %}"
+              class="nav-item{% if page.name == 'getting-started.md' %} active{% endif %}"
             >
               <a
                 class="nav-link btn btn-success btn-sm text-white"
-                href="{{ site.baseurl }}{% link download.md%}"
-                >Download</a
+                href="{{ site.baseurl }}{% link getting-started.md%}"
+                >Getting started</a
               >
             </li>
           </ul>
@@ -214,7 +214,7 @@
         <a href="{{ site.baseurl }}{% link documentation.html %}"
           >Documentation</a
         >
-        <a href="{{ site.baseurl }}{% link download.md %}">Download</a>
+        <a href="{{ site.baseurl }}{% link getting-started.md %}">Getting started</a>
         <a href="{{ site.baseurl }}{% link privacy.md %}">Privacy</a>
       </p>
       <p class="small text-center mb-0">&copy; Applied Brain Research</p>
