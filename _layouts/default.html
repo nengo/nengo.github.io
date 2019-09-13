@@ -94,6 +94,15 @@
               >
             </li>
             <li
+              class="nav-item{% if page.name == 'examples.md' %} active{% endif %}"
+            >
+              <a
+                class="nav-link"
+                href="{{ site.baseurl }}{% link examples.md %}"
+                >Examples</a
+              >
+            </li>
+            <li
               class="nav-item dropdown{% if page.name == 'documentation.html' %} active{% endif %}"
             >
               <a
@@ -132,7 +141,7 @@
               </div>
             </li>
             <li
-              class="nav-item dropdown{% if page.name != 'index.html' and page.name != 'documentation.html' and page.name != 'getting-started.md' %} active{% endif %}"
+              class="nav-item dropdown{% if page.name != 'index.html' and page.name != 'documentation.html' and page.name != 'getting-started.md' and page.name != 'examples.md' %} active{% endif %}"
             >
               <a
                 class="nav-link dropdown-toggle"
@@ -211,6 +220,7 @@
           />
         </a>
         <a href="{{ site.baseurl }}{% link index.html %}">What is Nengo?</a>
+        <a href="{{ site.baseurl }}{% link examples.md %}">Examples</a>
         <a href="{{ site.baseurl }}{% link documentation.html %}"
           >Documentation</a
         >
