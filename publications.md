@@ -31,6 +31,9 @@ NengoDL: Combining deep learning and neuromorphic modelling methods.
 *ArXiv* 1805.11144.
 [PDF](https://arxiv.org/pdf/1805.11144)
 
+Morcos, B. (2019). NengoFPGA: an FPGA Backend for the Nengo Neural Simulator.
+*UWSpace*. [website](https://hdl.handle.net/10012/14923)
+
 ## Publications using Nengo
 
 Below are a small selection of publications that use Nengo. Nengo has
