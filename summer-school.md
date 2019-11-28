@@ -6,27 +6,28 @@ title: Nengo Summer School
 footerClasses: gradient-bottom
 ---
 
-## 2019
+## 2020
 
 [<img alt="Nengo summer school"
 src="{{ site.baseurl }}/img/summerschool-campus.png"
 style="width: 100%;"/>]({{ site.baseurl }}/img/summerschool-campus.png)
 
-**Nengo with Loihi:**
+**Nengo with Neuromorphic Hardware:**
 
 The Centre for Theoretical Neuroscience at the University of
-Waterloo is excited to announce our 6th annual Nengo summer school
+Waterloo is excited to announce our 7th annual Nengo summer school
 on large-scale brain modelling and neuromorphic computing. As a
-special feature of this year’s school, participants will be given
+recurring special feature of the school, participants will be given
 on-site access to [Loihi](https://ieeexplore.ieee.org/document/8259423),
 a neuromorphic research chip developed by Intel Labs. Other
 neuromorphic devices likely to be available at the summer school
 include Stanford’s mixed digital/analog chip
 [Braindrop](https://web.stanford.edu/group/brainsinsilicon/),
-and [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/).
+the [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/) chip, and a
+variety of [FPGAs](https://www.nengo.ai/nengo-fpga/).
 
-In addition to teaching participants to run applications on Loihi
-using the Nengo simulation package, this two-week school will
+In addition to teaching participants to run applications on neuromorphic 
+hardware using the Nengo simulation package, this two-week school will
 teach participants to use Nengo to build state-of-the-art
 cognitive and neural models. More generally, Nengo provides users
 with a versatile and powerful environment for designing cognitive
@@ -73,15 +74,14 @@ for projects. Participants will have the opportunity to learn how
 to:
 
 - use Nengo to program neuromorphic hardware systems, including Loihi!
-- build models through detailed hands-on tutorials
+- integrate machine learning methods into biologically oriented models
+- interface Nengo with cameras and robotic systems of various kinds
 - build perceptual, motor, and cognitive models with spiking neurons
 - simulate large-scale models at a variety of levels of detail concurrently
 - model anatomical and electrophysiological data
 - model cognitive and behavioural data with a detailed neural model
 - use a variety of single cell models within a large-scale model
 - use your favorite simulator, e.g. NEST, Brian, Neuron, etc.
-- integrate machine learning methods into biologically oriented models
-- interface Nengo with cameras and robotic systems of various kinds
 - implement modern non-linear control methods in a neural model
 - and much more ...
 
@@ -95,7 +95,7 @@ with a variety of prizes for strong projects! The complete
 schedule and list of guest lecturers will be announced at a later
 date.
 
-**Dates:** June 9th - June 21st, 2019
+**Dates:** June 7th - June 19th, 2020
 
 **Location:** University of Waterloo, Ontario, Canada
 ([map](http://goo.gl/Sa074A))
@@ -117,18 +117,22 @@ University of Waterloo is approximately a one hour drive away, and
 a number of shuttle services are available to take you directly to
 the University from the airport. A list of general travel options
 can be found
-[here](https://uwaterloo.ca/about/how-find-us/maps-and-directions).
+[here](https://uwaterloo.ca/international-student-guide/2019/prepare/arranging-travel-waterloo)
 
 **Accommodations:** On-campus accommodations will be
-arranged for all confirmed participants. The summer school rates
+made available to all confirmed participants. The summer school rates
 for these accommodations will be announced at a later date.
 
 **Applications:**
 To apply, you will need to submit a CV and a brief proposal for a
-project. The application form is available
-[here](https://goo.gl/forms/8h0wCYV6AKIFpIKF3).
+project. At the summer school you’ll be able to make use of neuromorphic 
+hardware, event-based vision sensors, simple humanoid and non-humanoid robotic 
+devices, and a variety of large-scale cognitive modelling techniques. If 
+applicable, please briefly indicate how you might leverage this infrastructure 
+in your project. The application form is available
+[here](https://forms.gle/6vh16XeoDhyeTDEZ8)
 
-**Application deadline:** Applications are due on **February 15th, 2019**.
+**Application deadline:** Applications are due on **February 15th, 2020**.
 
 **Contact information:** For any questions, please contact
 [Peter Blouw](mailto:peter.blouw@appliedbrainresearch.com).
