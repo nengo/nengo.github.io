@@ -36,6 +36,7 @@ in the file view at the top-left.
 - [Coming from TensorFlow to NengoDL](https://www.nengo.ai/nengo-dl/examples/from-tensorflow.html)
 - [Coming from Nengo to NengoDL](https://www.nengo.ai/nengo-dl/examples/from-nengo.html)
 - [Classifying MNIST digits with a spiking neural network](https://www.nengo.ai/nengo-dl/examples/spiking-mnist.html)
+- [State of the art psMNIST results using Legendre Memory Units (LMUs)](https://www.nengo.ai/nengo-dl/examples/lmu.html)
 - [Other NengoDL examples](https://www.nengo.ai/nengo-dl/examples.html)
 
 ## Neuromorphic hardware
