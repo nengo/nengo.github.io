@@ -26,7 +26,7 @@ include Stanford’s mixed digital/analog chip
 the [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/) chip, and a
 variety of [FPGAs](https://www.nengo.ai/nengo-fpga/).
 
-In addition to teaching participants to run applications on neuromorphic 
+In addition to teaching participants to run applications on neuromorphic
 hardware using the Nengo simulation package, this two-week school will
 teach participants to use Nengo to build state-of-the-art
 cognitive and neural models. More generally, Nengo provides users
@@ -125,12 +125,12 @@ for these accommodations will be announced at a later date.
 
 **Applications:**
 To apply, you will need to submit a CV and a brief proposal for a
-project. At the summer school you’ll be able to make use of neuromorphic 
-hardware, event-based vision sensors, simple humanoid and non-humanoid robotic 
-devices, and a variety of large-scale cognitive modelling techniques. If 
-applicable, please briefly indicate how you might leverage this infrastructure 
+project. At the summer school you’ll be able to make use of neuromorphic
+hardware, event-based vision sensors, simple humanoid and non-humanoid robotic
+devices, and a variety of large-scale cognitive modelling techniques. If
+applicable, please briefly indicate how you might leverage this infrastructure
 in your project. The application form is available
-[here](https://forms.gle/6vh16XeoDhyeTDEZ8)
+[here](https://docs.google.com/forms/d/e/1FAIpQLSclDfoizYSGXZsScSGDeM5b33DpBcJJmME1bbIteY-qeydjSQ/viewform?usp=sf_link).
 
 **Application deadline:** Applications are due on **February 15th, 2020**.
 
