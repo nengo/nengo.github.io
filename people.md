@@ -31,6 +31,7 @@ By adding your name to this file, you are agreeing to the
 - [David Nicholson](mailto:nicholdav@gmail.com)
 - [Eric Crawford](mailto:eric.crawford@mail.mcgill.ca)
 - [Eric Hunsberger](mailto:erichuns@gmail.com)
+- [Filipe Rocha](mailto:f.rocha41@gmail.com)
 - [Ivana Kajić](mailto:ivana.kajic@gmail.com)
 - [James Bergstra](mailto:james.bergstra@gmail.com)
 - [Jan Gosmann](mailto:jan@hyper-world.de)
