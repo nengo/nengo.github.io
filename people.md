@@ -35,6 +35,7 @@ By adding your name to this file, you are agreeing to the
 - [Ivana Kajić](mailto:ivana.kajic@gmail.com)
 - [James Bergstra](mailto:james.bergstra@gmail.com)
 - [Jan Gosmann](mailto:jan@hyper-world.de)
+- [Kinjal Patel](mailto:kinjalp.patel@mail.utoronto.ca)
 - [@luzpaz](mailto:luzpaz@users.noreply.github.com)
 - [Ménélik Vero](mailto:menelik.vero@tum.de)
 - [Oliver Trujillo](mailto:olivertgp@hotmail.com)
