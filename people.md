@@ -38,6 +38,7 @@ By adding your name to this file, you are agreeing to the
 - [@luzpaz](mailto:luzpaz@users.noreply.github.com)
 - [Ménélik Vero](mailto:menelik.vero@tum.de)
 - [Oliver Trujillo](mailto:olivertgp@hotmail.com)
+  [Pawel Jaworski](mailto:p3jawors@gmail.com)
 - [Peter Blouw](mailto:pblouw@uwaterloo.ca)
 - [Peter Suma](mailto:psuma@waterloo.ca)
 - [Petrut Bogdan](mailto:petrutantoniu8@gmail.com)
