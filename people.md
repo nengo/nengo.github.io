@@ -37,6 +37,7 @@ By adding your name to this file, you are agreeing to the
 - [James Bergstra](mailto:james.bergstra@gmail.com)
 - [Jan Gosmann](mailto:jan@hyper-world.de)
 - [Kinjal Patel](mailto:kinjalp.patel@mail.utoronto.ca)
+- [Kris Frenette](mailto:kris.frenette@appliedbrainresearch.com)
 - [@luzpaz](mailto:luzpaz@users.noreply.github.com)
 - [Ménélik Vero](mailto:menelik.vero@tum.de)
 - [Oliver Trujillo](mailto:olivertgp@hotmail.com)
