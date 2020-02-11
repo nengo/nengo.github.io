@@ -51,6 +51,7 @@ By adding your name to this file, you are agreeing to the
 - [Shaun Ren](mailto:shaun.ren@linux.com)
 - [Sugandha Sharma](mailto:sugandha974@gmail.com)
 - [Terry Stewart](mailto:terry.stewart@gmail.com)
+- [Thomas Tiotto](mailto:thomas.tiotto@outlook.com)
 - [Travis DeWolf](mailto:travis.dewolf@gmail.com)
 - [Trevor Bekolay](mailto:tbekolay@gmail.com)
 - [Xuan Choo](mailto:xchoo.mainframe@gmail.com)
