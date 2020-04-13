@@ -384,7 +384,7 @@ h1,
   text-transform: uppercase;
 }
 
-h1, h2.uppercase {
+h1.uppercase, h2.uppercase {
   text-transform: uppercase;
 }
 
@@ -543,7 +543,6 @@ body.theme-purple {
     margin: 3rem 0;
     padding: 3rem 0;
     position: relative;
-    text-transform: uppercase;
     font-size: 54px;
 
     &::after {
