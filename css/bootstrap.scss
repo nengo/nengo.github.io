@@ -36,6 +36,7 @@ $enable-shadows: false; /* Disable shadows on elements - add manually using "sha
 
 /* App Styles */
 $header-height: 75px;
+$header-buffer: $header-height + 20px;
 
 body {
   padding: $header-height 0 0 0;
@@ -234,7 +235,7 @@ a {
 a.anchor {
   display: block;
   position: relative;
-  top: -($header-height + 20);
+  top: -$header-buffer;
   visibility: hidden;
 }
 
@@ -567,8 +568,8 @@ body.theme-purple {
   h5::before,
   h6::before {
     display: block;
-    height: 6rem;
-    margin-top: -6rem;
+    height: $header-buffer;
+    margin-top: -$header-buffer;
     visibility: hidden;
     content: "";
   }
@@ -866,6 +867,42 @@ body.theme-purple {
       padding-left: 3rem;
       border-left: 5px solid rgba(theme-color("dark"), 0.1);
     }
+  }
+
+  // add `before` to code table entries to account for top navbar in anchors
+  dl.class,
+  dl.function,
+  dl.attribute,
+  dl.method {
+    > dt::before {
+      content: "";
+      display: block;
+      height: $header-buffer;
+      margin-top: -$header-buffer;
+      background-color: none;
+    }
+
+    > dt:target::before {
+      // set background color to stop highlight from applying
+      background-color: #fff;
+    }
+  }
+
+  // add `before` to equations to account for top navbar in anchors
+  div.math::before {
+    content: "";
+    display: block;
+    height: $header-buffer;
+    margin-top: -$header-buffer;
+    visibility: hidden;
+  }
+  // add `before` to equation to align with equation
+  // (adding the previous `before` to `div.math` misaligned it)
+  span.eqno::before {
+    content: "";
+    display: block;
+    height: 1em;
+    visibility: hidden;
   }
 
   dl.field-list {
