@@ -817,11 +817,14 @@ body.theme-purple {
     color: darken(theme-color("blue"), 15%);
     background: rgba(theme-color("blue"), 0.1);
     padding: 0 1px;
+    // force code line height to be same height as normal lines
+    line-height: 80%;
   }
 
   a code {
     background-color: transparent;
     color: $link-color;
+    font-size: 100%;
   }
 
   table {
