@@ -18,6 +18,7 @@ By adding your name to this file, you are agreeing to the
 [Nengo Contributor Assignment Agreement]({{ site.baseurl }}{% link caa.md %}).
 
 - [Aaron Voelker](mailto:arvoelke@gmail.com)
+- [Alex Eliasmith](mailto:weliasmith@uwaterloo.ca)
 - [Allen Wang](mailto:allen.houze.wang@gmail.com)
 - [Andreas Stöckel](mailto:andreas.stoeckel@gmail.com)
 - [Andrew Mundy](mailto:andrew.mundy@ieee.org)
