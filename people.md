@@ -19,6 +19,7 @@ By adding your name to this file, you are agreeing to the
 
 - [Aaron Voelker](mailto:arvoelke@gmail.com)
 - [Alex Eliasmith](mailto:weliasmith@uwaterloo.ca)
+- [Alex Tait](mailto:atait@ieee.org)
 - [Allen Wang](mailto:allen.houze.wang@gmail.com)
 - [Andreas Stöckel](mailto:andreas.stoeckel@gmail.com)
 - [Andrew Mundy](mailto:andrew.mundy@ieee.org)
