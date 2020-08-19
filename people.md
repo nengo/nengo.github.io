@@ -34,6 +34,7 @@ By adding your name to this file, you are agreeing to the
 - [Eric Crawford](mailto:eric.crawford@mail.mcgill.ca)
 - [Eric Hunsberger](mailto:erichuns@gmail.com)
 - [Filipe Rocha](mailto:f.rocha41@gmail.com)
+- [Girish Mohan](mailto:mohangiri1999@gmail.com)
 - [Gurshaant Singh Malik](mailto:garymalik8080@gmail.com)
 - [Ivana Kajić](mailto:ivana.kajic@gmail.com)
 - [James Bergstra](mailto:james.bergstra@gmail.com)
