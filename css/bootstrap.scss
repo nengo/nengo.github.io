@@ -67,6 +67,15 @@ header.header-top {
     }
   }
 
+  .version-warning {
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: 10px solid theme-color("warning");
+    background-color: theme-color("warning");
+    margin: auto;
+    text-transform: uppercase;
+  }
+
   .navbar-expand-md .navbar-nav .nav-link {
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
