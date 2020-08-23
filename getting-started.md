@@ -117,7 +117,7 @@ Python scripts. We provide Nengo core examples as Jupyter notebooks
 because you can see plots in the same interface as the code. Jupyter
 notebooks are also text files, but have the extension `.ipynb`. These
 are run through the Jupyter notebook. For example, after downloading
-[single\_neuron.ipynb](https://github.com/nengo/nengo/blob/master/docs/examples/basic/single_neuron.ipynb),
+[single\_neuron.ipynb](https://www.nengo.ai/nengo/examples/basic/single-neuron.html),
 you can start the notebook like this:
 
 ```bash
