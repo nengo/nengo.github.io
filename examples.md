@@ -41,21 +41,21 @@ in the file view at the top-left.
 
 ## Neuromorphic hardware
 
-- [Keyword spotting with Nengo Loihi](https://www.nengo.ai/nengo-loihi/examples/keyword_spotting.html)
-- [Nonlinear adaptive control with Nengo Loihi](https://www.nengo.ai/nengo-loihi/examples/adaptive_motor_control.html)
-- [CIFAR-10 convolutional network](https://github.com/nengo/nengo-examples/blob/master/loihi-dl/cifar10_convnet.ipynb)
+- [Keyword spotting with Nengo Loihi](https://www.nengo.ai/nengo-loihi/examples/keyword-spotting.html)
+- [Nonlinear adaptive control with Nengo Loihi](https://www.nengo.ai/nengo-loihi/examples/adaptive-motor-control.html)
+- [CIFAR-10 convolutional network](https://github.com/nengo/nengo-examples/blob/master/loihi-dl/cifar10-convnet.ipynb)
 - [Other Nengo Loihi examples](https://www.nengo.ai/nengo-loihi/examples.html)
 
 ## Online learning
 
-- [Supervised learning with the PES learning rule](https://www.nengo.ai/nengo/examples/learning/learn_communication_channel.html)
+- [Supervised learning with the PES learning rule](https://www.nengo.ai/nengo/examples/learning/learn-communication-channel.html)
 - [Supervised FORCE learning with the RLS learning rule](https://arvoelke.github.io/nengolib-docs/notebooks/examples/full_force_learning.html)
-- [Unsupervised association learning with the Voja learning rule](https://www.nengo.ai/nengo/examples/learning/learn_associations.html)
-- [Unsupervised synaptic plasticity rules](https://www.nengo.ai/nengo/examples/learning/learn_unsupervised.html)
+- [Unsupervised association learning with the Voja learning rule](https://www.nengo.ai/nengo/examples/learning/learn-associations.html)
+- [Unsupervised synaptic plasticity rules](https://www.nengo.ai/nengo/examples/learning/learn-unsupervised.html)
 
 ## Neural Engineering Framework
 
-- [Summary of the NEF principles](https://www.nengo.ai/nengo/examples/advanced/nef_summary.html)
+- [Summary of the NEF principles](https://www.nengo.ai/nengo/examples/advanced/nef-summary.html)
 - [Nengo core examples](https://www.nengo.ai/nengo/examples)
 - [Spiking MNIST with Gabor encoders](https://www.nengo.ai/nengo-extras/examples/mnist_single_layer.html)
 - [Computing functions across a rolling window of time (LMU)](https://arvoelke.github.io/nengolib-docs/notebooks/examples/rolling_window.html)
@@ -63,5 +63,5 @@ in the file view at the top-left.
 ## Cognitive modelling with SPA
 
 - [Spaun](https://github.com/xchoo/spaun2.0)
-- [Simple question answering with the Semantic Pointer Architecture](https://www.nengo.ai/nengo-spa/examples/question_memory.html)
+- [Simple question answering with the Semantic Pointer Architecture](https://www.nengo.ai/nengo-spa/examples/question-memory.html)
 - [Nengo SPA examples](https://www.nengo.ai/nengo-spa/examples.html)
