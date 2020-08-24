@@ -67,15 +67,6 @@ header.header-top {
     }
   }
 
-  .version-warning {
-    font-weight: bold;
-    letter-spacing: 2px;
-    border: 10px solid theme-color("warning");
-    background-color: theme-color("warning");
-    margin: auto;
-    text-transform: uppercase;
-  }
-
   .navbar-expand-md .navbar-nav .nav-link {
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
@@ -95,6 +86,15 @@ header.header-top {
 div.main-content {
   background: white;
   overflow: visible;
+
+  .version-warning {
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: 8px solid theme-color("warning");
+    background-color: theme-color("warning");
+    margin: auto;
+    text-transform: uppercase;
+  }
 
   blockquote {
     border-left: 10px solid #ccc;
