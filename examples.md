@@ -25,12 +25,6 @@ in the file view at the top-left.
 - `tutorial` is a set of 25 guided examples going from a network of one neuron
   to networks of hundreds of thousands of neurons implementing cognitive models.
 
-## Standard neural networks
-
-- [Hopfield networks](https://github.com/s72sue/std_neural_nets/blob/master/hopfield_network.ipynb)
-- [Perceptron computing XOR](https://github.com/s72sue/std_neural_nets/blob/master/computing_functions/perceptron_for_XOR.ipynb)
-- [4-class classification](https://github.com/s72sue/std_neural_nets/blob/master/classification/4-class_classification.ipynb)
-
 ## Deep learning
 
 - [Coming from TensorFlow to NengoDL](https://www.nengo.ai/nengo-dl/examples/from-tensorflow.html)
