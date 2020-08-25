@@ -87,14 +87,6 @@ div.main-content {
   background: white;
   overflow: visible;
 
-  .version-warning {
-    font-weight: bold;
-    letter-spacing: 2px;
-    border: 8px solid theme-color("warning");
-    background-color: theme-color("warning");
-    margin: 45px;
-  }
-
   blockquote {
     border-left: 10px solid #ccc;
     margin-top: 0;
