@@ -50,7 +50,7 @@ By adding your name to this file, you are agreeing to the
 - [Petrut Bogdan](mailto:petrutantoniu8@gmail.com)
 - [Rees Simmons](mailto:rsimmons@uwaterloo.ca)
 - [Rocha Leonardo M](mailto:leo(dot)m(dot)rocha@gmail.com)
-- [Sarthak Khoche](sarthak.khoche@gmail.com)
+- [Sarthak Khoche](mailto:sarthak.khoche@gmail.com)
 - [Sean Aubin](mailto:seanaubin@gmail.com)
 - [Sean Martin](mailto:martins7@tcd.ie)
 - [Shaun Ren](mailto:shaun.ren@linux.com)
