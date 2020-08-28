@@ -1,4 +1,4 @@
-- name: Nengo Core
+- name: Nengo core
   section: framework
   external_url: https://www.nengo.ai/nengo/
   logo: https://www.nengo.ai/design/_images/general-full-light.svg
@@ -19,11 +19,11 @@
     - image: https://img.shields.io/github/stars/nengo/nengo.svg?logo=github
       external_url: https://github.com/nengo/nengo
       alt: Github stars
-- name: Nengo GUI
+- name: NengoGUI
   section: framework
   external_url: https://github.com/nengo/nengo-gui/
   description: >
-    Nengo GUI is a web browser-based interactive model construction and
+    NengoGUI is a web browser-based interactive model construction and
     visualization tool.
   badges:
     - image: https://img.shields.io/pypi/v/nengo-gui.svg
@@ -32,12 +32,12 @@
     - image: https://img.shields.io/github/stars/nengo/nengo-gui.svg?logo=github
       external_url: https://github.com/nengo/nengo-gui
       alt: Github stars
-- name: Nengo DL
+- name: NengoDL
   section: framework
   external_url: https://www.nengo.ai/nengo-dl/
   logo: https://www.nengo.ai/design/_images/nengo-dl-full-light.svg
   description: >
-    Nengo DL simulates Nengo models using the
+    NengoDL simulates Nengo models using the
     TensorFlow library to easily interact with deep
     learning networks, as well as use deep learning training
     procedures to optimize Nengo model parameters.
@@ -54,7 +54,7 @@
     - image: https://img.shields.io/github/stars/nengo/nengo-dl.svg?logo=github
       external_url: https://github.com/nengo/nengo-dl
       alt: Github stars
-- name: Nengo SPA
+- name: NengoSPA
   section: addon
   external_url: https://www.nengo.ai/nengo-spa/
   logo: https://www.nengo.ai/design/_images/nengo-spa-full-light.svg
@@ -74,7 +74,7 @@
     - image: https://img.shields.io/github/stars/nengo/nengo-spa.svg?logo=github
       external_url: https://github.com/nengo/nengo-spa
       alt: Github stars
-- name: Nengo Extras
+- name: NengoExtras
   section: addon
   external_url: https://www.nengo.ai/nengo-extras/
   description: >
@@ -114,7 +114,7 @@
     - image: https://img.shields.io/github/stars/arvoelke/nengolib.svg?logo=github
       external_url: https://github.com/arvoelke/nengolib
       alt: Github stars
-- name: Nengo FPGA
+- name: NengoFPGA
   section: backend
   external_url: https://www.nengo.ai/nengo-fpga/
   logo: https://www.nengo.ai/design/_images/nengo-fpga-full-light.svg
@@ -128,13 +128,13 @@
     - image: https://img.shields.io/github/stars/nengo/nengo-fpga.svg?logo=github
       external_url: https://github.com/nengo/nengo-fpga
       alt: Github stars
-- name: Nengo Loihi
+- name: NengoLoihi
   section: backend
   external_url: https://www.nengo.ai/nengo-loihi/
   logo: https://www.nengo.ai/design/_images/nengo-loihi-full-light.svg
   description: >
-    Nengo Loihi runs Nengo models on Intel's Loihi neuromorphic hardware.
-    Nengo Loihi also includes a software simulation of Loihi’s spiking
+    NengoLoihi runs Nengo models on Intel's Loihi neuromorphic hardware.
+    NengoLoihi also includes a software simulation of Loihi’s spiking
     neuron cores so that models can be prototyped before running on real
     hardware.
   badges:
@@ -150,12 +150,12 @@
     - image: https://img.shields.io/github/stars/nengo/nengo-loihi.svg?logo=github
       external_url: https://github.com/nengo/nengo-loihi
       alt: Github stars
-- name: Nengo OpenCL
+- name: NengoOCL
   section: backend
   external_url: https://github.com/nengo/nengo-ocl
   description: >
-    Nengo OpenCL uses the OpenCL framework to run Nengo models on GPUs and
-    other platforms. Most models run significantly faster with Nengo OpenCL.
+    NengoOCL uses the OpenCL framework to run Nengo models on GPUs and
+    other platforms. Most models run significantly faster with NengoOCL.
   badges:
     - image: https://img.shields.io/pypi/v/nengo-ocl.svg
       external_url: https://pypi.python.org/pypi/nengo-ocl
@@ -163,12 +163,12 @@
     - image: https://img.shields.io/github/stars/nengo/nengo-ocl.svg?logo=github
       external_url: https://github.com/nengo/nengo-ocl
       alt: Github stars
-- name: Nengo SpiNNaker
+- name: NengoSpiNNaker
   section: backend
   external_url: https://github.com/project-rig/nengo_spinnaker
   logo: https://www.nengo.ai/design/_images/nengo-spinnaker-full-light.svg
   description: >
-    Nengo SpiNNaker simulates Nengo models using SpiNNaker architecture
+    NengoSpiNNaker simulates Nengo models using SpiNNaker architecture
     and associated hardware. Models running on SpiNNaker always execute in
     real time.
   badges:
@@ -178,11 +178,11 @@
     - image: https://img.shields.io/github/stars/project-rig/nengo_spinnaker.svg?logo=github
       external_url: https://github.com/project-rig/nengo_spinnaker
       alt: Github stars
-- name: Nengo MPI
+- name: NengoMPI
   section: backend
   external_url: https://github.com/nengo/nengo-mpi
   description: >
-    Nengo MPI simulates Nengo models using a C++ backend that uses MPI to
+    NengoMPI simulates Nengo models using a C++ backend that uses MPI to
     parallelize the running of the model on large numbers of heterogeneous
     processing units.
   badges:

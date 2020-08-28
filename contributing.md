@@ -81,7 +81,7 @@ requests](https://help.github.com/articles/about-pull-requests/).
     Make sure you follow our style guide,
     including the commit message format.
 
-    <!-- TODO: link to style guide once it's up on Nengo Bones docs -->
+    <!-- TODO: link to style guide once it's up on NengoBones docs -->
 
 4.  Once your changes are done, push them to Github
 

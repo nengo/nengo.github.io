@@ -21,7 +21,7 @@ nengo
 ```
 
 and you should see a message about the Nengo server starting,
-and a webpage will open with the Nengo GUI environment.
+and a webpage will open with the NengoGUI environment.
 
 If you do not have `pip` installed, or if you run into any errors when
 installing Nengo with `pip`, expand the sections below for more detailed instructions.
@@ -36,12 +36,12 @@ again.
 ## Running models
 
 Once you have Nengo installed, there are two ways to run Nengo models.
-They can be run either with the Nengo GUI, or they can be run with a
+They can be run either with the NengoGUI, or they can be run with a
 Python interpreter.
 
-### With Nengo GUI
+### With NengoGUI
 
-The [Nengo GUI](https://github.com/nengo/nengo-gui) is a web-based
+The [NengoGUI](https://github.com/nengo/nengo-gui) is a web-based
 interface for designing and running Nengo models. To start the GUI, open
 a terminal and run the `nengo` command.
 
@@ -49,7 +49,7 @@ To access the GUI, you use a web browser like Google Chrome or Firefox.
 You should see a depiction of the network on the left panel, and a code
 editor on the right panel.
 
-![Nengo GUI]({{ site.baseurl }}/img/gui-03.gif)
+![NengoGUI]({{ site.baseurl }}/img/gui-03.gif)
 
 The network illustration on the left panel is interactive. You can drag
 to move the network objects, scroll with the mouse to zoom in and out,

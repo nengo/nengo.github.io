@@ -6,16 +6,16 @@ title: Example models
 pageTitle: Nengo Examples
 ---
 
-## Tutorials accessible in Nengo GUI
+## Tutorials accessible in NengoGUI
 
-The basics of how to build models and visualize them with Nengo GUI
-are described in tutorials built into the Nengo GUI.
+The basics of how to build models and visualize them with NengoGUI
+are described in tutorials built into the NengoGUI.
 Access them through the *built-in examples* folder
 in the file view at the top-left.
 
-![Nengo GUI interface]({{ site.baseurl }}/img/gui-examples.png)
+![NengoGUI interface]({{ site.baseurl }}/img/gui-examples.png)
 
-- `basics` shows the basic features of Nengo GUI in no particular order.
+- `basics` shows the basic features of NengoGUI in no particular order.
   Start here if you want a brief overview.
 - `hbb_tutorials` is a set of tutorials from the book
   [How to Build a Brain](https://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0190262125/),
@@ -35,10 +35,10 @@ in the file view at the top-left.
 
 ## Neuromorphic hardware
 
-- [Keyword spotting with Nengo Loihi](https://www.nengo.ai/nengo-loihi/examples/keyword-spotting.html)
-- [Nonlinear adaptive control with Nengo Loihi](https://www.nengo.ai/nengo-loihi/examples/adaptive-motor-control.html)
+- [Keyword spotting with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/keyword-spotting.html)
+- [Nonlinear adaptive control with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/adaptive-motor-control.html)
 - [CIFAR-10 convolutional network](https://github.com/nengo/nengo-examples/blob/master/loihi-dl/cifar10-convnet.ipynb)
-- [Other Nengo Loihi examples](https://www.nengo.ai/nengo-loihi/examples.html)
+- [Other NengoLoihi examples](https://www.nengo.ai/nengo-loihi/examples.html)
 
 ## Online learning
 
@@ -58,4 +58,4 @@ in the file view at the top-left.
 
 - [Spaun](https://github.com/xchoo/spaun2.0)
 - [Simple question answering with the Semantic Pointer Architecture](https://www.nengo.ai/nengo-spa/examples/question-memory.html)
-- [Nengo SPA examples](https://www.nengo.ai/nengo-spa/examples.html)
+- [NengoSPA examples](https://www.nengo.ai/nengo-spa/examples.html)
