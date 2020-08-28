@@ -152,7 +152,7 @@
       alt: Github stars
 - name: NengoOCL
   section: backend
-  external_url: https://github.com/nengo/nengo-ocl
+  external_url: https://labs.nengo.ai/nengo-ocl
   description: >
     NengoOCL uses the OpenCL framework to run Nengo models on GPUs and
     other platforms. Most models run significantly faster with NengoOCL.
