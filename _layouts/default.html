@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=UA-41658423-2"
-    ></script>
+    <!-- Google Tag Manager -->
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-      gtag("config", "UA-41658423-2");
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-KWCR2HN");
     </script>
+    <!-- End Google Tag Manager -->
 
     <!-- prettier-ignore -->
     <title>
@@ -224,7 +225,9 @@
         <a href="{{ site.baseurl }}{% link documentation.html %}"
           >Documentation</a
         >
-        <a href="{{ site.baseurl }}{% link getting-started.md %}">Getting started</a>
+        <a href="{{ site.baseurl }}{% link getting-started.md %}"
+          >Getting started</a
+        >
         <a href="{{ site.baseurl }}{% link privacy.md %}">Privacy</a>
       </p>
       <p class="small text-center mb-0">&copy; Applied Brain Research</p>
@@ -235,9 +238,9 @@
         scale: 0.85,
         duration: 1000,
         delay: 250,
-        interval: 50
+        interval: 50,
       });
-      $("a.toggleSidebar").on("click", function(e) {
+      $("a.toggleSidebar").on("click", function (e) {
         e.preventDefault();
         if ($(this).hasClass("active")) {
           $(this).removeClass("active");
