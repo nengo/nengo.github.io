@@ -114,6 +114,32 @@
     - image: https://img.shields.io/github/stars/arvoelke/nengolib.svg?logo=github
       external_url: https://github.com/arvoelke/nengolib
       alt: Github stars
+- name: KerasSpiking
+  section: addon
+  external_url: https://www.nengo.ai/keras-spiking/
+  description: >
+    KerasSpiking provides tools for training and running spiking neural networks
+    directly within the Keras framework.
+  badges:
+    - image: https://img.shields.io/travis/com/nengo/keras-spiking/master.svg
+      external_url: https://travis-ci.com/nengo/keras-spiking
+      alt: Travis-CI build status
+    - image: https://img.shields.io/github/stars/nengo/keras-spiking.svg?logo=github
+      external_url: https://github.com/nengo/keras-spiking
+      alt: Github stars
+- name: PyTorchSpiking
+  section: addon
+  external_url: https://www.nengo.ai/pytorch-spiking/
+  description: >
+    PyTorchSpiking provides tools for training and running spiking neural networks
+    directly within the PyTorch framework.
+  badges:
+    - image: https://img.shields.io/travis/com/nengo/pytorch-spiking/master.svg
+      external_url: https://travis-ci.com/nengo/pytorch-spiking
+      alt: Travis-CI build status
+    - image: https://img.shields.io/github/stars/nengo/pytorch-spiking.svg?logo=github
+      external_url: https://github.com/nengo/pytorch-spiking
+      alt: Github stars
 - name: NengoFPGA
   section: backend
   external_url: https://www.nengo.ai/nengo-fpga/
@@ -153,6 +179,7 @@
 - name: NengoOCL
   section: backend
   external_url: https://labs.nengo.ai/nengo-ocl
+  logo: https://www.nengo.ai/design/_images/nengo-ocl-full-light.svg
   description: >
     NengoOCL uses the OpenCL framework to run Nengo models on GPUs and
     other platforms. Most models run significantly faster with NengoOCL.
@@ -160,8 +187,8 @@
     - image: https://img.shields.io/pypi/v/nengo-ocl.svg
       external_url: https://pypi.python.org/pypi/nengo-ocl
       alt: Latest PyPI version
-    - image: https://img.shields.io/github/stars/nengo/nengo-ocl.svg?logo=github
-      external_url: https://github.com/nengo/nengo-ocl
+    - image: https://img.shields.io/github/stars/nengo-labs/nengo-ocl.svg?logo=github
+      external_url: https://github.com/nengo-labs/nengo-ocl
       alt: Github stars
 - name: NengoSpiNNaker
   section: backend
@@ -180,15 +207,15 @@
       alt: Github stars
 - name: NengoMPI
   section: backend
-  external_url: https://github.com/nengo/nengo-mpi
+  external_url: https://github.com/nengo-labs/nengo-mpi
   description: >
     NengoMPI simulates Nengo models using a C++ backend that uses MPI to
     parallelize the running of the model on large numbers of heterogeneous
     processing units.
   badges:
-    - image: https://img.shields.io/travis/nengo/nengo-mpi/master.svg
-      external_url: https://travis-ci.org/nengo/nengo-mpi
+    - image: https://img.shields.io/travis/nengo-labs/nengo-mpi/master.svg
+      external_url: https://travis-ci.org/nengo-labs/nengo-mpi
       alt: Travis-CI build status
-    - image: https://img.shields.io/github/stars/nengo/nengo-mpi.svg?logo=github
-      external_url: https://github.com/nengo/nengo-mpi
+    - image: https://img.shields.io/github/stars/nengo-labs/nengo-mpi.svg?logo=github
+      external_url: https://github.com/nengo-labs/nengo-mpi
       alt: Github stars
