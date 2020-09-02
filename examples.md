@@ -37,7 +37,7 @@ in the file view at the top-left.
 
 - [Keyword spotting with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/keyword-spotting.html)
 - [Nonlinear adaptive control with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/adaptive-motor-control.html)
-- [CIFAR-10 convolutional network](https://github.com/nengo/nengo-examples/blob/master/loihi-dl/cifar10-convnet.ipynb)
+- [CIFAR-10 convolutional network](https://www.nengo.ai/nengo-loihi/examples/cifar10-convnet.html)
 - [Other NengoLoihi examples](https://www.nengo.ai/nengo-loihi/examples.html)
 
 ## Online learning

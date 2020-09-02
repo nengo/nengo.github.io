@@ -42,7 +42,7 @@ website](http://compneuro.uwaterloo.ca/publications.html).
 
 Eliasmith, C. (2013). How to build a brain: A neural architecture for
 biological cognition. *Oxford University Press*.
-[website](https://compneuro.uwaterloo.ca),
+[website](http://compneuro.uwaterloo.ca),
 [amazon](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545/)
 
 Eliasmith et al. (2012). A large-scale model of the functioning brain.

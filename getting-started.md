@@ -85,7 +85,7 @@ The [Nengo core](https://www.nengo.ai/nengo/) is written in
 [Python](https://www.python.org/). In order to install Nengo, you likely
 also installed a Python distribution, whether it be through a package
 manager provided by your operating system, through
-[Anaconda](https://www.continuum.io/downloads), or by some other means.
+[Anaconda](https://www.anaconda.com/products/individual), or by some other means.
 You can use Nengo through any Python interpreter, like any other Python
 package.
 
