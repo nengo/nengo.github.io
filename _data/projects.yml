@@ -10,9 +10,6 @@
     - image: https://img.shields.io/pypi/v/nengo.svg
       external_url: https://pypi.python.org/pypi/nengo
       alt: Latest PyPI version
-    - image: https://img.shields.io/travis/nengo/nengo/master.svg
-      external_url: https://travis-ci.org/nengo/nengo
-      alt: Travis-CI build status
     - image: https://img.shields.io/codecov/c/github/nengo/nengo/master.svg
       external_url: https://codecov.io/gh/nengo/nengo/branch/master
       alt: Test coverage
@@ -45,9 +42,6 @@
     - image: https://img.shields.io/pypi/v/nengo-dl.svg
       external_url: https://pypi.python.org/pypi/nengo-dl
       alt: Latest PyPI version
-    - image: https://img.shields.io/travis/nengo/nengo-dl/master.svg
-      external_url: https://travis-ci.org/nengo/nengo-dl
-      alt: Travis-CI build status
     - image: https://img.shields.io/codecov/c/github/nengo/nengo-dl/master.svg
       external_url: https://codecov.io/gh/nengo/nengo-dl/branch/master
       alt: Test coverage
@@ -65,9 +59,6 @@
     - image: https://img.shields.io/pypi/v/nengo-spa.svg
       external_url: https://pypi.python.org/pypi/nengo-spa
       alt: Latest PyPI version
-    - image: https://img.shields.io/travis/nengo/nengo-spa/master.svg
-      external_url: https://travis-ci.org/nengo/nengo-spa
-      alt: Travis-CI build status
     - image: https://img.shields.io/codecov/c/github/nengo/nengo-spa/master.svg
       external_url: https://codecov.io/gh/nengo/nengo-spa/branch/master
       alt: Test coverage
@@ -85,9 +76,6 @@
     - image: https://img.shields.io/pypi/v/nengo-extras.svg
       external_url: https://pypi.python.org/pypi/nengo-extras
       alt: Latest PyPI version
-    - image: https://img.shields.io/travis/nengo/nengo-extras/master.svg
-      external_url: https://travis-ci.org/nengo/nengo-extras
-      alt: Travis-CI build status
     - image: https://img.shields.io/codecov/c/github/nengo/nengo-extras/master.svg
       external_url: https://codecov.io/gh/nengo/nengo-extras/branch/master
       alt: Test coverage
@@ -105,9 +93,6 @@
     - image: https://img.shields.io/pypi/v/nengolib.svg
       external_url: https://pypi.python.org/pypi/nengolib
       alt: Latest PyPI version
-    - image: https://img.shields.io/travis/arvoelke/nengolib/master.svg
-      external_url: https://travis-ci.org/arvoelke/nengolib
-      alt: Travis-CI build status
     - image: https://img.shields.io/codecov/c/github/arvoelke/nengolib/master.svg
       external_url: https://codecov.io/gh/arvoelke/nengolib/branch/master
       alt: Test coverage
@@ -121,9 +106,12 @@
     KerasSpiking provides tools for training and running spiking neural networks
     directly within the Keras framework.
   badges:
-    - image: https://img.shields.io/travis/com/nengo/keras-spiking/master.svg
-      external_url: https://travis-ci.com/nengo/keras-spiking
-      alt: Travis-CI build status
+    - image: https://img.shields.io/pypi/v/keras-spiking.svg
+      external_url: https://pypi.python.org/pypi/keras-spiking
+      alt: Latest PyPI version
+    - image: https://img.shields.io/codecov/c/github/nengo/keras-spiking/master.svg
+      external_url: https://codecov.io/gh/nengo/keras-spiking/branch/master
+      alt: Test coverage
     - image: https://img.shields.io/github/stars/nengo/keras-spiking.svg?logo=github
       external_url: https://github.com/nengo/keras-spiking
       alt: Github stars
@@ -134,9 +122,12 @@
     PyTorchSpiking provides tools for training and running spiking neural networks
     directly within the PyTorch framework.
   badges:
-    - image: https://img.shields.io/travis/com/nengo/pytorch-spiking/master.svg
-      external_url: https://travis-ci.com/nengo/pytorch-spiking
-      alt: Travis-CI build status
+    - image: https://img.shields.io/pypi/v/pytorch-spiking.svg
+      external_url: https://pypi.python.org/pypi/pytorch-spiking
+      alt: Latest PyPI version
+    - image: https://img.shields.io/codecov/c/github/nengo/pytorch-spiking/master.svg
+      external_url: https://codecov.io/gh/nengo/pytorch-spiking/branch/master
+      alt: Test coverage
     - image: https://img.shields.io/github/stars/nengo/pytorch-spiking.svg?logo=github
       external_url: https://github.com/nengo/pytorch-spiking
       alt: Github stars
@@ -148,9 +139,6 @@
     NengoFPGA is an extension of Nengo that allows portions of a network
     to be run on an FPGA to improve performance and efficiency.
   badges:
-    - image: https://img.shields.io/travis/com/nengo/nengo-fpga/master.svg
-      external_url: https://travis-ci.com/nengo/nengo-fpga
-      alt: Travis-CI build status
     - image: https://img.shields.io/github/stars/nengo/nengo-fpga.svg?logo=github
       external_url: https://github.com/nengo/nengo-fpga
       alt: Github stars
@@ -167,9 +155,6 @@
     - image: https://img.shields.io/pypi/v/nengo-loihi.svg
       external_url: https://pypi.python.org/pypi/nengo-loihi
       alt: Latest PyPI version
-    - image: https://img.shields.io/travis/com/nengo/nengo-loihi/master.svg
-      external_url: https://travis-ci.com/nengo/nengo-loihi
-      alt: Travis-CI build status
     - image: https://img.shields.io/codecov/c/github/nengo/nengo-loihi/master.svg
       external_url: https://codecov.io/gh/nengo/nengo-loihi/branch/master
       alt: Test coverage
@@ -213,9 +198,6 @@
     parallelize the running of the model on large numbers of heterogeneous
     processing units.
   badges:
-    - image: https://img.shields.io/travis/nengo-labs/nengo-mpi/master.svg
-      external_url: https://travis-ci.org/nengo-labs/nengo-mpi
-      alt: Travis-CI build status
     - image: https://img.shields.io/github/stars/nengo-labs/nengo-mpi.svg?logo=github
       external_url: https://github.com/nengo-labs/nengo-mpi
       alt: Github stars
