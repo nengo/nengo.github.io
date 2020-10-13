@@ -41,8 +41,8 @@
      id="namedview277"
      showgrid="false"
      inkscape:zoom="1.5374593"
-     inkscape:cx="224.50435"
-     inkscape:cy="383.69884"
+     inkscape:cx="263.21212"
+     inkscape:cy="305.64799"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -899,26 +899,6 @@
      inkscape:connector-curvature="0"
      id="path266"
      d="m 615,430 c 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 z m -2,0 c 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 z m -6,0 c 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 z" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     x="52.89069"
-     y="269.75061"
-     id="text1135"><tspan
-       sodipodi:role="line"
-       id="tspan1133"
-       x="52.89069"
-       y="282.48096" /></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none;"
-     x="155.45264"
-     y="461.53683"
-     id="text1181"><tspan
-       sodipodi:role="line"
-       id="tspan1179"
-       x="155.45264"
-       y="474.26718" /></text>
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -926,15 +906,14 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#525960;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#525960;fill-opacity:1;stroke:none"
        x="177.36613"
        y="29.755743"
        id="text1088"><tspan
          sodipodi:role="line"
          id="tspan1086"
          x="177.36613"
-         y="29.755743"
-         style="font-size:14.07999992px;fill:#525960;fill-opacity:1">CORE FRAMEWORK</tspan></text>
+         y="29.755743">CORE FRAMEWORK</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
@@ -944,7 +923,7 @@
          sodipodi:role="line"
          id="tspan1090"
          x="167.18057"
-         y="76.818535">Nengo GUI</tspan></text>
+         y="76.818535">NengoGUI</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
@@ -982,7 +961,7 @@
          sodipodi:role="line"
          id="tspan1141"
          x="504.82419"
-         y="290.02368">Nengo Examples</tspan></text>
+         y="290.02368">NengoExamples</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
@@ -992,7 +971,7 @@
          sodipodi:role="line"
          id="tspan1145"
          x="505.05133"
-         y="218.97777">Nengo Library</tspan></text>
+         y="218.97777">Nengolib</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
@@ -1002,7 +981,7 @@
          sodipodi:role="line"
          id="tspan1149"
          x="504.86084"
-         y="148.12711">Nengo Extras</tspan></text>
+         y="148.12711">NengoExtras</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
@@ -1012,7 +991,7 @@
          sodipodi:role="line"
          id="tspan1153"
          x="504.67709"
-         y="77.171646">Nengo SPA</tspan></text>
+         y="77.171646">NengoSPA</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#525960;fill-opacity:1;stroke:none"
@@ -1022,88 +1001,77 @@
          sodipodi:role="line"
          id="tspan1157"
          x="504.99435"
-         y="29.913567"
-         style="font-size:14.0666666px">ADD-ONS &amp; MODELS</tspan></text>
+         y="29.913567">ADD-ONS &amp; MODELS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.4;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
        x="541.58423"
        y="426.39084"
        id="text1163"><tspan
          sodipodi:role="line"
          id="tspan1161"
          x="541.58423"
-         y="426.39084"
-         style="line-height:1.39999998">Loihi</tspan><tspan
+         y="426.39084">Loihi</tspan><tspan
          sodipodi:role="line"
-         x="541.58423"
-         y="446.08417"
          id="tspan1165"
-         style="line-height:1.39999998">Simulator</tspan></text>
+         x="541.58423"
+         y="446.08417">Simulator</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.4;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
        x="424.44073"
        y="426.08197"
        id="text1169"><tspan
          sodipodi:role="line"
          id="tspan1167"
          x="424.44073"
-         y="426.08197"
-         style="line-height:1.39999998">FPGA</tspan><tspan
+         y="426.08197">FPGA</tspan><tspan
          sodipodi:role="line"
-         x="424.44073"
-         y="445.7753"
          id="tspan1171"
-         style="line-height:1.39999998">Simulator</tspan></text>
+         x="424.44073"
+         y="445.7753">Simulator</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.4;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
        x="307.06693"
        y="425.854"
        id="text1175"><tspan
          sodipodi:role="line"
          id="tspan1173"
          x="307.06693"
-         y="425.854"
-         style="line-height:1.39999998">OpenCL</tspan><tspan
+         y="425.854">OpenCL</tspan><tspan
          sodipodi:role="line"
-         x="307.06693"
-         y="445.54733"
          id="tspan1177"
-         style="line-height:1.39999998">Simulator</tspan></text>
+         x="307.06693"
+         y="445.54733">Simulator</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.4;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
        x="189.46516"
        y="426.21387"
        id="text1185"><tspan
          sodipodi:role="line"
          id="tspan1183"
          x="189.46516"
-         y="426.21387"
-         style="line-height:1.39999998">Nengo DL</tspan><tspan
+         y="426.21387">NengoDL</tspan><tspan
          sodipodi:role="line"
-         x="189.46516"
-         y="445.9072"
          id="tspan1187"
-         style="line-height:1.39999998">Simulator</tspan></text>
+         x="189.46516"
+         y="445.9072">Simulator</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.4;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
        x="72.432121"
        y="426.17242"
        id="text1191"><tspan
          sodipodi:role="line"
          id="tspan1189"
          x="72.432121"
-         y="426.17242"
-         style="line-height:1.39999998">Nengo Core</tspan><tspan
+         y="426.17242">NengoCore</tspan><tspan
          sodipodi:role="line"
-         x="72.432121"
-         y="445.86575"
          id="tspan1193"
-         style="line-height:1.39999998">Simulator</tspan></text>
+         x="72.432121"
+         y="445.86575">Simulator</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#525960;fill-opacity:1;stroke:none"
@@ -1173,7 +1141,7 @@
          sodipodi:role="line"
          id="tspan1129"
          x="91.086739"
-         y="229.86476">Nengo Core</tspan></text>
+         y="229.86476">NengoCore</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
@@ -1183,39 +1151,36 @@
          sodipodi:role="line"
          id="tspan1137"
          x="260.88254"
-         y="229.98793">Nengo DL</tspan></text>
+         y="229.98793">NengoDL</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.72000027px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.19999981px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
        x="90.944443"
        y="260.0058"
        id="text1221"><tspan
          sodipodi:role="line"
          id="tspan1219"
          x="90.944443"
-         y="260.0058"
-         style="font-size:13.19999981px;fill:#2c2c2c;fill-opacity:1">Python</tspan></text>
+         y="260.0058">Python</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.19999981px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
        x="91.221924"
        y="285.04819"
        id="text1225"><tspan
          sodipodi:role="line"
          id="tspan1223"
          x="91.221924"
-         y="285.04819"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.19999981px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';fill:#2c2c2c;fill-opacity:1">Numpy</tspan></text>
+         y="285.04819">Numpy</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.19999981px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
        x="261.30771"
        y="260.00687"
        id="text1229"><tspan
          sodipodi:role="line"
-         x="261.30771"
-         y="260.00687"
          id="tspan1231"
-         style="font-size:13.19999981px">TensorFlow</tspan></text>
+         x="261.30771"
+         y="260.00687">TensorFlow</tspan></text>
   </g>
 </svg>
