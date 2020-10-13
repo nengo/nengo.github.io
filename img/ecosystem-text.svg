@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="633px"
+   height="614px"
+   viewBox="0 0 633 614"
+   version="1.1"
+   id="svg275"
+   sodipodi:docname="ecosystem-text.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata279">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ecosystem</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     id="namedview277"
+     showgrid="false"
+     inkscape:zoom="1.5374593"
+     inkscape:cx="224.50435"
+     inkscape:cy="383.69884"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+  <title
+     id="title2">ecosystem</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs134">
+    <rect
+       id="path-1"
+       x="0"
+       y="1.70530257e-13"
+       width="210"
+       height="46"
+       rx="4" />
+    <filter
+       x="-8.3%"
+       y="-27.2%"
+       width="116.7%"
+       height="176.1%"
+       filterUnits="objectBoundingBox"
+       id="filter-2">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset7" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur9" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix11" />
+    </filter>
+    <rect
+       id="path-3"
+       x="0"
+       y="8.52651283e-14"
+       width="210"
+       height="46"
+       rx="4" />
+    <filter
+       x="-8.3%"
+       y="-27.2%"
+       width="116.7%"
+       height="176.1%"
+       filterUnits="objectBoundingBox"
+       id="filter-4">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset15" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur17" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix19" />
+    </filter>
+    <rect
+       id="path-5"
+       x="0"
+       y="2.84217094e-13"
+       width="210"
+       height="46"
+       rx="4" />
+    <filter
+       x="-8.3%"
+       y="-27.2%"
+       width="116.7%"
+       height="176.1%"
+       filterUnits="objectBoundingBox"
+       id="filter-6">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset23" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur25" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix27" />
+    </filter>
+    <rect
+       id="path-7"
+       x="0"
+       y="2.27373675e-13"
+       width="210"
+       height="46"
+       rx="4" />
+    <filter
+       x="-8.3%"
+       y="-27.2%"
+       width="116.7%"
+       height="176.1%"
+       filterUnits="objectBoundingBox"
+       id="filter-8">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset31" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur33" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix35" />
+    </filter>
+    <rect
+       id="path-9"
+       x="20"
+       y="49"
+       width="314"
+       height="130"
+       rx="4" />
+    <filter
+       x="-5.6%"
+       y="-9.6%"
+       width="111.1%"
+       height="126.9%"
+       filterUnits="objectBoundingBox"
+       id="filter-10">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset39" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur41" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix43" />
+    </filter>
+    <rect
+       id="path-11"
+       x="20"
+       y="199"
+       width="146"
+       height="110"
+       rx="4" />
+    <filter
+       x="-12.0%"
+       y="-11.4%"
+       width="124.0%"
+       height="131.8%"
+       filterUnits="objectBoundingBox"
+       id="filter-12">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset47" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur49" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix51" />
+    </filter>
+    <rect
+       id="path-13"
+       x="188"
+       y="199"
+       width="146"
+       height="110"
+       rx="4" />
+    <filter
+       x="-12.0%"
+       y="-11.4%"
+       width="124.0%"
+       height="131.8%"
+       filterUnits="objectBoundingBox"
+       id="filter-14">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset55" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur57" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix59" />
+    </filter>
+    <rect
+       id="path-15"
+       x="0"
+       y="0"
+       width="103"
+       height="64"
+       rx="4" />
+    <filter
+       x="-17.0%"
+       y="-19.5%"
+       width="134.0%"
+       height="154.7%"
+       filterUnits="objectBoundingBox"
+       id="filter-16">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset63" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur65" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix67" />
+    </filter>
+    <rect
+       id="path-17"
+       x="0"
+       y="0"
+       width="103"
+       height="64"
+       rx="4" />
+    <filter
+       x="-17.0%"
+       y="-19.5%"
+       width="134.0%"
+       height="154.7%"
+       filterUnits="objectBoundingBox"
+       id="filter-18">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset71" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur73" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix75" />
+    </filter>
+    <rect
+       id="path-19"
+       x="0"
+       y="0"
+       width="104"
+       height="64"
+       rx="4" />
+    <filter
+       x="-16.8%"
+       y="-19.5%"
+       width="133.7%"
+       height="154.7%"
+       filterUnits="objectBoundingBox"
+       id="filter-20">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset79" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur81" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix83" />
+    </filter>
+    <rect
+       id="path-21"
+       x="21"
+       y="548"
+       width="130"
+       height="46"
+       rx="4" />
+    <filter
+       x="-13.5%"
+       y="-27.2%"
+       width="126.9%"
+       height="176.1%"
+       filterUnits="objectBoundingBox"
+       id="filter-22">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset87" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur89" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix91" />
+    </filter>
+    <rect
+       id="path-23"
+       x="168"
+       y="548"
+       width="130"
+       height="46"
+       rx="4" />
+    <filter
+       x="-13.5%"
+       y="-27.2%"
+       width="126.9%"
+       height="176.1%"
+       filterUnits="objectBoundingBox"
+       id="filter-24">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset95" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur97" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix99" />
+    </filter>
+    <rect
+       id="path-25"
+       x="316"
+       y="548"
+       width="130"
+       height="46"
+       rx="4" />
+    <filter
+       x="-13.5%"
+       y="-27.2%"
+       width="126.9%"
+       height="176.1%"
+       filterUnits="objectBoundingBox"
+       id="filter-26">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset103" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur105" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix107" />
+    </filter>
+    <rect
+       id="path-27"
+       x="463"
+       y="548"
+       width="130"
+       height="46"
+       rx="4" />
+    <filter
+       x="-13.5%"
+       y="-27.2%"
+       width="126.9%"
+       height="176.1%"
+       filterUnits="objectBoundingBox"
+       id="filter-28">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset111" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur113" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix115" />
+    </filter>
+    <rect
+       id="path-29"
+       x="0"
+       y="0"
+       width="103"
+       height="64"
+       rx="4" />
+    <filter
+       x="-17.0%"
+       y="-19.5%"
+       width="134.0%"
+       height="154.7%"
+       filterUnits="objectBoundingBox"
+       id="filter-30">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset119" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur121" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix123" />
+    </filter>
+    <rect
+       id="path-31"
+       x="0"
+       y="0"
+       width="103"
+       height="64"
+       rx="4" />
+    <filter
+       x="-17.0%"
+       y="-19.5%"
+       width="134.0%"
+       height="154.7%"
+       filterUnits="objectBoundingBox"
+       id="filter-32">
+      <feOffset
+         dx="0"
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset127" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur129" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.118999094 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix131" />
+    </filter>
+  </defs>
+  <rect
+     style="opacity:0.23999999;fill:#70a0d0;fill-rule:evenodd;stroke:none;stroke-width:1"
+     rx="8"
+     height="329"
+     width="256"
+     y="0"
+     x="377"
+     id="Rectangle-8" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-2)"
+     id="use137"
+     xlink:href="#path-1"
+     transform="translate(400,49)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="use139"
+     xlink:href="#path-1"
+     transform="translate(400,49)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-4)"
+     id="use144"
+     xlink:href="#path-3"
+     transform="translate(400,120)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="use146"
+     xlink:href="#path-3"
+     transform="translate(400,120)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-6)"
+     id="use152"
+     xlink:href="#path-5"
+     transform="translate(400,191)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="use154"
+     xlink:href="#path-5"
+     transform="translate(400,191)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-8)"
+     id="use160"
+     xlink:href="#path-7"
+     transform="translate(400,262)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="use162"
+     xlink:href="#path-7"
+     transform="translate(400,262)" />
+  <rect
+     style="opacity:0.2;fill:#ff3576;fill-rule:evenodd;stroke:none;stroke-width:1"
+     rx="8"
+     height="329"
+     width="354"
+     y="0"
+     x="0"
+     id="Rectangle-8-Copy-13" />
+  <use
+     xlink:href="#path-9"
+     id="use171"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-10)"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-9"
+     id="use173"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-11"
+     id="use177"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-12)"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-11"
+     id="use179"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <rect
+     style="opacity:0.15;fill:#525960;fill-rule:evenodd;stroke:none;stroke-width:1"
+     rx="3"
+     height="70"
+     width="130"
+     y="95"
+     x="32"
+     id="Rectangle" />
+  <rect
+     style="opacity:0.15;fill:#525960;fill-rule:evenodd;stroke:none;stroke-width:1"
+     rx="3"
+     height="70"
+     width="130"
+     y="95"
+     x="190"
+     id="Rectangle-Copy-5" />
+  <use
+     xlink:href="#path-13"
+     id="use189"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-14)"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-13"
+     id="use191"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <rect
+     style="opacity:0.23999999;fill:#78bab0;fill-rule:evenodd;stroke:none;stroke-width:1"
+     rx="8"
+     height="133"
+     width="633"
+     y="349"
+     x="0"
+     id="Rectangle-8-Copy-14" />
+  <rect
+     style="opacity:0.2;fill:#5cb95d;fill-rule:evenodd;stroke:none;stroke-width:1"
+     rx="8"
+     height="115"
+     width="633"
+     y="499"
+     x="0"
+     id="Rectangle-8-Copy-15" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-16)"
+     id="use200"
+     xlink:href="#path-15"
+     transform="translate(21,398)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="use202"
+     xlink:href="#path-15"
+     transform="translate(21,398)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-18)"
+     id="use207"
+     xlink:href="#path-17"
+     transform="translate(138,398)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="use209"
+     xlink:href="#path-17"
+     transform="translate(138,398)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-20)"
+     id="use214"
+     xlink:href="#path-19"
+     transform="translate(255,398)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="use216"
+     xlink:href="#path-19"
+     transform="translate(255,398)" />
+  <use
+     xlink:href="#path-21"
+     id="use221"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-22)"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-21"
+     id="use223"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-23"
+     id="use226"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-24)"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-23"
+     id="use228"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-25"
+     id="use231"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-26)"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-25"
+     id="use233"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-27"
+     id="use236"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-28)"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#path-27"
+     id="use238"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-30)"
+     id="use246"
+     xlink:href="#path-29"
+     transform="translate(373,398)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="use248"
+     xlink:href="#path-29"
+     transform="translate(373,398)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-32)"
+     id="use253"
+     xlink:href="#path-31"
+     transform="translate(490,398)" />
+  <use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="use255"
+     xlink:href="#path-31"
+     transform="translate(490,398)" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     height="24"
+     width="12"
+     y="-623"
+     x="564"
+     id="Bounds"
+     transform="rotate(90)" />
+  <path
+     style="opacity:0.53999999;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     inkscape:connector-curvature="0"
+     id="Shape"
+     d="m 615,570 c 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 z m -2,0 c 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 z m -6,0 c 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 z" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     height="24"
+     width="12"
+     y="-623"
+     x="424"
+     id="rect264"
+     transform="rotate(90)" />
+  <path
+     style="opacity:0.53999999;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     inkscape:connector-curvature="0"
+     id="path266"
+     d="m 615,430 c 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 z m -2,0 c 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 z m -6,0 c 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 z" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="52.89069"
+     y="269.75061"
+     id="text1135"><tspan
+       sodipodi:role="line"
+       id="tspan1133"
+       x="52.89069"
+       y="282.48096" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none;"
+     x="155.45264"
+     y="461.53683"
+     id="text1181"><tspan
+       sodipodi:role="line"
+       id="tspan1179"
+       x="155.45264"
+       y="474.26718" /></text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="TextLayer"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#525960;fill-opacity:1;stroke:none"
+       x="177.36613"
+       y="29.755743"
+       id="text1088"><tspan
+         sodipodi:role="line"
+         id="tspan1086"
+         x="177.36613"
+         y="29.755743"
+         style="font-size:14.07999992px;fill:#525960;fill-opacity:1">CORE FRAMEWORK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="167.18057"
+       y="76.818535"
+       id="text1092"><tspan
+         sodipodi:role="line"
+         id="tspan1090"
+         x="167.18057"
+         y="76.818535">Nengo GUI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="96.908211"
+       y="126.38216"
+       id="text1096"><tspan
+         sodipodi:role="line"
+         id="tspan1094"
+         x="96.908211"
+         y="126.38216">Web Browser</tspan><tspan
+         sodipodi:role="line"
+         x="96.908211"
+         y="143.96548"
+         id="tspan1100">Client</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="255.0809"
+       y="126.26661"
+       id="text1106"><tspan
+         sodipodi:role="line"
+         id="tspan1104"
+         x="255.0809"
+         y="126.26661">Python</tspan><tspan
+         sodipodi:role="line"
+         x="255.0809"
+         y="143.84995"
+         id="tspan1108">Server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="504.82419"
+       y="290.02368"
+       id="text1143"><tspan
+         sodipodi:role="line"
+         id="tspan1141"
+         x="504.82419"
+         y="290.02368">Nengo Examples</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="505.05133"
+       y="218.97777"
+       id="text1147"><tspan
+         sodipodi:role="line"
+         id="tspan1145"
+         x="505.05133"
+         y="218.97777">Nengo Library</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="504.86084"
+       y="148.12711"
+       id="text1151"><tspan
+         sodipodi:role="line"
+         id="tspan1149"
+         x="504.86084"
+         y="148.12711">Nengo Extras</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="504.67709"
+       y="77.171646"
+       id="text1155"><tspan
+         sodipodi:role="line"
+         id="tspan1153"
+         x="504.67709"
+         y="77.171646">Nengo SPA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#525960;fill-opacity:1;stroke:none"
+       x="504.99435"
+       y="29.913567"
+       id="text1159"><tspan
+         sodipodi:role="line"
+         id="tspan1157"
+         x="504.99435"
+         y="29.913567"
+         style="font-size:14.0666666px">ADD-ONS &amp; MODELS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="541.58423"
+       y="426.39084"
+       id="text1163"><tspan
+         sodipodi:role="line"
+         id="tspan1161"
+         x="541.58423"
+         y="426.39084"
+         style="line-height:1.39999998">Loihi</tspan><tspan
+         sodipodi:role="line"
+         x="541.58423"
+         y="446.08417"
+         id="tspan1165"
+         style="line-height:1.39999998">Simulator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="424.44073"
+       y="426.08197"
+       id="text1169"><tspan
+         sodipodi:role="line"
+         id="tspan1167"
+         x="424.44073"
+         y="426.08197"
+         style="line-height:1.39999998">FPGA</tspan><tspan
+         sodipodi:role="line"
+         x="424.44073"
+         y="445.7753"
+         id="tspan1171"
+         style="line-height:1.39999998">Simulator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="307.06693"
+       y="425.854"
+       id="text1175"><tspan
+         sodipodi:role="line"
+         id="tspan1173"
+         x="307.06693"
+         y="425.854"
+         style="line-height:1.39999998">OpenCL</tspan><tspan
+         sodipodi:role="line"
+         x="307.06693"
+         y="445.54733"
+         id="tspan1177"
+         style="line-height:1.39999998">Simulator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="189.46516"
+       y="426.21387"
+       id="text1185"><tspan
+         sodipodi:role="line"
+         id="tspan1183"
+         x="189.46516"
+         y="426.21387"
+         style="line-height:1.39999998">Nengo DL</tspan><tspan
+         sodipodi:role="line"
+         x="189.46516"
+         y="445.9072"
+         id="tspan1187"
+         style="line-height:1.39999998">Simulator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="72.432121"
+       y="426.17242"
+       id="text1191"><tspan
+         sodipodi:role="line"
+         id="tspan1189"
+         x="72.432121"
+         y="426.17242"
+         style="line-height:1.39999998">Nengo Core</tspan><tspan
+         sodipodi:role="line"
+         x="72.432121"
+         y="445.86575"
+         id="tspan1193"
+         style="line-height:1.39999998">Simulator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#525960;fill-opacity:1;stroke:none"
+       x="317.03326"
+       y="378.87854"
+       id="text1217"><tspan
+         sodipodi:role="line"
+         id="tspan1215"
+         x="317.03326"
+         y="378.87854">SIMULATION BACKENDS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#525960;fill-opacity:1;stroke:none"
+       x="316.65424"
+       y="528.68506"
+       id="text1197"><tspan
+         sodipodi:role="line"
+         id="tspan1195"
+         x="316.65424"
+         y="528.68506">PHYSICAL HARDWARE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="86.004852"
+       y="576.05664"
+       id="text1201"><tspan
+         sodipodi:role="line"
+         id="tspan1199"
+         x="86.004852"
+         y="576.05664">CPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="232.48906"
+       y="575.82672"
+       id="text1205"><tspan
+         sodipodi:role="line"
+         id="tspan1203"
+         x="232.48906"
+         y="575.82672">GPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="381.04291"
+       y="576.05664"
+       id="text1209"><tspan
+         sodipodi:role="line"
+         id="tspan1207"
+         x="381.04291"
+         y="576.05664">FPGA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="527.75708"
+       y="576.05664"
+       id="text1213"><tspan
+         sodipodi:role="line"
+         id="tspan1211"
+         x="527.75708"
+         y="576.05664">Loihi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="91.086739"
+       y="229.86476"
+       id="text1131"><tspan
+         sodipodi:role="line"
+         id="tspan1129"
+         x="91.086739"
+         y="229.86476">Nengo Core</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="260.88254"
+       y="229.98793"
+       id="text1139"><tspan
+         sodipodi:role="line"
+         id="tspan1137"
+         x="260.88254"
+         y="229.98793">Nengo DL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.72000027px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="90.944443"
+       y="260.0058"
+       id="text1221"><tspan
+         sodipodi:role="line"
+         id="tspan1219"
+         x="90.944443"
+         y="260.0058"
+         style="font-size:13.19999981px;fill:#2c2c2c;fill-opacity:1">Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="91.221924"
+       y="285.04819"
+       id="text1225"><tspan
+         sodipodi:role="line"
+         id="tspan1223"
+         x="91.221924"
+         y="285.04819"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.19999981px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';fill:#2c2c2c;fill-opacity:1">Numpy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
+       x="261.30771"
+       y="260.00687"
+       id="text1229"><tspan
+         sodipodi:role="line"
+         x="261.30771"
+         y="260.00687"
+         id="tspan1231"
+         style="font-size:13.19999981px">TensorFlow</tspan></text>
+  </g>
+</svg>
