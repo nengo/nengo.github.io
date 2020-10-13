@@ -41,12 +41,12 @@
      id="namedview277"
      showgrid="false"
      inkscape:zoom="1.5374593"
-     inkscape:cx="263.21212"
-     inkscape:cy="305.64799"
+     inkscape:cx="332.8617"
+     inkscape:cy="383.69884"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="svg275" />
   <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
   <title
      id="title2">ecosystem</title>
@@ -585,7 +585,7 @@
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-4)"
      id="use144"
      xlink:href="#path-3"
-     transform="translate(400,120)" />
+     transform="translate(400,132.5)" />
   <use
      height="100%"
      width="100%"
@@ -594,7 +594,7 @@
      style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
      id="use146"
      xlink:href="#path-3"
-     transform="translate(400,120)" />
+     transform="translate(400,132.5)" />
   <use
      height="100%"
      width="100%"
@@ -603,7 +603,7 @@
      style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-6)"
      id="use152"
      xlink:href="#path-5"
-     transform="translate(400,191)" />
+     transform="translate(400,217.75)" />
   <use
      height="100%"
      width="100%"
@@ -612,25 +612,7 @@
      style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
      id="use154"
      xlink:href="#path-5"
-     transform="translate(400,191)" />
-  <use
-     height="100%"
-     width="100%"
-     y="0"
-     x="0"
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-8)"
-     id="use160"
-     xlink:href="#path-7"
-     transform="translate(400,262)" />
-  <use
-     height="100%"
-     width="100%"
-     y="0"
-     x="0"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
-     id="use162"
-     xlink:href="#path-7"
-     transform="translate(400,262)" />
+     transform="translate(400,217.75)" />
   <rect
      style="opacity:0.2;fill:#ff3576;fill-rule:evenodd;stroke:none;stroke-width:1"
      rx="8"
@@ -955,43 +937,33 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
-       x="504.82419"
-       y="290.02368"
-       id="text1143"><tspan
-         sodipodi:role="line"
-         id="tspan1141"
-         x="504.82419"
-         y="290.02368">NengoExamples</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
-       x="505.05133"
-       y="218.97777"
+       x="503.20612"
+       y="244.45702"
        id="text1147"><tspan
          sodipodi:role="line"
          id="tspan1145"
-         x="505.05133"
-         y="218.97777">Nengolib</tspan></text>
+         x="503.20612"
+         y="244.45702">NengoExamples</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
        x="504.86084"
-       y="148.12711"
+       y="159.78992"
        id="text1151"><tspan
          sodipodi:role="line"
          id="tspan1149"
          x="504.86084"
-         y="148.12711">NengoExtras</tspan></text>
+         y="159.78992">NengoExtras</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2c2c2c;fill-opacity:1;stroke:none"
-       x="504.67709"
-       y="77.171646"
+       x="504.5701"
+       y="75.502602"
        id="text1155"><tspan
          sodipodi:role="line"
          id="tspan1153"
-         x="504.67709"
-         y="77.171646">NengoSPA</tspan></text>
+         x="504.5701"
+         y="75.502602">NengoSPA</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.0666666px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#525960;fill-opacity:1;stroke:none"
@@ -1183,4 +1155,9 @@
          x="261.30771"
          y="260.00687">TensorFlow</tspan></text>
   </g>
+  <path
+     style="opacity:0.53999999;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     inkscape:connector-curvature="0"
+     id="path266-3"
+     d="m 505,305.28486 c -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 0,-1.1 -0.9,-2 -2,-2 z m 0,-2 c 1.1,0 2,-0.9 2,-2 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 z m 0,-6 c 1.1,0 2,-0.9 2,-2 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 z" />
 </svg>
