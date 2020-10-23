@@ -859,8 +859,7 @@ body.theme-purple {
     float: right;
   }
 
-  // add `before` to code blocks to account for top navbar in anchors
-  div.viewcode-block::before {
+  div.viewcode-block::before, dt.label::before {
     content: "";
     display: block;
     height: $header-buffer;
