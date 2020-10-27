@@ -37,8 +37,13 @@ in the file view at the top-left.
 
 - [Keyword spotting with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/keyword-spotting.html)
 - [Nonlinear adaptive control with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/adaptive-motor-control.html)
-- [CIFAR-10 convolutional network](https://www.nengo.ai/nengo-loihi/examples/cifar10-convnet.html)
+- [CIFAR-10 classification convolutional network with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/cifar10-convnet.html)
 - [Other NengoLoihi examples](https://www.nengo.ai/nengo-loihi/examples.html)
+- [Lorenz chaotic attractor with NengoFPGA](https://www.nengo.ai/nengo-fpga/examples/notebooks/06-chaotic-attractor.html)
+- [MNIST classifier with NengoFPGA](https://www.nengo.ai/nengo-fpga/examples.html#mnist-digit-classifier)
+- [Adaptive pendulum control with NengoFPGA](https://www.nengo.ai/nengo-fpga/examples.html#adaptive-pendulum-control)
+- [Reinforcement learning agent with NengFPGA](https://www.nengo.ai/nengo-fpga/examples.html#reinforcement-learning)
+- [Other NengoFPGA examples](https://www.nengo.ai/nengo-fpga/examples.html)
 
 ## Online learning
 
