@@ -1,6 +1,6 @@
 ---
 layout: md_page
-title: Nengo Contributor Assignment Agreement
+title: Applied Brain Research Contributor Assignment Agreement
 
 footerClasses: gradient-bottom
 ---
@@ -9,15 +9,17 @@ Based on Harmony (HA-CAA-I-ANY) Version 1.0, with minor changes.
 
 ## Individual Contributor Assignment Agreement
 
-Thank you for your interest in contributing to Nengo, a product of
-Applied Brain Research ("We" or "Us").
+Thank you for your interest in contributing to one or more products
+of Applied Brain Research ("We" or "Us").
 
 This contributor agreement (the "Agreement") documents the rights
 granted by contributors to Us.
 
 By adding your name to the `people.md` file at
 <https://github.com/nengo/nengo.github.io/blob/master/people.md> you
-are agreeing to be bound by the Agreement in full.
+are agreeing to be bound by the Agreement in full;
+your name will then appear on our
+[People page]({{ site.baseurl }}{% link people.md %}).
 
 You agree to inform Us in the relevant pull request(s) if You do not own
 the Copyright to the entire Submission. We will initiate an IP review
