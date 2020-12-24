@@ -33,6 +33,7 @@ By adding your name to this file, you are agreeing to the
 - [David Nicholson](mailto:nicholdav@gmail.com)
 - [Eric Crawford](mailto:eric.crawford@mail.mcgill.ca)
 - [Eric Hunsberger](mailto:erichuns@gmail.com)
+- [Evren Daglarli](mailto:evrendaglarli@ieee.org)
 - [Filipe Rocha](mailto:f.rocha41@gmail.com)
 - [Girish Mohan](mailto:mohangiri1999@gmail.com)
 - [Gurshaant Singh Malik](mailto:garymalik8080@gmail.com)
