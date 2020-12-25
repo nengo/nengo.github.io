@@ -18,6 +18,7 @@ By adding your name to this file, you are agreeing to the
 [Nengo Contributor Assignment Agreement]({{ site.baseurl }}{% link caa.md %}).
 
 - [Aaron Voelker](mailto:arvoelke@gmail.com)
+- [Abhinav Agrahari](mailto:aagrahar@uwaterloo.ca)
 - [Alex Eliasmith](mailto:weliasmith@uwaterloo.ca)
 - [Alex Tait](mailto:atait@ieee.org)
 - [Allen Wang](mailto:allen.houze.wang@gmail.com)
