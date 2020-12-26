@@ -44,6 +44,7 @@ By adding your name to this file, you are agreeing to the
 - [Kris Frenette](mailto:kris.frenette@appliedbrainresearch.com)
 - [@luzpaz](mailto:luzpaz@users.noreply.github.com)
 - [Ménélik Vero](mailto:menelik.vero@tum.de)
+- [Michael Nasello](mailto:mlnasell@uwaterloo.ca)
 - [Oliver Trujillo](mailto:olivertgp@hotmail.com)
 - [Pawel Jaworski](mailto:p3jawors@gmail.com)
 - [Peter Blouw](mailto:pblouw@uwaterloo.ca)
