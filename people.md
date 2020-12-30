@@ -62,6 +62,7 @@ By adding your name to this file, you are agreeing to the
 - [Thomas Tiotto](mailto:thomas.tiotto@outlook.com)
 - [Travis DeWolf](mailto:travis.dewolf@gmail.com)
 - [Trevor Bekolay](mailto:tbekolay@gmail.com)
+- [Vincenzo Heska](mailto:vincenzo.heska@gmail.com)
 - [Xuan Choo](mailto:xchoo.mainframe@gmail.com)
 - [Youssef Zaky](mailto:youssefzaky@gmail.com)
 - [Ziying Zhang](mailto:zy8zhang@uwaterloo.ca)
