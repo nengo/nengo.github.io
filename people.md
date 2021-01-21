@@ -27,6 +27,7 @@ By adding your name to this file, you are agreeing to the
 - [Avery Ryoo](mailto:avery.ryoo@uwaterloo.ca)
 - [Ben Morcos](mailto:morcos.ben@gmail.com)
 - [Brent Komer](mailto:brent.komer@gmail.com)
+- [Bryan Ling](mailto:b3ling@uwaterloo.ca)
 - [Bryan Tripp](mailto:bptripp@uwaterloo.ca)
 - [Chris Eliasmith](mailto:celiasmith@uwaterloo.ca)
 - [Christopher Chan](mailto:c88chan@uwaterloo.ca)
