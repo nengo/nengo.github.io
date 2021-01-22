@@ -47,6 +47,7 @@ By adding your name to this file, you are agreeing to the
 - [Ménélik Vero](mailto:menelik.vero@tum.de)
 - [Michael Nasello](mailto:mlnasell@uwaterloo.ca)
 - [Nicole Zhang](mailto:nj3zhang@uwaterloo.ca)
+- [Olha Wloch](mailto:olha.wloch@gmail.com)
 - [Oliver Trujillo](mailto:olivertgp@hotmail.com)
 - [Pawel Jaworski](mailto:p3jawors@gmail.com)
 - [Peter Blouw](mailto:pblouw@uwaterloo.ca)
