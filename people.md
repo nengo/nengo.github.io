@@ -24,6 +24,7 @@ By adding your name to this file, you are agreeing to the
 - [Allen Wang](mailto:allen.houze.wang@gmail.com)
 - [Andreas Stöckel](mailto:andreas.stoeckel@gmail.com)
 - [Andrew Mundy](mailto:andrew.mundy@ieee.org)
+- [Austin Wang](mailto:a42wang@uwaterloo.ca)
 - [Avery Ryoo](mailto:avery.ryoo@uwaterloo.ca)
 - [Ben Morcos](mailto:morcos.ben@gmail.com)
 - [Brent Komer](mailto:brent.komer@gmail.com)
