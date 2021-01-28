@@ -40,6 +40,7 @@ By adding your name to this file, you are agreeing to the
 - [Filipe Rocha](mailto:f.rocha41@gmail.com)
 - [Girish Mohan](mailto:mohangiri1999@gmail.com)
 - [Gurshaant Singh Malik](mailto:garymalik8080@gmail.com)
+- [Hooman Ramezani](mailto:hooman125@gmail.com)
 - [Ivana Kajić](mailto:ivana.kajic@gmail.com)
 - [James Bergstra](mailto:james.bergstra@gmail.com)
 - [Jan Gosmann](mailto:jan@hyper-world.de)
