@@ -49,6 +49,7 @@ By adding your name to this file, you are agreeing to the
 - [@luzpaz](mailto:luzpaz@users.noreply.github.com)
 - [Ménélik Vero](mailto:menelik.vero@tum.de)
 - [Michael Nasello](mailto:mlnasell@uwaterloo.ca)
+- [Narsimha Chilkuri](mailto:narasimha.chilkuri@gmail.com)
 - [Nicole Zhang](mailto:nj3zhang@uwaterloo.ca)
 - [Olha Wloch](mailto:olha.wloch@gmail.com)
 - [Oliver Trujillo](mailto:olivertgp@hotmail.com)
