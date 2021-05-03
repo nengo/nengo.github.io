@@ -56,6 +56,7 @@ By adding your name to this file, you are agreeing to the
 - [Peter Blouw](mailto:pblouw@uwaterloo.ca)
 - [Peter Suma](mailto:psuma@waterloo.ca)
 - [Petrut Bogdan](mailto:petrutantoniu8@gmail.com)
+- [Ramonito Copreros Jr](mailto:ramonito.copreros.jr@appliedbrainresearch.com)
 - [Rees Simmons](mailto:rsimmons@uwaterloo.ca)
 - [Rocha Leonardo M](mailto:leo(dot)m(dot)rocha@gmail.com)
 - [Sean Aubin](mailto:seanaubin@gmail.com)
