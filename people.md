@@ -44,6 +44,7 @@ By adding your name to this file, you are agreeing to the
 - [Ivana Kajić](mailto:ivana.kajic@gmail.com)
 - [James Bergstra](mailto:james.bergstra@gmail.com)
 - [Jan Gosmann](mailto:jan@hyper-world.de)
+- [Kimathi Kaai](mailto:kimathikaai@gmail.com)
 - [Kinjal Patel](mailto:kinjalp.patel@mail.utoronto.ca)
 - [Kris Frenette](mailto:kris.frenette@appliedbrainresearch.com)
 - [@luzpaz](mailto:luzpaz@users.noreply.github.com)
