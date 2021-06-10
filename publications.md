@@ -86,7 +86,7 @@ heteroassociative memory using the Neural Engineering Framework. *The
 Blouw, Eliasmith, & Tripp (2016) A scaleable spiking neural model of
 action planning. In *Proceedings of the 37th Annual Conference of the
 Cognitive Science Society*. Austin, TX: Cognitive Science Society.
-[PDF](https://mindmodeling.org/cogsci2016/papers/0279/paper0279.pdf)
+[PDF](https://www.researchgate.net/publication/307858522_A_scaleable_spiking_neural_model_of_action_planning)
 
 Kröger, Crawford, Bekolay, & Eliasmith (2016) Modeling interactions
 between speech production and perception: speech error detection at
