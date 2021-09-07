@@ -22,6 +22,7 @@ By adding your name to this file, you are agreeing to the
 - [Alex Eliasmith](mailto:weliasmith@uwaterloo.ca)
 - [Alex Tait](mailto:atait@ieee.org)
 - [Allen Wang](mailto:allen.houze.wang@gmail.com)
+- [Andi Li](mailto:andi.al.li135@gmail.com)
 - [Andreas Stöckel](mailto:andreas.stoeckel@gmail.com)
 - [Andrew Mundy](mailto:andrew.mundy@ieee.org)
 - [Austin Wang](mailto:a42wang@uwaterloo.ca)
