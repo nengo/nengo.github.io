@@ -39,6 +39,7 @@ By adding your name to this file, you are agreeing to the
 - [Eric Crawford](mailto:eric.crawford@mail.mcgill.ca)
 - [Eric Hunsberger](mailto:erichuns@gmail.com)
 - [Filipe Rocha](mailto:f.rocha41@gmail.com)
+- [Gabriel Doriath Döhler](mailto:gabriel.doriath.dohler@ens.fr)
 - [Girish Mohan](mailto:mohangiri1999@gmail.com)
 - [Gurshaant Singh Malik](mailto:garymalik8080@gmail.com)
 - [Hooman Ramezani](mailto:hooman125@gmail.com)
