@@ -36,6 +36,7 @@ By adding your name to this file, you are agreeing to the
 - [Colin Cooke](mailto:clvcooke@uwaterloo.ca)
 - [Daniel Rasmussen](mailto:dhrsmss@gmail.com)
 - [David Nicholson](mailto:nicholdav@gmail.com)
+- [Doriath Döhler Gabriel](mailto:gabriel.doriath.dohler@ens.fr)
 - [Eric Crawford](mailto:eric.crawford@mail.mcgill.ca)
 - [Eric Hunsberger](mailto:erichuns@gmail.com)
 - [Filipe Rocha](mailto:f.rocha41@gmail.com)
