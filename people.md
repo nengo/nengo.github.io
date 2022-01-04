@@ -35,6 +35,7 @@ By adding your name to this file, you are agreeing to the
 - [Christopher Chan](mailto:c88chan@uwaterloo.ca)
 - [Colin Cooke](mailto:clvcooke@uwaterloo.ca)
 - [Daniel Rasmussen](mailto:dhrsmss@gmail.com)
+- [Daniel Raymond](mailto:dan@raymond.ch)
 - [David Nicholson](mailto:nicholdav@gmail.com)
 - [Eric Crawford](mailto:eric.crawford@mail.mcgill.ca)
 - [Eric Hunsberger](mailto:erichuns@gmail.com)
