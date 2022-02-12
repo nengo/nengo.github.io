@@ -1,29 +1,19 @@
 ---
-layout: md_page
+layout: default
 theme: theme-blue
 
 title: Example models
 pageTitle: Nengo Examples
 ---
 
-## Tutorials accessible in NengoGUI
+<div class="main-content gradient-top">
+  <div class="container">
 
-The basics of how to build models and visualize them with NengoGUI
-are described in tutorials built into the NengoGUI.
-Access them through the *built-in examples* folder
-in the file view at the top-left.
-
-![NengoGUI interface]({{ site.baseurl }}/img/gui-examples.png)
-
-- `basics` shows the basic features of NengoGUI in no particular order.
-  Start here if you want a brief overview.
-- `hbb_tutorials` is a set of tutorials from the book
-  [How to Build a Brain](https://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0190262125/),
-  updated to work with current versions of Nengo.
-- `recurrent` shows some dynamic neural networks like attractor networks
-  that are straightforward to implement in Nengo.
-- `tutorial` is a set of 25 guided examples going from a network of one neuron
-  to networks of hundreds of thousands of neurons implementing cognitive models.
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-12 pb-5 documentation-source">
+        <div class="row example-ctas">
+<div class="col-12 col-lg-7 py-0 py-sm-5" markdown="1">
+# Featured examples
 
 ## Deep learning
 
@@ -35,10 +25,10 @@ in the file view at the top-left.
 
 ## Neuromorphic hardware
 
-- [Keyword spotting with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/keyword-spotting.html)
-- [Nonlinear adaptive control with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/adaptive-motor-control.html)
-- [CIFAR-10 classification convolutional network with NengoLoihi](https://www.nengo.ai/nengo-loihi/examples/cifar10-convnet.html)
-- [Other NengoLoihi examples](https://www.nengo.ai/nengo-loihi/examples.html)
+- [Keyword spotting with NengoLoihi](https://www.nengo.ai/nengo-examples/loihi/keyword-spotting.html)
+- [Nonlinear adaptive control with NengoLoihi](https://www.nengo.ai/nengo-examples/loihi/adaptive-motor-control.html)
+- [CIFAR-10 classification convolutional network with NengoLoihi](https://www.nengo.ai/nengo-examples/loihi/cifar10-convnet.html)
+- [Other NengoLoihi examples](https://www.nengo.ai/nengo-examples/loihi)
 - [Lorenz chaotic attractor with NengoFPGA](https://www.nengo.ai/nengo-fpga/examples/notebooks/06-chaotic-attractor.html)
 - [MNIST classifier with NengoFPGA](https://www.nengo.ai/nengo-fpga/examples.html#mnist-digit-classifier)
 - [Adaptive pendulum control with NengoFPGA](https://www.nengo.ai/nengo-fpga/examples.html#adaptive-pendulum-control)
@@ -64,3 +54,41 @@ in the file view at the top-left.
 - [Spaun](https://github.com/xchoo/spaun2.0)
 - [Simple question answering with the Semantic Pointer Architecture](https://www.nengo.ai/nengo-spa/examples/question-memory.html)
 - [NengoSPA examples](https://www.nengo.ai/nengo-spa/examples.html)
+
+<h2><a href="https://www.nengo.ai/nengo-examples/">Extra examples</a></h2>
+
+</div>
+
+          <div class="col-10 col-lg-5 py-0 py-sm-5">
+            <div class="row mt-5 pt-5">
+              <div class="card-border shadow-sm fade-in">
+                <div class="card-header">
+                  <h3 class="m-0 py-2">GUI tutorials</h3>
+                </div>
+                <div class="card-body bg-white">
+                  <img class="mb-3" src="{{ site.baseurl}}/img/examples-gui.png">
+                  <p>Guided tutorials showing the basics of how to build models and visualize them are built into NengoGUI.</p>
+                  <p>Access them through the <em>built-in examples</em> at the top-left.</p>
+                  <a class="btn btn-primary btn-block" href="https://github.com/nengo/nengo-gui">Install NengoGUI</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="card-border shadow-sm pt-5 fade-in">
+                <div class="card-header">
+                  <h3 class="m-0 py-2">Community examples</h3>
+                </div>
+                <div class="card-body bg-white">
+                  <img class="mb-3" src="{{ site.baseurl}}/img/examples-community.png">
+                  <p>Explore examples and tutorials shared on the Nengo community forums and, when you're ready, share your own!</p>
+                  <a class="btn btn-primary btn-block" href="https://forum.nengo.ai/c/examples-tutorials/8">Visit the forum</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
