@@ -87,7 +87,7 @@ exist without earlier versions that were generously supported by
 the following organizations.
 
 - [Canada Research Chairs](http://www.chairs-chaires.gc.ca/home-accueil-eng.aspx)
-- [Canada Foundation for Innovation](http://www.innovation.ca/en)
+- [Canada Foundation for Innovation](http://www.innovation.ca/)
 - [National Sciences and Research Council (NSERC)](http://www.nserc.ca/)
 - [Ontario Innovation Trust (OIT)](https://sparkplug.ca/project/ontario-innovation-trust/)
 - [SHARCNET](http://www.sharcnet.ca/)
