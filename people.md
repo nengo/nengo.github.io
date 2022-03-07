@@ -54,6 +54,7 @@ By adding your name to this file, you are agreeing to the
 - [Kris Frenette](mailto:kris.frenette@appliedbrainresearch.com)
 - [@luzpaz](mailto:luzpaz@users.noreply.github.com)
 - [Ménélik Vero](mailto:menelik.vero@tum.de)
+- [Michael Jurado](mailto:michaeljurado42@gmail.com)
 - [Michael Nasello](mailto:mlnasell@uwaterloo.ca)
 - [Narsimha Chilkuri](mailto:narasimha.chilkuri@gmail.com)
 - [Nicole Zhang](mailto:nj3zhang@uwaterloo.ca)
