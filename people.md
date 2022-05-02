@@ -40,6 +40,7 @@ By adding your name to this file, you are agreeing to the
 - [Edward Jiang](mailto:eydjiang@uwaterloo.ca)
 - [Eric Crawford](mailto:eric.crawford@mail.mcgill.ca)
 - [Eric Hunsberger](mailto:erichuns@gmail.com)
+- [Erik Huebner](mailto:e2huebne@uwaterloo.ca)
 - [Filipe Rocha](mailto:f.rocha41@gmail.com)
 - [Gabriel Doriath Döhler](mailto:gabriel.doriath.dohler@ens.fr)
 - [Girish Mohan](mailto:mohangiri1999@gmail.com)
