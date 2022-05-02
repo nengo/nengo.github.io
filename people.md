@@ -80,6 +80,7 @@ By adding your name to this file, you are agreeing to the
 - [Xuan Choo](mailto:xchoo.mainframe@gmail.com)
 - [Youssef Zaky](mailto:youssefzaky@gmail.com)
 - [Ziying Zhang](mailto:zy8zhang@uwaterloo.ca)
+- [Erik Huebner](mailto:e2huebne@uwaterloo.ca)
 
 ## Financial support
 
