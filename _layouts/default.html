@@ -32,6 +32,10 @@
     <!-- End Matomo Code -->
 
     <!-- prettier-ignore -->
+    {% for js in page.extrajs %}
+    <script src="{{ js }}"></script>
+    {% endfor %}
+
     <title>
       {% if page.pageTitle %}
       {{ page.pageTitle }}
@@ -207,9 +211,14 @@
                 <a
                   class="dropdown-item"
                   href="{{ site.baseurl }}{% link caa.md %}"
-                  >CAA</a
+                >CAA</a
                 >
               </div>
+            </li>
+            <li
+              class="nav-item{% if page.name == 'store.html' %} active{% endif %}"
+            >
+              <a class="nav-link" href="{{ site.baseurl }}{% link store.html %}">Store</a>
             </li>
             <li
               class="nav-item{% if page.name == 'getting-started.md' %} active{% endif %}"
@@ -240,6 +249,7 @@
         <a href="{{ site.baseurl }}{% link documentation.html %}"
           >Documentation</a
         >
+        <a href="{{ site.baseurl }}{% link store.html %}">Store</a>
         <a href="{{ site.baseurl }}{% link getting-started.md %}"
           >Getting started</a
         >
