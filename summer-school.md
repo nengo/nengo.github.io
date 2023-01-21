@@ -15,13 +15,10 @@ style="width: 100%;"/>]({{ site.baseurl }}/img/summerschool-campus.png)
 **Nengo with Neuromorphic Hardware:**
 
 The Centre for Theoretical Neuroscience at the University of
-Waterloo is excited to announce our 7th annual Nengo summer school
+Waterloo is excited to announce our 8th annual Nengo summer school
 on large-scale brain modelling and neuromorphic computing. As a
 recurring special feature of the school, participants will be given
-on-site access to [Loihi](https://ieeexplore.ieee.org/document/8259423),
-a neuromorphic research chip developed by Intel Labs. Other
-neuromorphic devices likely to be available at the summer school
-include Stanford’s mixed digital/analog chip
+on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip
 [Braindrop](https://web.stanford.edu/group/brainsinsilicon/),
 the [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/) chip, and a
 variety of [FPGAs](https://www.nengo.ai/nengo-fpga/).
@@ -95,7 +92,7 @@ with a variety of prizes for strong projects! The complete
 schedule and list of guest lecturers will be announced at a later
 date.
 
-**Dates:** June 7th - June 19th, 2020
+**Dates:** June 4th - June 16th, 2023
 
 **Location:** University of Waterloo, Ontario, Canada
 ([map](http://goo.gl/Sa074A))
@@ -117,7 +114,7 @@ University of Waterloo is approximately a one hour drive away, and
 a number of shuttle services are available to take you directly to
 the University from the airport. A list of general travel options
 can be found
-[here](https://uwaterloo.ca/international-student-guide/2019/prepare/arranging-travel-waterloo)
+[here](https://uwaterloo.ca/international-student-guide/resources/prepare/arranging-travel-waterloo)
 
 **Accommodations:** On-campus accommodations will be
 made available to all confirmed participants. The summer school rates
@@ -130,9 +127,9 @@ hardware, event-based vision sensors, simple humanoid and non-humanoid robotic
 devices, and a variety of large-scale cognitive modelling techniques. If
 applicable, please briefly indicate how you might leverage this infrastructure
 in your project. The application form is available
-[here](https://docs.google.com/forms/d/e/1FAIpQLSclDfoizYSGXZsScSGDeM5b33DpBcJJmME1bbIteY-qeydjSQ/viewform?usp=sf_link).
+[here](https://docs.google.com/forms/d/e/1FAIpQLSfv3wzhDMP31U4YzoNOxOCjDeHPGwEOlioRTIgK331ul_0jEA/viewform?usp=sf_link).
 
-**Application deadline:** Applications are due on **February 15th, 2020**.
+**Application deadline:** Applications are due on **March 15th, 2023**.
 
 **Contact information:** For any questions, please contact
-[Peter Blouw](mailto:peter.blouw@appliedbrainresearch.com).
+[Michael Furlong](mailto:michael.furlong@uwaterloo.ca).
