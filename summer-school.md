@@ -6,7 +6,7 @@ title: Nengo Summer School
 footerClasses: gradient-bottom
 ---
 
-## 2020
+## 2023
 
 [<img alt="Nengo summer school"
 src="{{ site.baseurl }}/img/summerschool-campus.png"
