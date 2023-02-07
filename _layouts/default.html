@@ -71,8 +71,10 @@
       integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
       crossorigin="anonymous"
     />
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
     <link
-      href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,600|Rajdhani:700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Space+Grotesk:wght@400;700&display=swap"
       rel="stylesheet"
     />
     <link
@@ -126,14 +128,13 @@
               class="nav-item dropdown{% if page.name == 'documentation.html' %} active{% endif %}"
             >
               <a
-                class="nav-link dropdown-toggle"
+                class="nav-link dropdown-toggle text-nowrap"
                 id="navbar-dropdown-docs"
                 data-toggle="dropdown"
                 aria-haspopup="true"
                 aria-expanded="false"
                 href="#"
-                >Documentation</a
-              >
+              >Documentation</a>
               <!-- prettier-ignore -->
               <div
                 class="dropdown-menu shadow-lg border-0"
@@ -164,14 +165,13 @@
               class="nav-item dropdown{% if page.name != 'index.html' and page.name != 'documentation.html' and page.name != 'getting-started.md' and page.name != 'examples.md' %} active{% endif %}"
             >
               <a
-                class="nav-link dropdown-toggle"
+                class="nav-link dropdown-toggle text-nowrap"
                 id="navbar-dropdown-community"
                 data-toggle="dropdown"
                 aria-haspopup="true"
                 aria-expanded="false"
                 href="#"
-                >Community</a
-              >
+              >Community</a>
               <div
                 class="dropdown-menu shadow-lg border-0"
                 aria-labelledby="navbar-dropdown-community"
@@ -215,19 +215,23 @@
                 >
               </div>
             </li>
-            <li
-              class="nav-item{% if page.name == 'store.html' %} active{% endif %}"
-            >
-              <a class="nav-link" href="{{ site.baseurl }}{% link store.html %}">Store</a>
-            </li>
+          </ul>
+          <ul class="navbar-nav ml-auto">
             <li
               class="nav-item{% if page.name == 'getting-started.md' %} active{% endif %}"
             >
               <a
                 class="nav-link btn btn-success btn-sm text-white"
                 href="{{ site.baseurl }}{% link getting-started.md%}"
-                >Getting started</a
-              >
+              >Getting started</a>
+            </li>
+            <li
+              class="nav-item{% if page.name == 'store.html' %} active{% endif %}"
+            >
+              <a
+                class="nav-link btn btn-success btn-sm text-white"
+                href="{{ site.baseurl }}{% link store.html %}"
+              >Store</a>
             </li>
           </ul>
         </div>
@@ -237,7 +241,7 @@
     {{ content }}
 
     <footer class="text-light footer-main {{ page.footerClasses }}">
-      <p class="small text-center mb-0">
+      <p class="text-center">
         <a class="no-hover-line" href="https://appliedbrainresearch.com">
           <img class="abr-logo" src="/img/abr-logo.svg" height="32"/>
         </a>
@@ -252,7 +256,7 @@
         >
         <a href="{{ site.baseurl }}{% link privacy.md %}">Privacy</a>
       </p>
-      <p class="small text-center mb-0">&copy; Applied Brain Research</p>
+      <p class="small text-center pb-0 mb-0">&copy; Applied Brain Research</p>
     </footer>
 
     <script>

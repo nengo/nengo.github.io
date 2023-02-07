@@ -21,7 +21,6 @@ const ShopifyBuyInit = () => {
 
     for (let i = 0; i < productNodes.length; i++) {
       const productNode = productNodes[i];
-      console.log(productNode);
       const singleProductNode = document.getElementsByClassName(
         `shopify-product-${productNode.dataset.productid}`
       );
@@ -82,6 +81,8 @@ const generateComponent = ({
 };
 
 let _scrollY; // Used on openModal and closeModal
+const fontFamily = '"DM Sans", sans-serif';
+const googleFonts = ["DM Sans"];
 
 const VIEWPRODUCT = {
   styles: {
@@ -97,7 +98,7 @@ const VIEWPRODUCT = {
       margin: "0",
     },
     button: {
-      "font-family": "Roboto, sans-serif",
+      "font-family": fontFamily,
       "font-weight": "bold",
       "text-align": "left",
       color: "#8bb684",
@@ -110,7 +111,6 @@ const VIEWPRODUCT = {
         "background-color": "transparent",
         outline: "none",
       },
-      "border-radius": "2px",
     },
   },
   buttonDestination: "modal",
@@ -128,7 +128,7 @@ const VIEWPRODUCT = {
       document.body.classList.add("no-scroll");
     },
   },
-  googleFonts: ["Roboto"],
+  googleFonts: googleFonts,
   width: "800px",
 };
 
@@ -161,17 +161,16 @@ const ADDPRODUCT = {
       "text-align": "right",
     },
     button: {
-      "font-family": "Roboto, sans-serif",
+      "font-family": fontFamily,
       "font-weight": "bold",
-      ":hover": {
-        "background-color": "#7da477",
-      },
       "background-color": "#a967b2",
+      ":hover": {
+        "background-color": "#9852a1",
+      },
       ":focus": {
-        "background-color": "#7da477",
+        "background-color": "#9852a1",
         outline: "none",
       },
-      "border-radius": "2px",
       padding: "3px 10px",
     },
     quantityInput: {
@@ -194,7 +193,7 @@ const ADDPRODUCT = {
     buttonWithQuantity: true,
     button: false,
   },
-  googleFonts: ["Roboto"],
+  googleFonts: googleFonts,
   width: "800px",
 };
 
@@ -219,17 +218,16 @@ const SUPPORTPRODUCT = {
       "margin-top": "0",
     },
     button: {
-      "font-family": "Roboto, sans-serif",
+      "font-family": fontFamily,
       "font-weight": "bold",
       ":hover": {
-        "background-color": "#7da477",
+        "background-color": "#9852a1",
       },
       "background-color": "#a967b2",
       ":focus": {
-        "background-color": "#7da477",
+        "background-color": "#9852a1",
         outline: "none",
       },
-      "border-radius": "2px",
       height: "42px",
       padding: "3px 10px",
       width: "50%",
@@ -250,7 +248,7 @@ const SUPPORTPRODUCT = {
     buttonWithQuantity: false,
     button: true,
   },
-  googleFonts: ["Roboto"],
+  googleFonts: googleFonts,
   width: "800px",
 };
 
@@ -267,6 +265,7 @@ const GENERALOPTIONS = {
   modal: {
     styles: {
       modal: {
+        "font-family": fontFamily,
         "max-width": "500px",
       },
       overlay: {
@@ -292,20 +291,20 @@ const GENERALOPTIONS = {
     layout: "vertical",
     styles: {
       button: {
-        "font-family": "Roboto, sans-serif",
+        "font-family": fontFamily,
         "font-weight": "bold",
-        color: "#ffffff",
+        "color": "#ffffff",
+        "background-color": "#a967b2",
         ":hover": {
-          "background-color": "#7da477",
+          "background-color": "#9852a1",
         },
-        "background-color": "#8bb684",
         ":focus": {
-          "background-color": "#7da477",
+          "background-color": "#9852a1",
+          outline: "none",
         },
-        "border-radius": "2px",
       },
     },
-    googleFonts: ["Roboto"],
+    googleFonts: googleFonts,
     text: {
       button: "Add to cart",
     },
@@ -345,16 +344,15 @@ const GENERALOPTIONS = {
     },
     styles: {
       button: {
-        "font-family": "Roboto, sans-serif",
+        "font-family": fontFamily,
         "font-weight": "bold",
         ":hover": {
-          "background-color": "#7da477",
+          "background-color": "#9852a1",
         },
         "background-color": "#8bb684",
         ":focus": {
-          "background-color": "#7da477",
+          "background-color": "#9852a1",
         },
-        "border-radius": "2px",
       },
     },
     text: {
@@ -362,7 +360,7 @@ const GENERALOPTIONS = {
       notice: "Shipping and discount codes are added at checkout.",
       button: "Checkout",
     },
-    googleFonts: ["Roboto"],
+    googleFonts: googleFonts,
   },
   lineItem: {
     contents: { image: false },
@@ -381,17 +379,17 @@ const GENERALOPTIONS = {
   toggle: {
     styles: {
       toggle: {
-        "font-family": "Roboto, sans-serif",
+        "font-family": fontFamily,
         "font-weight": "bold",
         "background-color": "#8bb684",
         ":hover": {
-          "background-color": "#7da477",
+          "background-color": "#9852a1",
         },
         ":focus": {
-          "background-color": "#7da477",
+          "background-color": "#9852a1",
         },
       },
     },
-    googleFonts: ["Roboto"],
+    googleFonts: googleFonts,
   },
 };
