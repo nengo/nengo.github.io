@@ -1033,6 +1033,11 @@ body.theme-purple {
     max-width: 100%;
   }
 
+  /* CSS for sphinx-tabs */
+  .sphinx-tabs button {
+    cursor: pointer;
+  }
+
   /* CSS for nbsphinx extension */
 
   /* remove conflicting styling from Sphinx themes */
