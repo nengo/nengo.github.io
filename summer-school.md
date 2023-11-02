@@ -50,7 +50,7 @@ the summer school!
 
 <iframe width="100%"
     height="400"
-    src="https://www.youtube.com/embed/5w0BzvNOypc"
+    src="https://www.youtube.com/embed/vRcN5-0wdQE"
     frameborder="0"
     allowfullscreen
 ></iframe>
