@@ -6,7 +6,7 @@ title: Nengo Summer School
 footerClasses: gradient-bottom
 ---
 
-## 2023
+## 2024
 
 [<img alt="Nengo summer school"
 src="{{ site.baseurl }}/img/summerschool-campus.png"
@@ -15,7 +15,7 @@ style="width: 100%;"/>]({{ site.baseurl }}/img/summerschool-campus.png)
 **Nengo with Neuromorphic Hardware:**
 
 The Centre for Theoretical Neuroscience at the University of
-Waterloo is excited to announce our 8th annual Nengo summer school
+Waterloo is excited to announce our 9th annual Nengo summer school
 on large-scale brain modelling and neuromorphic computing. As a
 recurring special feature of the school, participants will be given
 on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip
@@ -50,7 +50,7 @@ the summer school!
 
 <iframe width="100%"
     height="400"
-    src="https://www.youtube.com/embed/5w0BzvNOypc"
+    src="https://www.youtube.com/embed/vRcN5-0wdQE"
     frameborder="0"
     allowfullscreen
 ></iframe>
@@ -92,13 +92,13 @@ with a variety of prizes for strong projects! The complete
 schedule and list of guest lecturers will be announced at a later
 date.
 
-**Dates:** June 4th - June 16th, 2023
+**Dates:** June 2nd - June 14th, 2024
 
 **Location:** University of Waterloo, Ontario, Canada
 ([map](http://goo.gl/Sa074A))
 
 **Cost:** A registration fee is required of all
-participants (USD $450 for academic participants; USD $900 for
+participants (USD $550 for academic participants; USD $1000 for
 industry participants).
 
 This fee includes the cost of breakfast, lunch, and snacks during
@@ -127,9 +127,9 @@ hardware, event-based vision sensors, simple humanoid and non-humanoid robotic
 devices, and a variety of large-scale cognitive modelling techniques. If
 applicable, please briefly indicate how you might leverage this infrastructure
 in your project. The application form is available
-[here](https://docs.google.com/forms/d/e/1FAIpQLSfv3wzhDMP31U4YzoNOxOCjDeHPGwEOlioRTIgK331ul_0jEA/viewform?usp=sf_link).
+[here](https://docs.google.com/forms/d/e/1FAIpQLSf2ywL6WhF21IMjVbF-l_LjZiYIXKob37n6jEkXn7Vvk6Kw_Q/viewform?usp=sf_link).
 
-**Application deadline:** Applications are due on **March 15th, 2023**.
+**Application deadline:** Applications are due on **February 1, 2024**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
 
 **Contact information:** For any questions, please contact
 [Michael Furlong](mailto:michael.furlong@uwaterloo.ca).
