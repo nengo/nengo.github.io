@@ -163,7 +163,7 @@
       alt: Github stars
 - name: NengoOCL
   section: backend
-  external_url: https://labs.nengo.ai/nengo-ocl
+  external_url: https://www.nengo.ai/nengo-ocl
   logo: https://www.nengo.ai/design/_images/nengo-ocl-full-light.svg
   description: >
     NengoOCL uses the OpenCL framework to run Nengo models on GPUs and
@@ -172,8 +172,8 @@
     - image: https://img.shields.io/pypi/v/nengo-ocl.svg
       external_url: https://pypi.python.org/pypi/nengo-ocl
       alt: Latest PyPI version
-    - image: https://img.shields.io/github/stars/nengo-labs/nengo-ocl.svg?logo=github
-      external_url: https://github.com/nengo-labs/nengo-ocl
+    - image: https://img.shields.io/github/stars/nengo/nengo-ocl.svg?logo=github
+      external_url: https://github.com/nengo/nengo-ocl
       alt: Github stars
 - name: NengoSpiNNaker
   section: backend
@@ -192,12 +192,12 @@
       alt: Github stars
 - name: NengoMPI
   section: backend
-  external_url: https://github.com/nengo-labs/nengo-mpi
+  external_url: https://github.com/nengo/nengo-mpi
   description: >
     NengoMPI simulates Nengo models using a C++ backend that uses MPI to
     parallelize the running of the model on large numbers of heterogeneous
     processing units.
   badges:
-    - image: https://img.shields.io/github/stars/nengo-labs/nengo-mpi.svg?logo=github
-      external_url: https://github.com/nengo-labs/nengo-mpi
+    - image: https://img.shields.io/github/stars/nengo/nengo-mpi.svg?logo=github
+      external_url: https://github.com/nengo/nengo-mpi
       alt: Github stars
