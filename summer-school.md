@@ -129,7 +129,7 @@ applicable, please briefly indicate how you might leverage this infrastructure
 in your project. The application form is available
 [here](https://docs.google.com/forms/d/e/1FAIpQLSf2ywL6WhF21IMjVbF-l_LjZiYIXKob37n6jEkXn7Vvk6Kw_Q/viewform?usp=sf_link).
 
-**Application deadline:** Applications are due on **February 1, 2024**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
+**Application deadline:** Applications are due on **February 15, 2024**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
 
 **Contact information:** For any questions, please contact
 [Michael Furlong](mailto:michael.furlong@uwaterloo.ca).
