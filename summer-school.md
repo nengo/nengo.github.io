@@ -6,16 +6,14 @@ title: Nengo Summer School
 footerClasses: gradient-bottom
 ---
 
-## 2024
+## 2025
 
 [<img alt="Nengo summer school"
 src="{{ site.baseurl }}/img/summerschool-campus.png"
 style="width: 100%;"/>]({{ site.baseurl }}/img/summerschool-campus.png)
 
-**Nengo with Neuromorphic Hardware:**
-
 The Centre for Theoretical Neuroscience at the University of
-Waterloo is excited to announce our 9th annual Nengo summer school
+Waterloo is excited to announce our 10th annual Nengo summer school
 on large-scale brain modelling and neuromorphic computing. As a
 recurring special feature of the school, participants will be given
 on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip
@@ -92,7 +90,7 @@ with a variety of prizes for strong projects! The complete
 schedule and list of guest lecturers will be announced at a later
 date.
 
-**Dates:** June 2nd - June 14th, 2024
+**Dates:** June 1st - June 13th, 2025
 
 **Location:** University of Waterloo, Ontario, Canada
 ([map](http://goo.gl/Sa074A))
@@ -129,7 +127,7 @@ applicable, please briefly indicate how you might leverage this infrastructure
 in your project. The application form is available
 [here](https://docs.google.com/forms/d/e/1FAIpQLSf2ywL6WhF21IMjVbF-l_LjZiYIXKob37n6jEkXn7Vvk6Kw_Q/viewform?usp=sf_link).
 
-**Application deadline:** Applications are due on **February 15, 2024**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
+**Application deadline:** Applications are due on **February 1, 2025**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
 
 **Contact information:** For any questions, please contact
 [Michael Furlong](mailto:michael.furlong@uwaterloo.ca).
