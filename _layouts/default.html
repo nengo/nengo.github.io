@@ -1,280 +1,173 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GT8XEDLTMJ"></script>
-    <script>
-     window.dataLayer = window.dataLayer || [];
-     function gtag(){dataLayer.push(arguments);}
-     gtag('js', new Date());
-     gtag('config', 'G-GT8XEDLTMJ');
-    </script>
-    <!-- End Google tag (gtag.js) -->
 
-    <!-- Matomo -->
-    <script>
-     var _paq = window._paq = window._paq || [];
-     _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-     _paq.push(["setCookieDomain", "*.appliedbrainresearch.com"]);
-     _paq.push(["setDomains", ["*.appliedbrainresearch.com","*.edge.nengo.ai","*.forum.nengo.ai","*.labs.nengo.ai","*.nengo.ai"]]);
-     _paq.push(["enableCrossDomainLinking"]);
-     _paq.push(["setDoNotTrack", true]);
-     _paq.push(['trackPageView']);
-     _paq.push(['enableLinkTracking']);
-     (function() {
-       var u="https://appliedbrainresearch.matomo.cloud/";
-       _paq.push(['setTrackerUrl', u+'matomo.php']);
-       _paq.push(['setSiteId', '3']);
-       var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-       g.async=true; g.src='//cdn.matomo.cloud/appliedbrainresearch.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-     })();
-    </script>
-    <!-- End Matomo Code -->
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GT8XEDLTMJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-GT8XEDLTMJ');
+  </script>
+  <!-- End Google tag (gtag.js) -->
 
-    <!-- prettier-ignore -->
-    {% for js in page.extrajs %}
-    <script src="{{ js }}"></script>
-    {% endfor %}
+  <!-- Matomo -->
+  <script>
+    var _paq = window._paq = window._paq || [];
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.appliedbrainresearch.com"]);
+    _paq.push(["setDomains", ["*.appliedbrainresearch.com", "*.edge.nengo.ai", "*.forum.nengo.ai", "*.nengo.ai"]]);
+    _paq.push(["enableCrossDomainLinking"]);
+    _paq.push(["setDoNotTrack", true]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+      var u = "https://appliedbrainresearch.matomo.cloud/";
+      _paq.push(['setTrackerUrl', u + 'matomo.php']);
+      _paq.push(['setSiteId', '3']);
+      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+      g.async = true; g.src = '//cdn.matomo.cloud/appliedbrainresearch.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g, s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
 
-    <title>
-      {% if page.pageTitle %}
-      {{ page.pageTitle }}
-      {% elsif page.title %}
-      {{ page.title }}
-      {% else %}
-      Nengo
-      {% endif %}
-    </title>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, viewport-fit=cover"
-    />
-    <meta
-      name="description"
-      content="Nengo is a graphical and scripting based Python package for simulating large-scale neural networks."
-    />
-    <script
-      src="https://code.jquery.com/jquery-3.3.1.min.js"
-      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
-      integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
-      crossorigin="anonymous"
-    ></script>
-    <script src="https://unpkg.com/scrollreveal"></script>
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
-      integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
-      crossorigin="anonymous"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,600|Rajdhani:700&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      rel="stylesheet"
-      href="{{ site.baseurl }}/css/bootstrap.css"
-      type="text/css"
-    />
-    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" />
-  </head>
+  <!-- prettier-ignore -->
+  {% for js in page.extrajs %}
+  <script src="{{ js }}"></script>
+  {% endfor %}
 
-  <body class="bg-dark overflow-hidden {{ page.theme }}">
-    <header class="fixed-top header-top shadow-sm">
-      <nav class="navbar navbar-expand-md navbar-light bg-white">
-        <a class="navbar-brand" href="{{ site.baseurl }}{% link index.html %}">
-          <img
-            src="https://www.nengo.ai/design/_images/general-full-light.svg"
-            alt="Nengo"
-            class="logo"
-          />
-        </a>
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbar-collapse"
-          aria-controls="navbar-collapse"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbar-collapse">
-          <ul class="navbar-nav ml-auto">
-            <li
-              class="nav-item{% if page.name == 'index.html' %} active{% endif %}"
-            >
-              <a class="nav-link" href="{{ site.baseurl }}{% link index.html %}"
-                >What is Nengo?</a
-              >
-            </li>
-            <li
-              class="nav-item{% if page.name == 'examples.md' %} active{% endif %}"
-            >
-              <a
-                class="nav-link"
-                href="{{ site.baseurl }}{% link examples.md %}"
-                >Examples</a
-              >
-            </li>
-            <li
-              class="nav-item dropdown{% if page.name == 'documentation.html' %} active{% endif %}"
-            >
-              <a
-                class="nav-link dropdown-toggle"
-                id="navbar-dropdown-docs"
-                data-toggle="dropdown"
-                aria-haspopup="true"
-                aria-expanded="false"
-                href="#"
-                >Documentation</a
-              >
-              <!-- prettier-ignore -->
-              <div
-                class="dropdown-menu shadow-lg border-0"
-                aria-labelledby="navbar-dropdown-docs"
-              >
-                {% capture sections %}
-                  {% for project in site.data.projects %}
-                    {{ project.section }}
-                  {% endfor %}
-                {% endcapture %}
-                {% assign sections = sections | split: " " | uniq %}
-                {% for section in sections %}
-                  {% for project in site.data.projects %}
-                    {% if project.section == section %}
-                <a class="dropdown-item" href="{{ project.external_url }}"
-                  >{{ project.name }}</a
-                >
-                    {% endif %}
-                  {% endfor %}
-                <div class="dropdown-divider"></div>
-                {% endfor %}
-                <a class="dropdown-item" href="{% link documentation.html %}"
-                  >All documentation</a
-                >
-              </div>
-            </li>
-            <li
-              class="nav-item dropdown{% if page.name != 'index.html' and page.name != 'documentation.html' and page.name != 'getting-started.md' and page.name != 'examples.md' %} active{% endif %}"
-            >
-              <a
-                class="nav-link dropdown-toggle"
-                id="navbar-dropdown-community"
-                data-toggle="dropdown"
-                aria-haspopup="true"
-                aria-expanded="false"
-                href="#"
-                >Community</a
-              >
-              <div
-                class="dropdown-menu shadow-lg border-0"
-                aria-labelledby="navbar-dropdown-community"
-              >
-                <a class="dropdown-item" href="https://forum.nengo.ai">Forum</a>
-                <div class="dropdown-divider"></div>
-                <a
-                  class="dropdown-item"
-                  href="{{ site.baseurl }}{% link people.md %}"
-                  >People</a
-                >
-                <a
-                  class="dropdown-item"
-                  href="{{ site.baseurl }}{% link summer-school.md %}"
-                  >Summer school</a
-                >
-                <a
-                  class="dropdown-item"
-                  href="{{ site.baseurl }}{% link contributing.md %}"
-                  >Contributing</a
-                >
-                <a
-                  class="dropdown-item"
-                  href="{{ site.baseurl }}{% link publications.md %}"
-                  >Publications</a
-                >
-                <a
-                  class="dropdown-item"
-                  href="{{ site.baseurl }}{% link videos.md %}"
-                  >Videos</a
-                >
-                <a
-                  class="dropdown-item"
-                  href="{{ site.baseurl }}{% link conduct.md %}"
-                  >Code of conduct</a
-                >
-                <a
-                  class="dropdown-item"
-                  href="{{ site.baseurl }}{% link caa.md %}"
-                >CAA</a
-                >
-              </div>
-            </li>
-            <li
-              class="nav-item{% if page.name == 'store.html' %} active{% endif %}"
-            >
-              <a class="nav-link" href="{{ site.baseurl }}{% link store.html %}">Store</a>
-            </li>
-            <li
-              class="nav-item{% if page.name == 'getting-started.md' %} active{% endif %}"
-            >
-              <a
-                class="nav-link btn btn-success btn-sm text-white"
-                href="{{ site.baseurl }}{% link getting-started.md%}"
-                >Getting started</a
-              >
-            </li>
-          </ul>
-        </div>
-      </nav>
-    </header>
+  <title>
+    {% if page.pageTitle %}
+    {{ page.pageTitle }}
+    {% elsif page.title %}
+    {{ page.title }}
+    {% else %}
+    Nengo
+    {% endif %}
+  </title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="description"
+    content="Nengo is a graphical and scripting based Python package for simulating large-scale neural networks." />
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+    integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+    crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/scrollreveal"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+    integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Space+Grotesk:wght@400;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.css" type="text/css" />
+  <link rel="icon" href="{{ site.baseurl }}/favicon.ico" />
+</head>
 
-    {{ content }}
+<body class="bg-dark overflow-hidden {{ page.theme }}">
+  <header class="fixed-top header-top shadow-sm">
+    <nav class="navbar navbar-expand-md navbar-light bg-white">
+      <a class="navbar-brand" href="{{ site.baseurl }}{% link index.html %}">
+        <img src="https://www.nengo.ai/design/_images/general-full-light.svg" alt="Nengo" class="logo" />
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse"
+        aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbar-collapse">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item{% if page.name == 'index.html' %} active{% endif %}">
+            <a class="nav-link" href="{{ site.baseurl }}{% link index.html %}">What is Nengo?</a>
+          </li>
+          <li class="nav-item{% if page.name == 'examples.md' %} active{% endif %}">
+            <a class="nav-link" href="{{ site.baseurl }}{% link examples.md %}">Examples</a>
+          </li>
+          <li class="nav-item dropdown{% if page.name == 'documentation.html' %} active{% endif %}">
+            <a class="nav-link dropdown-toggle text-nowrap" id="navbar-dropdown-docs" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false" href="#">Documentation</a>
+            <!-- prettier-ignore -->
+            <div class="dropdown-menu shadow-lg border-0" aria-labelledby="navbar-dropdown-docs">
+              {% capture sections %}
+              {% for project in site.data.projects %}
+              {{ project.section }}
+              {% endfor %}
+              {% endcapture %}
+              {% assign sections = sections | split: " " | uniq %}
+              {% for section in sections %}
+              {% for project in site.data.projects %}
+              {% if project.section == section %}
+              <a class="dropdown-item" href="{{ project.external_url }}">{{ project.name }}</a>
+              {% endif %}
+              {% endfor %}
+              <div class="dropdown-divider"></div>
+              {% endfor %}
+              <a class="dropdown-item" href="{% link documentation.html %}">All documentation</a>
+            </div>
+          </li>
+          <li
+            class="nav-item dropdown{% if page.name != 'index.html' and page.name != 'documentation.html' and page.name != 'getting-started.md' and page.name != 'examples.md' %} active{% endif %}">
+            <a class="nav-link dropdown-toggle text-nowrap" id="navbar-dropdown-community" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false" href="#">Community</a>
+            <div class="dropdown-menu shadow-lg border-0" aria-labelledby="navbar-dropdown-community">
+              <a class="dropdown-item" href="https://forum.nengo.ai">Forum</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link people.md %}">People</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link summer-school.md %}">Summer school</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link contributing.md %}">Contributing</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link publications.md %}">Publications</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link videos.md %}">Videos</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link conduct.md %}">Code of conduct</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}{% link caa.md %}">CAA</a>
+            </div>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item{% if page.name == 'getting-started.md' %} active{% endif %}">
+            <a class="nav-link btn btn-success btn-sm text-white"
+              href="{{ site.baseurl }}{% link getting-started.md%}">Getting started</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
 
-    <footer class="text-light footer-main {{ page.footerClasses }}">
-      <p class="small text-center mb-0">
-        <a class="no-hover-line" href="https://appliedbrainresearch.com">
-          <img
-            src="https://appliedbrainresearch.com/img/logo-blue-notext.svg"
-            height="48"
-          />
-        </a>
-        <a href="{{ site.baseurl }}{% link index.html %}">What is Nengo?</a>
-        <a href="{{ site.baseurl }}{% link examples.md %}">Examples</a>
-        <a href="{{ site.baseurl }}{% link documentation.html %}"
-          >Documentation</a
-        >
-        <a href="{{ site.baseurl }}{% link store.html %}">Store</a>
-        <a href="{{ site.baseurl }}{% link getting-started.md %}"
-          >Getting started</a
-        >
-        <a href="{{ site.baseurl }}{% link privacy.md %}">Privacy</a>
-      </p>
-      <p class="small text-center mb-0">&copy; Applied Brain Research</p>
-    </footer>
+  {{ content }}
 
-    <script>
-      ScrollReveal().reveal(".fade-in", {
-        scale: 0.85,
-        duration: 1000,
-        delay: 250,
-        interval: 50,
-      });
-      $("a.toggleSidebar").on("click", function (e) {
-        e.preventDefault();
-        if ($(this).hasClass("active")) {
-          $(this).removeClass("active");
-          $(".sidebar").removeClass("open");
-        } else {
-          $(this).addClass("active");
-          $(".sidebar").addClass("open");
-        }
-      });
-    </script>
-  </body>
+  <footer class="text-light footer-main {{ page.footerClasses }}">
+    <p class="text-center">
+      <a class="no-hover-line" href="https://appliedbrainresearch.com">
+        <img class="abr-logo" src="/img/abr-logo.svg" height="32" />
+      </a>
+      <a href="{{ site.baseurl }}{% link index.html %}">What is Nengo?</a>
+      <a href="{{ site.baseurl }}{% link examples.md %}">Examples</a>
+      <a href="{{ site.baseurl }}{% link documentation.html %}">Documentation</a>
+      <a href="{{ site.baseurl }}{% link getting-started.md %}">Getting started</a>
+      <a href="{{ site.baseurl }}{% link privacy.md %}">Privacy</a>
+    </p>
+    <p class="small text-center pb-0 mb-0">&copy; Applied Brain Research</p>
+  </footer>
+
+  <script>
+    ScrollReveal().reveal(".fade-in", {
+      scale: 0.85,
+      duration: 1000,
+      delay: 250,
+      interval: 50,
+    });
+    $("a.toggleSidebar").on("click", function (e) {
+      e.preventDefault();
+      if ($(this).hasClass("active")) {
+        $(this).removeClass("active");
+        $(".sidebar").removeClass("open");
+      } else {
+        $(this).addClass("active");
+        $(".sidebar").addClass("open");
+      }
+    });
+  </script>
+</body>
+
 </html>
