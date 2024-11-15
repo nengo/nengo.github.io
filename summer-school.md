@@ -48,10 +48,11 @@ the summer school!
 
 <iframe width="100%"
     height="400"
-    src="https://www.youtube.com/embed/vRcN5-0wdQE"
+    src="https://www.youtube.com/embed/nFYTqieEnSY"
     frameborder="0"
     allowfullscreen
 ></iframe>
+
 
 **Purpose:** The main goal of the summer school is to
 have participants learn to build state-of-the-art neural or
