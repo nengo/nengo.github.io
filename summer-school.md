@@ -48,10 +48,11 @@ the summer school!
 
 <iframe width="100%"
     height="400"
-    src="https://www.youtube.com/embed/vRcN5-0wdQE"
+    src="https://www.youtube.com/embed/nFYTqieEnSY"
     frameborder="0"
     allowfullscreen
 ></iframe>
+
 
 **Purpose:** The main goal of the summer school is to
 have participants learn to build state-of-the-art neural or
@@ -125,7 +126,7 @@ hardware, event-based vision sensors, simple humanoid and non-humanoid robotic
 devices, and a variety of large-scale cognitive modelling techniques. If
 applicable, please briefly indicate how you might leverage this infrastructure
 in your project. The application form is available
-[here](https://docs.google.com/forms/d/e/1FAIpQLSf2ywL6WhF21IMjVbF-l_LjZiYIXKob37n6jEkXn7Vvk6Kw_Q/viewform?usp=sf_link).
+[here](https://forms.gle/yAwpS2DT5kQ3ZJSz8).
 
 **Application deadline:** Applications are due on **February 1, 2025**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
 
