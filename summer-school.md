@@ -6,14 +6,14 @@ title: Nengo Summer School
 footerClasses: gradient-bottom
 ---
 
-## 2025
+## 2026
 
 [<img alt="Nengo summer school"
 src="{{ site.baseurl }}/img/summerschool-campus.png"
 style="width: 100%;"/>]({{ site.baseurl }}/img/summerschool-campus.png)
 
 The Centre for Theoretical Neuroscience at the University of
-Waterloo is excited to announce our 10th annual Nengo summer school
+Waterloo is excited to announce our 11th annual Nengo summer school
 on large-scale brain modelling and neuromorphic computing. As a
 recurring special feature of the school, participants will be given
 on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip
@@ -46,6 +46,7 @@ Many of the concepts to be covered are in
 Watch the videos below for a quick look at previous versions of
 the summer school!
 
+### todo: change the link here!
 <iframe width="100%"
     height="400"
     src="https://www.youtube.com/embed/nFYTqieEnSY"
@@ -69,15 +70,15 @@ shape projects, develop new collaborations, and generate new ideas
 for projects. Participants will have the opportunity to learn how
 to:
 
-- use Nengo to program neuromorphic hardware systems, including Loihi!
+- use Nengo to program neuromorphic hardware systems!
 - integrate machine learning methods into biologically oriented models
 - interface Nengo with cameras and robotic systems of various kinds
 - build perceptual, motor, and cognitive models with spiking neurons
 - simulate large-scale models at a variety of levels of detail concurrently
-- model anatomical and electrophysiological data
-- model cognitive and behavioural data with a detailed neural model
+- build models that account for anatomical and electrophysiological data
+- build models that account for  cognitive and behavioural data with a detailed neural model
 - use a variety of single cell models within a large-scale model
-- use your favorite simulator, e.g. NEST, Brian, Neuron, etc.
+- use your favorite simulator, e.g. NEST, Brian, Neuron and/or Machine Learning Libraries e.g. PyTorch, TensorFlow, Keras.
 - implement modern non-linear control methods in a neural model
 - and much more ...
 
@@ -91,11 +92,12 @@ with a variety of prizes for strong projects! The complete
 schedule and list of guest lecturers will be announced at a later
 date.
 
-**Dates:** June 1st - June 13th, 2025
+**Dates:** May 31st - June 12th, 2026
 
 **Location:** University of Waterloo, Ontario, Canada
 ([map](http://goo.gl/Sa074A))
 
+### todo -- double-checking on this
 **Cost:** A registration fee is required of all
 participants (USD $550 for academic participants; USD $1000 for
 industry participants).
@@ -126,9 +128,10 @@ hardware, event-based vision sensors, simple humanoid and non-humanoid robotic
 devices, and a variety of large-scale cognitive modelling techniques. If
 applicable, please briefly indicate how you might leverage this infrastructure
 in your project. The application form is available
-[here](https://forms.gle/yAwpS2DT5kQ3ZJSz8).
+[here](https://forms.gle/4jZjqRD8Zf44h3UC7).
 
-**Application deadline:** Applications are due on **February 1, 2025**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
+**Application deadline:** Applications are due on **Monday, December 22, 2025**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
 
 **Contact information:** For any questions, please contact
-[Michael Furlong](mailto:michael.furlong@uwaterloo.ca).
+[Madeleine Bartlett](mailto:madeleine.bartlett@uwaterloo.ca)
+[Kathryn Simone](mailto:kpsimone@uwaterloo.ca)
