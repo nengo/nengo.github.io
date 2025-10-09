@@ -49,7 +49,7 @@ the summer school!
 ### todo: change the link here!
 <iframe width="100%"
     height="400"
-    src="https://www.youtube.com/embed/nFYTqieEnSY"
+    src="https://youtu.be/hHwIryt053M"
     frameborder="0"
     allowfullscreen
 ></iframe>
@@ -97,9 +97,8 @@ date.
 **Location:** University of Waterloo, Ontario, Canada
 ([map](http://goo.gl/Sa074A))
 
-### todo -- double-checking on this
 **Cost:** A registration fee is required of all
-participants (USD $550 for academic participants; USD $1000 for
+participants (USD $800 for academic participants; USD $1600 for
 industry participants).
 
 This fee includes the cost of breakfast, lunch, and snacks during
