@@ -46,7 +46,6 @@ Many of the concepts to be covered are in
 Watch the videos below for a quick look at previous versions of
 the summer school!
 
-### todo: change the link here!
 <iframe width="100%"
     height="400"
     src="https://youtu.be/hHwIryt053M"
