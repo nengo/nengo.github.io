@@ -48,7 +48,7 @@ the summer school!
 
 <iframe width="100%"
     height="400"
-    src="https://www.youtube.com/embed/hHwIryt053M?si=_1TDG3NmlvIW3R4F"
+    src="https://www.youtube.com/embed/hHwIryt053M"
     frameborder="0"
     allowfullscreen
 ></iframe>
