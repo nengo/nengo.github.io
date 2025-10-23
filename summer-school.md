@@ -47,7 +47,7 @@ Watch the video below for a quick look at last year's summer school!
 
 <iframe width="100%"
     height="400"
-    src="https://youtu.be/hHwIryt053M"
+    src="https://www.youtube.com/embed/hHwIryt053M"
     frameborder="0"
     allowfullscreen
 ></iframe>
