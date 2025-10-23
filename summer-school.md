@@ -37,14 +37,13 @@ training in the use of modelling software is required, but we
 encourage applications from active researchers with a relevant
 background in psychology, neuroscience, cognitive science,
 computer science, robotics, neuromorphic engineering, or a related
-field. More information about Nengo, the Neural Engineering
-Framework, and Spaun can be found at
+field. More information about Nengo, the [Neural Engineering
+Framework](https://compneuro.uwaterloo.ca/files/Eliasmith.Anderson.2003.Neural.Engineering.Full.Book.pdf), and [Spaun](http://compneuro.uwaterloo.ca/files/publications/eliasmith.2012.pdf) can be found at
 <https://www.nengo.ai/>.
-Many of the concepts to be covered are in
-[this book](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545).
+Many of the concepts to be covered are in this book:
+[How to Build A Brain](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545).
 
-Watch the videos below for a quick look at previous versions of
-the summer school!
+Watch the video below for a quick look at last year's summer school!
 
 <iframe width="100%"
     height="400"
@@ -53,6 +52,10 @@ the summer school!
     allowfullscreen
 ></iframe>
 
+Previous Years: 
+[2024](https://youtu.be/nFYTqieEnSY?si=WLoc7LCbM-YJhm2x)
+[2023](https://youtu.be/vRcN5-0wdQE?si=2l3idGa2_eKGuJ-B)
+[2014-2019](https://youtube.com/playlist?list=PLYLu6sY3jnoVgeFX4GMFaECP_y1aAKxHE&si=eS8b8-orZRusMjM_)
 
 **Purpose:** The main goal of the summer school is to
 have participants learn to build state-of-the-art neural or
@@ -82,7 +85,7 @@ to:
 - and much more ...
 
 **Format:** The first few days of the summer school
-will be be devoted to in-depth tutorials on using Nengo for neural
+will be devoted to in-depth tutorials on using Nengo for neural
 and cognitive modelling. The rest of summer school will be devoted
 primarily to project work, with a variety of faculty guest
 lectures and optional tutorials scheduled throughout. A project
@@ -96,9 +99,7 @@ date.
 **Location:** University of Waterloo, Ontario, Canada
 ([map](http://goo.gl/Sa074A))
 
-**Cost:** A registration fee is required of all
-participants (USD $800 for academic participants; USD $1600 for
-industry participants).
+**Cost:** All participants are required to pay a registration fee. The fee is $800 CAD (approx. $570 USD) for academic participants and $1600 CAD (approx. $1140 USD) for industry participants. Note that the approximate USD equivalents are subject to change, and applicable taxes will be added at checkout. We reserve the right to adjust these fees prior to the registration deadline (early March 2026) to account for unforeseen circumstances.
 
 This fee includes the cost of breakfast, lunch, and snacks during
 each weekday of the school, along with a summer school T-shirt!
@@ -120,16 +121,16 @@ made available to all confirmed participants. The summer school rates
 for these accommodations will be announced at a later date.
 
 **Applications:**
-To apply, you will need to submit a CV and a brief proposal for a
+To apply, you will need to submit a CV and a 2-page proposal for a
 project. At the summer school you’ll be able to make use of neuromorphic
 hardware, event-based vision sensors, simple humanoid and non-humanoid robotic
 devices, and a variety of large-scale cognitive modelling techniques. If
 applicable, please briefly indicate how you might leverage this infrastructure
-in your project. The application form is available
+in your project, or what specialized infrastructure you might bring. The application form is available
 [here](https://forms.gle/4jZjqRD8Zf44h3UC7).
 
 **Application deadline:** Applications are due on **Monday, December 22, 2025**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
 
-**Contact information:** For any questions, please contact
-[Madeleine Bartlett](mailto:madeleine.bartlett@uwaterloo.ca)
+**Contact information:** For any questions, please contact: 
+[Madeleine Bartlett](mailto:madeleine.bartlett@uwaterloo.ca) or
 [Kathryn Simone](mailto:kpsimone@uwaterloo.ca)
