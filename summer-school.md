@@ -132,7 +132,7 @@ in your project, or what specialized infrastructure you might bring. The applica
 - Want some inspiration? Examples of previous proposals may be found [here](https://drive.google.com/drive/folders/1YdT9mbNWat6IgnLNhuCwj5e8XLFdtP0s?usp=drive_link).
 - Curious to learn more? We'll also be hosting a drop-in information session (virtual) Friday, December 12, 2025 at 2PM EST. Register for that [here](https://uwaterloo.zoom.us/meeting/register/hsju86TQQJ6oZLS0_HqJvg) 
 
-**Application deadline:** Applications are due on **Monday, December 22, 2025**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
+**Application deadline:** Applications are due on **Thursday, January 15, 2025**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
 
 **Contact information:** For any questions, please contact: 
 [Madeleine Bartlett](mailto:madeleine.bartlett@uwaterloo.ca) or
