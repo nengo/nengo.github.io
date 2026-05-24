@@ -81,8 +81,8 @@ pageTitle: Nengo Examples
                 </div>
                 <div class="card-body bg-white">
                   <img class="mb-3" src="{{ site.baseurl}}/img/examples-community.png">
-                  <p>Explore examples and tutorials shared on the Nengo community forums and, when you're ready, share your own!</p>
-                  <a class="btn btn-primary btn-block" href="https://forum.nengo.ai/c/examples-tutorials/8">Visit the forum</a>
+                  <p>Explore examples and tutorials shared through NengoZoo discussions and, when you're ready, share your own!</p>
+                  <a class="btn btn-primary btn-block" href="https://github.com/nengo/nengo-zoo/discussions/categories/examples-tutorials">Visit the discussions</a>
                 </div>
               </div>
             </div>

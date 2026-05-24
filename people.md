@@ -11,7 +11,7 @@ has made a contribution!
 The alphabetically sorted list below includes everyone who has
 contributed to a Nengo-managed project; not everyone on this list
 is still active. If you want to contact someone about a Nengo project,
-please [post on the forum](https://forum.nengo.ai/),
+please [post through NengoZoo discussions](https://github.com/nengo/nengo-zoo/discussions),
 which is actively monitored by current Nengo developers.
 
 By adding your name to this file, you are agreeing to the

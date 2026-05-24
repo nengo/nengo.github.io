@@ -20,8 +20,7 @@ The list below is by no means exhaustive.
 There are several ways to share your Nengo creations with the community.
 The quickest way is to make a post on the forum.
 
-1. Head to [the examples category of the forum](
-   https://forum.nengo.ai/c/examples-tutorials).
+1. Head to [the examples category of NengoZoo discussions](https://github.com/nengo/nengo-zoo/discussions/categories/examples-tutorials).
 2. If you don't yet have an account, click the "Sign Up" button at the
    top-right of the page.
 3. Click on the "New Topic" button at the top-right.

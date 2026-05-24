@@ -6,7 +6,7 @@ It's generated with the [Jekyll](http://jekyllrb.com/)
 static website generator.
 
 Questions and comments about the content on this website
-can be posted on the [Nengo forum](https://forum.nengo.ai/).
+can be posted through [NengoZoo discussions](https://github.com/nengo/nengo-zoo/discussions).
 
 Github will build this website on each push.
 If you want to build the site locally,
