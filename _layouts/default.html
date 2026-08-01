@@ -2,36 +2,6 @@
 <html lang="en">
 
 <head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GT8XEDLTMJ"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-GT8XEDLTMJ');
-  </script>
-  <!-- End Google tag (gtag.js) -->
-
-  <!-- Matomo -->
-  <script>
-    var _paq = window._paq = window._paq || [];
-    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-    _paq.push(["setCookieDomain", "*.appliedbrainresearch.com"]);
-    _paq.push(["setDomains", ["*.appliedbrainresearch.com", "*.edge.nengo.ai", "*.forum.nengo.ai", "*.nengo.ai"]]);
-    _paq.push(["enableCrossDomainLinking"]);
-    _paq.push(["setDoNotTrack", true]);
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function () {
-      var u = "https://appliedbrainresearch.matomo.cloud/";
-      _paq.push(['setTrackerUrl', u + 'matomo.php']);
-      _paq.push(['setSiteId', '3']);
-      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
-      g.async = true; g.src = '//cdn.matomo.cloud/appliedbrainresearch.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g, s);
-    })();
-  </script>
-  <!-- End Matomo Code -->
-
   <!-- prettier-ignore -->
   {% for js in page.extrajs %}
   <script src="{{ js }}"></script>
@@ -145,7 +115,6 @@
       <a href="{{ site.baseurl }}{% link examples.md %}">Examples</a>
       <a href="{{ site.baseurl }}{% link documentation.html %}">Documentation</a>
       <a href="{{ site.baseurl }}{% link getting-started.md %}">Getting started</a>
-      <a href="{{ site.baseurl }}{% link privacy.md %}">Privacy</a>
     </p>
     <p class="small text-center pb-0 mb-0">&copy; Applied Brain Research</p>
   </footer>
