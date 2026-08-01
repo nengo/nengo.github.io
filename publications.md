@@ -104,6 +104,11 @@ Ororbia (2019) Spiking Neural Predictive Coding for Continual
 Learning from Data Streams. *arXiv* 1908.08655.
 [PDF](https://arxiv.org/pdf/1908.08655)
 
+Penzkofer, Habashy, Eliasmith, and Bulling (2025)
+SSPictR: A Biologically-plausible Image Representation
+*ECAI Workshop on Artificial Intelligence and Cognition (AIC)* pp. 1-13.
+[PDF](https://collaborative-ai.org/publications/penzkofer25_aic/)
+
 ## Popular press
 
 Below are some of the popular press articles that reference Nengo.
