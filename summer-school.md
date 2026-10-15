@@ -6,20 +6,21 @@ title: Nengo Summer School
 footerClasses: gradient-bottom
 ---
 
-## 2026
-
+## 2027
+[todo:]#(swap out for the best-fitting image of the poster)
 [<img alt="Nengo summer school"
 src="{{ site.baseurl }}/img/summerschool-campus.png"
 style="width: 100%;"/>]({{ site.baseurl }}/img/summerschool-campus.png)
 
 The Centre for Theoretical Neuroscience at the University of
-Waterloo is excited to announce our 11th annual Nengo summer school
+Waterloo is excited to announce our 12th annual Nengo summer school
 on large-scale brain modelling and neuromorphic computing. As a
 recurring special feature of the school, participants will be given
 on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip
 [Braindrop](https://web.stanford.edu/group/brainsinsilicon/),
 the [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/) chip, and a
 variety of [FPGAs](https://www.nengo.ai/nengo-fpga/).
+[todo:]#(question for Maddy: Can we deliver access to each of these? Question for Jake and/or Chris, are there any new ones we would expect to be able to provide for 2027?)
 
 In addition to teaching participants to run applications on neuromorphic
 hardware using the Nengo simulation package, this two-week school will
@@ -44,6 +45,7 @@ Many of the concepts to be covered are in this book:
 [How to Build A Brain](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545).
 
 Watch the video below for a quick look at last year's summer school!
+[todo:]#(find the 2026 video from Karim or linked already on YouTube)
 
 <iframe width="100%"
     height="400"
@@ -53,6 +55,7 @@ Watch the video below for a quick look at last year's summer school!
 ></iframe>
 
 Previous Years: 
+[todo:]#(get the non-embeddable link for the 2025 video and insert it here)
 [2024](https://youtu.be/nFYTqieEnSY?si=WLoc7LCbM-YJhm2x)
 [2023](https://youtu.be/vRcN5-0wdQE?si=2l3idGa2_eKGuJ-B)
 [2014-2019](https://youtube.com/playlist?list=PLYLu6sY3jnoVgeFX4GMFaECP_y1aAKxHE&si=eS8b8-orZRusMjM_)
@@ -78,7 +81,7 @@ to:
 - build perceptual, motor, and cognitive models with spiking neurons
 - simulate large-scale models at a variety of levels of detail concurrently
 - build models that account for anatomical and electrophysiological data
-- build models that account for  cognitive and behavioural data with a detailed neural model
+- build models that account for cognitive and behavioural data with a detailed neural model
 - use a variety of single cell models within a large-scale model
 - use your favorite simulator, e.g. NEST, Brian, Neuron and/or Machine Learning Libraries e.g. PyTorch, TensorFlow, Keras.
 - implement modern non-linear control methods in a neural model
@@ -87,19 +90,22 @@ to:
 **Format:** The first few days of the summer school
 will be devoted to in-depth tutorials on using Nengo for neural
 and cognitive modelling. The rest of summer school will be devoted
-primarily to project work, with a variety of faculty guest
-lectures and optional tutorials scheduled throughout. A project
+primarily to project work, with optional tutorials and guest lectures 
+from faculty scheduled throughout. A project
 demonstration and evening banquet will be held on the last day,
 with a variety of prizes for strong projects! The complete
 schedule and list of guest lecturers will be announced at a later
 date.
 
-**Dates:** May 31st - June 12th, 2026
+**Dates:** Sunday, May 30th - Saturday, June 12th, 2027
 
 **Location:** University of Waterloo, Ontario, Canada
 ([map](http://goo.gl/Sa074A))
 
 **Cost:** All participants are required to pay a registration fee. The fee is $800 CAD (approx. $570 USD) for academic participants and $1600 CAD (approx. $1140 USD) for industry participants. Note that the approximate USD equivalents are subject to change, and applicable taxes will be added at checkout. We reserve the right to adjust these fees prior to the registration deadline (early March 2026) to account for unforeseen circumstances.
+
+New for 2027: Participants may apply to volunteer to serve the Nengo development community in Spring 2027, which will grant a 20% discount on the registration fee. Prospective attendees interested in this option must indicate so through the application form. These opportunities will be granted based on need and announced alongside acceptance decisions.
+[todo:]#(confirm OK with stakeholders, particularly Terry for the structure of the volunteering option and Chris for the financial piece)
 
 This fee includes the cost of breakfast, lunch, and snacks during
 each weekday of the school, along with a summer school T-shirt!
@@ -130,9 +136,16 @@ in your project, or what specialized infrastructure you might bring. The applica
 [here](https://forms.gle/4jZjqRD8Zf44h3UC7).
 
 - Want some inspiration? Examples of previous proposals may be found [here](https://drive.google.com/drive/folders/1YdT9mbNWat6IgnLNhuCwj5e8XLFdtP0s?usp=drive_link).
-- Curious to learn more? We'll also be hosting a drop-in information session (virtual) Friday, December 12, 2025 at 2PM EST. Register for that [here](https://uwaterloo.zoom.us/meeting/register/hsju86TQQJ6oZLS0_HqJvg) 
+[todo:]#(flag the decision not to advertise this explicitly)
+[todo:]#(include a link to sign-up to get updates)
 
-**Application deadline:** Applications are due on **Thursday, January 15, 2025**, [anywhere on Earth](https://time.is/Anywhere_on_Earth).
+**Timeline:** 
+Applications open: **Friday, October 23, 2026**
+Applications close: **Monday, December 21, 2026**, [anywhere on Earth](https://time.is/Anywhere_on_Earth)
+Decisions announced: **February 1, 2027**
+Registration fee due: **March 1, 2027**
+[todo:] ask Maddy if it would be helpful to adhere to and/or expose a separate confirmation payment date for waitlisted participants
+[todo:] flag the expanded timeline, in alignment with how most other conferences do this
 
 **Contact information:** For any questions, please contact: 
 [Madeleine Bartlett](mailto:madeleine.bartlett@uwaterloo.ca) or
