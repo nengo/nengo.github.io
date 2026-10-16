@@ -18,9 +18,9 @@ on large-scale brain modelling and neuromorphic computing. As a
 recurring special feature of the school, participants will be given
 on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip
 [Braindrop](https://web.stanford.edu/group/brainsinsilicon/),
-the [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/) chip, and a
-variety of [FPGAs](https://www.nengo.ai/nengo-fpga/).
-[todo:]#(question for Maddy: Can we deliver access to each of these? Question for Jake and/or Chris, are there any new ones we would expect to be able to provide for 2027?)
+the [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/) chip, a
+variety of [FPGAs](https://www.nengo.ai/nengo-fpga/), as well as robots and event cameras.
+[todo:]#(Question for Jake and/or Chris, are there any new ones we would expect to/want be able to provide for 2027, e.g. SpinNaker 2 or whatever the big rack project is?)
 
 In addition to teaching participants to run applications on neuromorphic
 hardware using the Nengo simulation package, this two-week school will
@@ -105,7 +105,7 @@ date.
 **Cost:** All participants are required to pay a registration fee. The fee is $800 CAD (approx. $570 USD) for academic participants and $1600 CAD (approx. $1140 USD) for industry participants. Note that the approximate USD equivalents are subject to change, and applicable taxes will be added at checkout. We reserve the right to adjust these fees prior to the registration deadline (early March 2026) to account for unforeseen circumstances.
 
 New for 2027: Participants may apply to volunteer to serve the Nengo development community in Spring 2027, which will grant a 20% discount on the registration fee. Prospective attendees interested in this option must indicate so through the application form. These opportunities will be granted based on need and announced alongside acceptance decisions.
-[todo:]#(confirm OK with stakeholders, particularly Terry for the structure of the volunteering option and Chris for the financial piece)
+[todo:]#(confirm OK with stakeholders, particularly Terry for the structure: What we are thinking is that there would be one volunteer who would act as a reviewer for open PRs and coordination w/ Terry for merging into main. This role would enable them to be useful without deep conceptual knowledge of the NEF or even the nengo architecture, which they would pick up later at the school itself. Chris would need to be consulted for the financial piece.)
 
 This fee includes the cost of breakfast, lunch, and snacks during
 each weekday of the school, along with a summer school T-shirt!
@@ -134,17 +134,17 @@ devices, and a variety of large-scale cognitive modelling techniques. If
 applicable, please briefly indicate how you might leverage this infrastructure
 in your project, or what specialized infrastructure you might bring. The application form is available
 [here](https://forms.gle/4jZjqRD8Zf44h3UC7).
+[todo:]#(update the form)
 
 - Want some inspiration? Examples of previous proposals may be found [here](https://drive.google.com/drive/folders/1YdT9mbNWat6IgnLNhuCwj5e8XLFdtP0s?usp=drive_link).
-[todo:]#(flag the decision not to advertise this explicitly)
-[todo:]#(include a link to sign-up to get updates)
+[todo:]#(kathryn will flag the decision not to advertise this explicitly)
+[todo:]#(maddy will include a link to sign-up to get updates)
 
 **Timeline:** 
 Applications open: **Friday, October 23, 2026**
 Applications close: **Monday, December 21, 2026**, [anywhere on Earth](https://time.is/Anywhere_on_Earth)
 Decisions announced: **February 1, 2027**
 Registration fee due: **March 1, 2027**
-[todo:] ask Maddy if it would be helpful to adhere to and/or expose a separate confirmation payment date for waitlisted participants
 [todo:] flag the expanded timeline, in alignment with how most other conferences do this
 
 **Contact information:** For any questions, please contact: 
