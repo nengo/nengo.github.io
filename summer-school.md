@@ -7,7 +7,6 @@ footerClasses: gradient-bottom
 ---
 
 ## 2027
-[todo:]#(swap out for the best-fitting image of the poster)
 [<img alt="Nengo summer school"
 src="{{ site.baseurl }}/img/DigitalBanner.png"
 style="width: 100%;"/>]({{ site.baseurl }}/img/DigitalBanner.png)
@@ -20,7 +19,6 @@ on-site access to neuromorphic hardware, including Stanford’s mixed digital/an
 [Braindrop](https://web.stanford.edu/group/brainsinsilicon/),
 the [SpiNNaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/) chip, a
 variety of [FPGAs](https://www.nengo.ai/nengo-fpga/), as well as robots and event cameras.
-[todo:]#(Question for Jake and/or Chris, are there any new ones we would expect to/want be able to provide for 2027, e.g. SpinNaker 2 or whatever the big rack project is?)
 
 In addition to teaching participants to run applications on neuromorphic
 hardware using the Nengo simulation package, this two-week school will
@@ -45,7 +43,6 @@ Many of the concepts to be covered are in this book:
 [How to Build A Brain](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0199794545).
 
 Watch the video below for a quick look at last year's summer school!
-[todo:]#(find the 2026 video from Karim or linked already on YouTube)
 
 <iframe width="100%"
     height="400"
@@ -55,7 +52,6 @@ Watch the video below for a quick look at last year's summer school!
 ></iframe>
 
 Previous Years: 
-[2025](https://youtu.be/hHwIryt053M?si=Ldh1_QjcOj24dg0_)
 [2024](https://youtu.be/nFYTqieEnSY?si=WLoc7LCbM-YJhm2x)
 [2023](https://youtu.be/vRcN5-0wdQE?si=2l3idGa2_eKGuJ-B)
 [2014-2019](https://youtube.com/playlist?list=PLYLu6sY3jnoVgeFX4GMFaECP_y1aAKxHE&si=eS8b8-orZRusMjM_)
@@ -103,9 +99,6 @@ date.
 ([map](http://goo.gl/Sa074A))
 
 **Cost:** All participants are required to pay a registration fee. The fee is $800 CAD (approx. $570 USD) for academic participants and $1600 CAD (approx. $1140 USD) for industry participants. Note that the approximate USD equivalents are subject to change, and applicable taxes will be added at checkout. We reserve the right to adjust these fees prior to the registration deadline (early March 2026) to account for unforeseen circumstances.
-
-New for 2027: Participants may apply to volunteer to serve the Nengo development community in Spring 2027, which will grant a 20% discount on the registration fee. Prospective attendees interested in this option must indicate so through the application form. These opportunities will be granted based on need and announced alongside acceptance decisions.
-[todo:]#(confirm OK with stakeholders, particularly Terry for the structure: What we are thinking is that there would be one volunteer who would act as a reviewer for open PRs and coordination w/ Terry for merging into main. This role would enable them to be useful without deep conceptual knowledge of the NEF or even the nengo architecture, which they would pick up later at the school itself. Chris would need to be consulted for the financial piece.)
 
 This fee includes the cost of breakfast, lunch, and snacks during
 each weekday of the school, along with a summer school T-shirt!
