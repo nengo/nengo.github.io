@@ -9,8 +9,8 @@ footerClasses: gradient-bottom
 ## 2027
 [todo:]#(swap out for the best-fitting image of the poster)
 [<img alt="Nengo summer school"
-src="{{ site.baseurl }}/img/summerschool-campus.png"
-style="width: 100%;"/>]({{ site.baseurl }}/img/summerschool-campus.png)
+src="{{ site.baseurl }}/img/DigitalBanner.png"
+style="width: 100%;"/>]({{ site.baseurl }}/img/DigitalBanner.png)
 
 The Centre for Theoretical Neuroscience at the University of
 Waterloo is excited to announce our 12th annual Nengo summer school
