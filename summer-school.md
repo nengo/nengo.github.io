@@ -55,7 +55,7 @@ Watch the video below for a quick look at last year's summer school!
 ></iframe>
 
 Previous Years: 
-[todo:]#(get the non-embeddable link for the 2025 video and insert it here)
+[2025](https://youtu.be/hHwIryt053M?si=Ldh1_QjcOj24dg0_)
 [2024](https://youtu.be/nFYTqieEnSY?si=WLoc7LCbM-YJhm2x)
 [2023](https://youtu.be/vRcN5-0wdQE?si=2l3idGa2_eKGuJ-B)
 [2014-2019](https://youtube.com/playlist?list=PLYLu6sY3jnoVgeFX4GMFaECP_y1aAKxHE&si=eS8b8-orZRusMjM_)
@@ -133,19 +133,17 @@ hardware, event-based vision sensors, simple humanoid and non-humanoid robotic
 devices, and a variety of large-scale cognitive modelling techniques. If
 applicable, please briefly indicate how you might leverage this infrastructure
 in your project, or what specialized infrastructure you might bring. The application form is available
-[here](https://forms.gle/4jZjqRD8Zf44h3UC7).
-[todo:]#(update the form)
+[here](https://forms.gle/YpNuAWntCBKDnQHh8).
 
 - Want some inspiration? Examples of previous proposals may be found [here](https://drive.google.com/drive/folders/1YdT9mbNWat6IgnLNhuCwj5e8XLFdtP0s?usp=drive_link).
-[todo:]#(kathryn will flag the decision not to advertise this explicitly)
-[todo:]#(maddy will include a link to sign-up to get updates)
+
+- Get updates on the Summer School 2027: [Sign up for the mailing list](https://forms.gle/6E764ruc6Hsvq8mA6)
 
 **Timeline:** 
 Applications open: **Friday, October 23, 2026**
 Applications close: **Monday, December 21, 2026**, [anywhere on Earth](https://time.is/Anywhere_on_Earth)
 Decisions announced: **February 1, 2027**
 Registration fee due: **March 1, 2027**
-[todo:] flag the expanded timeline, in alignment with how most other conferences do this
 
 **Contact information:** For any questions, please contact: 
 [Madeleine Bartlett](mailto:madeleine.bartlett@uwaterloo.ca) or
